@@ -1,0 +1,2485 @@
+#EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1-综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1-综合.png",CCTV1-综合
+http://125.43.252.197:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1-综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1-综合.png",CCTV1-综合
+http://218.28.31.182:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1-综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1-综合.png",CCTV1-综合
+http://221.13.232.61:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1-综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1-综合.png",CCTV1-综合
+http://221.13.233.84:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2-财经" tvg-logo="https://epg.112114.xyz/logo/CCTV2-财经.png",CCTV2-财经
+http://125.43.252.197:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2-财经" tvg-logo="https://epg.112114.xyz/logo/CCTV2-财经.png",CCTV2-财经
+http://218.28.31.182:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2-财经" tvg-logo="https://epg.112114.xyz/logo/CCTV2-财经.png",CCTV2-财经
+http://221.13.232.61:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2-财经" tvg-logo="https://epg.112114.xyz/logo/CCTV2-财经.png",CCTV2-财经
+http://221.13.233.84:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3-综艺" tvg-logo="https://epg.112114.xyz/logo/CCTV3-综艺.png",CCTV3-综艺
+http://125.43.252.197:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3-综艺" tvg-logo="https://epg.112114.xyz/logo/CCTV3-综艺.png",CCTV3-综艺
+http://218.28.31.182:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3-综艺" tvg-logo="https://epg.112114.xyz/logo/CCTV3-综艺.png",CCTV3-综艺
+http://221.13.232.61:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3-综艺" tvg-logo="https://epg.112114.xyz/logo/CCTV3-综艺.png",CCTV3-综艺
+http://221.13.233.84:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4-国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4-国际.png",CCTV4-国际
+http://125.43.252.197:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4-国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4-国际.png",CCTV4-国际
+http://218.28.31.182:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4-国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4-国际.png",CCTV4-国际
+http://221.13.232.61:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4-国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4-国际.png",CCTV4-国际
+http://221.13.233.84:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5-体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5-体育.png",CCTV5-体育
+http://125.43.252.197:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5-体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5-体育.png",CCTV5-体育
+http://218.28.31.182:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5-体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5-体育.png",CCTV5-体育
+http://221.13.232.61:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5-体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5-体育.png",CCTV5-体育
+http://221.13.233.84:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+-体育赛事" tvg-logo="https://epg.112114.xyz/logo/CCTV5+-体育赛事.png",CCTV5+-体育赛事
+http://218.28.31.182:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6-电影" tvg-logo="https://epg.112114.xyz/logo/CCTV6-电影.png",CCTV6-电影
+http://125.43.252.197:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6-电影" tvg-logo="https://epg.112114.xyz/logo/CCTV6-电影.png",CCTV6-电影
+http://218.28.31.182:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6-电影" tvg-logo="https://epg.112114.xyz/logo/CCTV6-电影.png",CCTV6-电影
+http://221.13.232.61:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6-电影" tvg-logo="https://epg.112114.xyz/logo/CCTV6-电影.png",CCTV6-电影
+http://221.13.233.84:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7-军农" tvg-logo="https://epg.112114.xyz/logo/CCTV7-军农.png",CCTV7-军农
+http://125.43.252.197:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7-军农" tvg-logo="https://epg.112114.xyz/logo/CCTV7-军农.png",CCTV7-军农
+http://218.28.31.182:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7-军农" tvg-logo="https://epg.112114.xyz/logo/CCTV7-军农.png",CCTV7-军农
+http://221.13.232.61:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7-军农" tvg-logo="https://epg.112114.xyz/logo/CCTV7-军农.png",CCTV7-军农
+http://221.13.233.84:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8-电视剧" tvg-logo="https://epg.112114.xyz/logo/CCTV8-电视剧.png",CCTV8-电视剧
+http://125.43.252.197:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8-电视剧" tvg-logo="https://epg.112114.xyz/logo/CCTV8-电视剧.png",CCTV8-电视剧
+http://218.28.31.182:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8-电视剧" tvg-logo="https://epg.112114.xyz/logo/CCTV8-电视剧.png",CCTV8-电视剧
+http://221.13.232.61:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8-电视剧" tvg-logo="https://epg.112114.xyz/logo/CCTV8-电视剧.png",CCTV8-电视剧
+http://221.13.233.84:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9-纪录" tvg-logo="https://epg.112114.xyz/logo/CCTV9-纪录.png",CCTV9-纪录
+http://125.43.252.197:9901/tsfile/live/0009_2.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9-纪录" tvg-logo="https://epg.112114.xyz/logo/CCTV9-纪录.png",CCTV9-纪录
+http://218.28.31.182:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9-纪录" tvg-logo="https://epg.112114.xyz/logo/CCTV9-纪录.png",CCTV9-纪录
+http://221.13.232.61:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9-纪录" tvg-logo="https://epg.112114.xyz/logo/CCTV9-纪录.png",CCTV9-纪录
+http://221.13.233.84:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10-科教" tvg-logo="https://epg.112114.xyz/logo/CCTV10-科教.png",CCTV10-科教
+http://125.43.252.197:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10-科教" tvg-logo="https://epg.112114.xyz/logo/CCTV10-科教.png",CCTV10-科教
+http://218.28.31.182:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10-科教" tvg-logo="https://epg.112114.xyz/logo/CCTV10-科教.png",CCTV10-科教
+http://221.13.232.61:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10-科教" tvg-logo="https://epg.112114.xyz/logo/CCTV10-科教.png",CCTV10-科教
+http://221.13.233.84:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11-戏曲" tvg-logo="https://epg.112114.xyz/logo/CCTV11-戏曲.png",CCTV11-戏曲
+http://125.43.252.197:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11-戏曲" tvg-logo="https://epg.112114.xyz/logo/CCTV11-戏曲.png",CCTV11-戏曲
+http://218.28.31.182:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11-戏曲" tvg-logo="https://epg.112114.xyz/logo/CCTV11-戏曲.png",CCTV11-戏曲
+http://221.13.232.61:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11-戏曲" tvg-logo="https://epg.112114.xyz/logo/CCTV11-戏曲.png",CCTV11-戏曲
+http://221.13.233.84:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12-社会与法" tvg-logo="https://epg.112114.xyz/logo/CCTV12-社会与法.png",CCTV12-社会与法
+http://125.43.252.197:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12-社会与法" tvg-logo="https://epg.112114.xyz/logo/CCTV12-社会与法.png",CCTV12-社会与法
+http://218.28.31.182:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12-社会与法" tvg-logo="https://epg.112114.xyz/logo/CCTV12-社会与法.png",CCTV12-社会与法
+http://221.13.232.61:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12-社会与法" tvg-logo="https://epg.112114.xyz/logo/CCTV12-社会与法.png",CCTV12-社会与法
+http://221.13.233.84:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13-新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV13-新闻.png",CCTV13-新闻
+http://125.43.252.197:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13-新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV13-新闻.png",CCTV13-新闻
+http://218.28.31.182:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13-新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV13-新闻.png",CCTV13-新闻
+http://221.13.232.61:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13-新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV13-新闻.png",CCTV13-新闻
+http://221.13.233.84:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14-少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV14-少儿.png",CCTV14-少儿
+http://125.43.252.197:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14-少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV14-少儿.png",CCTV14-少儿
+http://218.28.31.182:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14-少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV14-少儿.png",CCTV14-少儿
+http://221.13.232.61:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14-少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV14-少儿.png",CCTV14-少儿
+http://221.13.233.84:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15-音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV15-音乐.png",CCTV15-音乐
+http://125.43.252.197:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15-音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV15-音乐.png",CCTV15-音乐
+http://218.28.31.182:9901/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15-音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV15-音乐.png",CCTV15-音乐
+http://221.13.232.61:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15-音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV15-音乐.png",CCTV15-音乐
+http://221.13.233.84:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17-农业农村" tvg-logo="https://epg.112114.xyz/logo/CCTV17-农业农村.png",CCTV17-农业农村
+http://218.28.31.182:9901/tsfile/live/0018_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://125.43.252.197:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://218.28.31.182:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://221.13.232.61:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://125.43.252.197:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://218.28.31.182:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://221.13.232.61:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://125.43.252.197:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://218.28.31.182:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://221.13.232.61:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
+http://125.43.252.197:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
+http://218.28.31.182:9901/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
+http://221.13.232.61:9901/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+http://125.43.252.197:9901/tsfile/live/0107_2.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+http://218.28.31.182:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+http://221.13.232.61:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+http://125.43.252.197:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+http://218.28.31.182:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+http://221.13.232.61:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+http://125.43.252.197:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+http://218.28.31.182:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+http://218.28.31.182:9901/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://125.43.252.197:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://218.28.31.182:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
+http://218.28.31.182:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
+http://125.43.252.197:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
+http://218.28.31.182:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+http://125.43.252.197:9901/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+http://218.28.31.182:9901/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+http://125.43.252.197:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+http://218.28.31.182:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
+http://125.43.252.197:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
+http://218.28.31.182:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
+http://125.43.252.197:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
+http://218.28.31.182:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视
+http://125.43.252.197:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视
+http://218.28.31.182:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+http://125.43.252.197:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+http://218.28.31.182:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://125.43.252.197:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://218.28.31.182:9901/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://221.13.232.61:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://221.13.233.84:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://125.43.252.197:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://218.28.31.182:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
+http://125.43.252.197:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
+http://218.28.31.182:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",吉林卫视
+http://218.28.31.182:9901/tsfile/live/0116_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="山���卫视" tvg-logo="https://epg.112114.xyz/logo/山���卫视.png",山���卫视
+http://125.43.252.197:9901/tsfile/live/0118_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视
+http://125.43.252.197:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视
+http://218.28.31.182:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视
+http://125.43.252.197:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视
+http://218.28.31.182:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png",卡酷动画
+http://218.28.31.182:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png",卡酷动画
+http://221.13.233.84:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png",金鹰卡通
+http://125.43.252.197:9901/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png",金鹰卡通
+http://221.13.232.61:9901/tsfile/live/1017_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png",金鹰卡通
+http://221.13.233.84:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="教育频道" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png",CGTN
+http://218.28.31.182:9901/tsfile/live/0017_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png",河南都市
+http://125.43.252.197:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png",河南都市
+http://221.13.232.61:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南民生" tvg-logo="https://epg.112114.xyz/logo/河南民生.png",河南民生
+http://125.43.252.197:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南民生" tvg-logo="https://epg.112114.xyz/logo/河南民生.png",河南民生
+http://221.13.232.61:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南电视剧" tvg-logo="https://epg.112114.xyz/logo/河南电视剧.png",河南电视剧
+http://221.13.232.61:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南新闻" tvg-logo="https://epg.112114.xyz/logo/河南新闻.png",河南新闻
+http://221.13.232.61:9901/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南公共" tvg-logo="https://epg.112114.xyz/logo/河南公共.png",河南公共
+http://221.13.232.61:9901/tsfile/live/1012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png",河南戏曲
+http://221.13.233.84:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="乡村频道" tvg-logo="https://epg.112114.xyz/logo/乡村频道.png",乡村频道
+http://218.28.31.182:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="公共频道" tvg-logo="https://epg.112114.xyz/logo/公共频道.png",公共频道
+http://218.28.31.182:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="公共频道" tvg-logo="https://epg.112114.xyz/logo/公共频道.png",公共频道
+http://221.13.233.84:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="北京卡通" tvg-logo="https://epg.112114.xyz/logo/北京卡通.png",北京卡通
+http://221.13.232.61:9901/tsfile/live/1013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="安阳新闻综合" tvg-logo="https://epg.112114.xyz/logo/安阳新闻综合.png",安阳新闻综合
+http://221.13.232.61:9901/tsfile/live/1014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="山东卫生" tvg-logo="https://epg.112114.xyz/logo/山东卫生.png",山东卫生
+http://218.28.31.182:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="新闻频道" tvg-logo="https://epg.112114.xyz/logo/新闻频道.png",新闻频道
+http://218.28.31.182:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="新闻频道" tvg-logo="https://epg.112114.xyz/logo/新闻频道.png",新闻频道
+http://221.13.233.84:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="民生频道" tvg-logo="https://epg.112114.xyz/logo/民生频道.png",民生频道
+http://218.28.31.182:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="民生频道" tvg-logo="https://epg.112114.xyz/logo/民生频道.png",民生频道
+http://221.13.233.84:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="河南法制频道" tvg-logo="https://epg.112114.xyz/logo/河南法制频道.png",河南法制频道
+http://221.13.232.61:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="法治频道" tvg-logo="https://epg.112114.xyz/logo/法治频道.png",法治频道
+http://218.28.31.182:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="电视剧频道" tvg-logo="https://epg.112114.xyz/logo/电视剧频道.png",电视剧频道
+http://218.28.31.182:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="电视剧频道" tvg-logo="https://epg.112114.xyz/logo/电视剧频道.png",电视剧频道
+http://221.13.233.84:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="相声小品" tvg-logo="https://epg.112114.xyz/logo/相声小品.png",相声小品
+http://221.13.232.61:9901/tsfile/live/1016_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="都市频道" tvg-logo="https://epg.112114.xyz/logo/都市频道.png",都市频道
+http://218.28.31.182:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="都市频道" tvg-logo="https://epg.112114.xyz/logo/都市频道.png",都市频道
+http://221.13.233.84:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="魅力音乐" tvg-logo="https://epg.112114.xyz/logo/魅力音乐.png",魅力音乐
+http://125.43.252.197:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="一起看" tvg-name="武林萌主唐小姐" tvg-logo="https://epg.112114.xyz/logo/武林萌主唐小姐.png",武林萌主唐小姐
+https://live.ottiptv.cc/huya/11336726
+#EXTINF:-1 group-title="一起看" tvg-name="周星星" tvg-logo="https://epg.112114.xyz/logo/周星星.png",周星星
+https://live.ottiptv.cc/huya/11342412
+#EXTINF:-1 group-title="一起看" tvg-name="小木子先生丶" tvg-logo="https://epg.112114.xyz/logo/小木子先生丶.png",小木子先生丶
+https://live.ottiptv.cc/huya/11342396
+#EXTINF:-1 group-title="一起看" tvg-name="广播剧能听一天" tvg-logo="https://epg.112114.xyz/logo/广播剧能听一天.png",广播剧能听一天
+https://live.ottiptv.cc/huya/22129776
+#EXTINF:-1 group-title="一起看" tvg-name="全能改造王" tvg-logo="https://epg.112114.xyz/logo/全能改造王.png",全能改造王
+https://live.ottiptv.cc/huya/24609812
+#EXTINF:-1 group-title="一起看" tvg-name="档案事件簿" tvg-logo="https://epg.112114.xyz/logo/档案事件簿.png",档案事件簿
+https://live.ottiptv.cc/huya/20985834
+#EXTINF:-1 group-title="一起看" tvg-name="蛮多的功夫" tvg-logo="https://epg.112114.xyz/logo/蛮多的功夫.png",蛮多的功夫
+https://live.ottiptv.cc/huya/23740156
+#EXTINF:-1 group-title="一起看" tvg-name="鯎爺" tvg-logo="https://epg.112114.xyz/logo/鯎爺.png",鯎爺
+https://live.ottiptv.cc/huya/11352944
+#EXTINF:-1 group-title="一起看" tvg-name="精彩小雨幕" tvg-logo="https://epg.112114.xyz/logo/精彩小雨幕.png",精彩小雨幕
+https://live.ottiptv.cc/huya/30080148
+#EXTINF:-1 group-title="一起看" tvg-name="活泼有趣的熊猫" tvg-logo="https://epg.112114.xyz/logo/活泼有趣的熊猫.png",活泼有趣的熊猫
+https://live.ottiptv.cc/huya/29982632
+#EXTINF:-1 group-title="一起看" tvg-name="痞子帅叔叔" tvg-logo="https://epg.112114.xyz/logo/痞子帅叔叔.png",痞子帅叔叔
+https://live.ottiptv.cc/huya/11342433
+#EXTINF:-1 group-title="一起看" tvg-name="多美剧场" tvg-logo="https://epg.112114.xyz/logo/多美剧场.png",多美剧场
+https://live.ottiptv.cc/huya/23650774
+#EXTINF:-1 group-title="一起看" tvg-name="7喜先生" tvg-logo="https://epg.112114.xyz/logo/7喜先生.png",7喜先生
+https://live.ottiptv.cc/huya/11342421
+#EXTINF:-1 group-title="一起看" tvg-name="回去拿马卡报" tvg-logo="https://epg.112114.xyz/logo/回去拿马卡报.png",回去拿马卡报
+https://live.ottiptv.cc/huya/30080238
+#EXTINF:-1 group-title="一起看" tvg-name="海绵宝宝宝" tvg-logo="https://epg.112114.xyz/logo/海绵宝宝宝.png",海绵宝宝宝
+https://live.ottiptv.cc/huya/11352919
+#EXTINF:-1 group-title="一起看" tvg-name="瞬间爆炸" tvg-logo="https://epg.112114.xyz/logo/瞬间爆炸.png",瞬间爆炸
+https://live.ottiptv.cc/huya/11352960
+#EXTINF:-1 group-title="一起看" tvg-name="美少女咸儿" tvg-logo="https://epg.112114.xyz/logo/美少女咸儿.png",美少女咸儿
+https://live.ottiptv.cc/huya/11336572
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-QQFbPxwM1A" tvg-logo="https://epg.112114.xyz/logo/昵称违规-QQFbPxwM1A.png",昵称违规-QQFbPxwM1A
+https://live.ottiptv.cc/huya/11352958
+#EXTINF:-1 group-title="一起看" tvg-name="柯冉冉" tvg-logo="https://epg.112114.xyz/logo/柯冉冉.png",柯冉冉
+https://live.ottiptv.cc/huya/11352874
+#EXTINF:-1 group-title="一起看" tvg-name="四大裁子之首" tvg-logo="https://epg.112114.xyz/logo/四大裁子之首.png",四大裁子之首
+https://live.ottiptv.cc/huya/11602058
+#EXTINF:-1 group-title="一起看" tvg-name="我是詹密" tvg-logo="https://epg.112114.xyz/logo/我是詹密.png",我是詹密
+https://live.ottiptv.cc/huya/11342439
+#EXTINF:-1 group-title="一起看" tvg-name="野原的一家" tvg-logo="https://epg.112114.xyz/logo/野原的一家.png",野原的一家
+https://live.ottiptv.cc/huya/11352970
+#EXTINF:-1 group-title="一起看" tvg-name="红茶妹妹" tvg-logo="https://epg.112114.xyz/logo/红茶妹妹.png",红茶妹妹
+https://live.ottiptv.cc/huya/11336592
+#EXTINF:-1 group-title="一起看" tvg-name="No1常在心" tvg-logo="https://epg.112114.xyz/logo/No1常在心.png",No1常在心
+https://live.ottiptv.cc/huya/11342402
+#EXTINF:-1 group-title="一起看" tvg-name="鱼塘塘主张年年" tvg-logo="https://epg.112114.xyz/logo/鱼塘塘主张年年.png",鱼塘塘主张年年
+https://live.ottiptv.cc/huya/11342384
+#EXTINF:-1 group-title="一起看" tvg-name="宇宙摸魚人" tvg-logo="https://epg.112114.xyz/logo/宇宙摸魚人.png",宇宙摸魚人
+https://live.ottiptv.cc/huya/26355763
+#EXTINF:-1 group-title="一起看" tvg-name="會唱歌的小野貓" tvg-logo="https://epg.112114.xyz/logo/會唱歌的小野貓.png",會唱歌的小野貓
+https://live.ottiptv.cc/huya/11352871
+#EXTINF:-1 group-title="一起看" tvg-name="傻妞" tvg-logo="https://epg.112114.xyz/logo/傻妞.png",傻妞
+https://live.ottiptv.cc/huya/11342426
+#EXTINF:-1 group-title="一起看" tvg-name="领带哥" tvg-logo="https://epg.112114.xyz/logo/领带哥.png",领带哥
+https://live.ottiptv.cc/huya/11342430
+#EXTINF:-1 group-title="一起看" tvg-name="裸奔的蜗牛╮" tvg-logo="https://epg.112114.xyz/logo/裸奔的蜗牛╮.png",裸奔的蜗牛╮
+https://live.ottiptv.cc/huya/11342418
+#EXTINF:-1 group-title="一起看" tvg-name="超能力是放pi" tvg-logo="https://epg.112114.xyz/logo/超能力是放pi.png",超能力是放pi
+https://live.ottiptv.cc/huya/11352906
+#EXTINF:-1 group-title="一起看" tvg-name="种瓜得弟弟" tvg-logo="https://epg.112114.xyz/logo/种瓜得弟弟.png",种瓜得弟弟
+https://live.ottiptv.cc/huya/11352872
+#EXTINF:-1 group-title="一起看" tvg-name="彪哥的日常" tvg-logo="https://epg.112114.xyz/logo/彪哥的日常.png",彪哥的日常
+https://live.ottiptv.cc/huya/23650804
+#EXTINF:-1 group-title="一起看" tvg-name="水晶awa" tvg-logo="https://epg.112114.xyz/logo/水晶awa.png",水晶awa
+https://live.ottiptv.cc/huya/30080247
+#EXTINF:-1 group-title="一起看" tvg-name="球哥解说" tvg-logo="https://epg.112114.xyz/logo/球哥解说.png",球哥解说
+https://live.ottiptv.cc/huya/29465875
+#EXTINF:-1 group-title="一起看" tvg-name="白菘无人省" tvg-logo="https://epg.112114.xyz/logo/白菘无人省.png",白菘无人省
+https://live.ottiptv.cc/huya/26355864
+#EXTINF:-1 group-title="一起看" tvg-name="全优少年" tvg-logo="https://epg.112114.xyz/logo/全优少年.png",全优少年
+https://live.ottiptv.cc/huya/11602081
+#EXTINF:-1 group-title="一起看" tvg-name="虎牙八点档" tvg-logo="https://epg.112114.xyz/logo/虎牙八点档.png",虎牙八点档
+https://live.ottiptv.cc/huya/880261
+#EXTINF:-1 group-title="一起看" tvg-name="浮生没有若梦" tvg-logo="https://epg.112114.xyz/logo/浮生没有若梦.png",浮生没有若梦
+https://live.ottiptv.cc/huya/11601986
+#EXTINF:-1 group-title="一起看" tvg-name="偷心大盗ヽ龍宝" tvg-logo="https://epg.112114.xyz/logo/偷心大盗ヽ龍宝.png",偷心大盗ヽ龍宝
+https://live.ottiptv.cc/huya/11342386
+#EXTINF:-1 group-title="一起看" tvg-name="拓客说" tvg-logo="https://epg.112114.xyz/logo/拓客说.png",拓客说
+https://live.ottiptv.cc/huya/20969130
+#EXTINF:-1 group-title="一起看" tvg-name="大侠" tvg-logo="https://epg.112114.xyz/logo/大侠.png",大侠
+https://live.ottiptv.cc/huya/11602085
+#EXTINF:-1 group-title="一起看" tvg-name="港剧日记" tvg-logo="https://epg.112114.xyz/logo/港剧日记.png",港剧日记
+https://live.ottiptv.cc/huya/23903130
+#EXTINF:-1 group-title="一起看" tvg-name="大漠李白" tvg-logo="https://epg.112114.xyz/logo/大漠李白.png",大漠李白
+https://live.ottiptv.cc/huya/26355861
+#EXTINF:-1 group-title="一起看" tvg-name="四次元先生" tvg-logo="https://epg.112114.xyz/logo/四次元先生.png",四次元先生
+https://live.ottiptv.cc/huya/11602071
+#EXTINF:-1 group-title="一起看" tvg-name="里昂保护的玛蒂达" tvg-logo="https://epg.112114.xyz/logo/里昂保护的玛蒂达.png",里昂保护的玛蒂达
+https://live.ottiptv.cc/huya/21059594
+#EXTINF:-1 group-title="一起看" tvg-name="港剧推荐喵" tvg-logo="https://epg.112114.xyz/logo/港剧推荐喵.png",港剧推荐喵
+https://live.ottiptv.cc/huya/23902242
+#EXTINF:-1 group-title="一起看" tvg-name="Wang-我的女人" tvg-logo="https://epg.112114.xyz/logo/Wang-我的女人.png",Wang-我的女人
+https://live.ottiptv.cc/huya/11352940
+#EXTINF:-1 group-title="一起看" tvg-name="凌莲" tvg-logo="https://epg.112114.xyz/logo/凌莲.png",凌莲
+https://live.ottiptv.cc/huya/11602086
+#EXTINF:-1 group-title="一起看" tvg-name="兄台明鉴" tvg-logo="https://epg.112114.xyz/logo/兄台明鉴.png",兄台明鉴
+https://live.ottiptv.cc/huya/23482266
+#EXTINF:-1 group-title="一起看" tvg-name="我要在你头上暴扣" tvg-logo="https://epg.112114.xyz/logo/我要在你头上暴扣.png",我要在你头上暴扣
+https://live.ottiptv.cc/huya/19524135
+#EXTINF:-1 group-title="一起看" tvg-name="不发威当我Kitty" tvg-logo="https://epg.112114.xyz/logo/不发威当我Kitty.png",不发威当我Kitty
+https://live.ottiptv.cc/huya/11342403
+#EXTINF:-1 group-title="一起看" tvg-name="订阅我就发财" tvg-logo="https://epg.112114.xyz/logo/订阅我就发财.png",订阅我就发财
+https://live.ottiptv.cc/huya/29465863
+#EXTINF:-1 group-title="一起看" tvg-name="我爱黑科技" tvg-logo="https://epg.112114.xyz/logo/我爱黑科技.png",我爱黑科技
+https://live.ottiptv.cc/huya/11602068
+#EXTINF:-1 group-title="一起看" tvg-name="个人向" tvg-logo="https://epg.112114.xyz/logo/个人向.png",个人向
+https://live.ottiptv.cc/huya/11352963
+#EXTINF:-1 group-title="一起看" tvg-name="喜剧电影放映厅" tvg-logo="https://epg.112114.xyz/logo/喜剧电影放映厅.png",喜剧电影放映厅
+https://live.ottiptv.cc/huya/11602031
+#EXTINF:-1 group-title="一起看" tvg-name="傍晚猴" tvg-logo="https://epg.112114.xyz/logo/傍晚猴.png",傍晚猴
+https://live.ottiptv.cc/huya/30080236
+#EXTINF:-1 group-title="一起看" tvg-name="我们都爱笑" tvg-logo="https://epg.112114.xyz/logo/我们都爱笑.png",我们都爱笑
+https://live.ottiptv.cc/huya/11352882
+#EXTINF:-1 group-title="一起看" tvg-name="反方向的钟1874" tvg-logo="https://epg.112114.xyz/logo/反方向的钟1874.png",反方向的钟1874
+https://live.ottiptv.cc/huya/29465868
+#EXTINF:-1 group-title="一起看" tvg-name="Mr-傀儡" tvg-logo="https://epg.112114.xyz/logo/Mr-傀儡.png",Mr-傀儡
+https://live.ottiptv.cc/huya/11352936
+#EXTINF:-1 group-title="一起看" tvg-name="摄氏零度" tvg-logo="https://epg.112114.xyz/logo/摄氏零度.png",摄氏零度
+https://live.ottiptv.cc/huya/11602032
+#EXTINF:-1 group-title="一起看" tvg-name="虎牙影院" tvg-logo="https://epg.112114.xyz/logo/虎牙影院.png",虎牙影院
+https://live.ottiptv.cc/huya/11601968
+#EXTINF:-1 group-title="一起看" tvg-name="心疼得抱住胖胖的自己" tvg-logo="https://epg.112114.xyz/logo/心疼得抱住胖胖的自己.png",心疼得抱住胖胖的自己
+https://live.ottiptv.cc/huya/11342425
+#EXTINF:-1 group-title="一起看" tvg-name="沉睡在你心底的光" tvg-logo="https://epg.112114.xyz/logo/沉睡在你心底的光.png",沉睡在你心底的光
+https://live.ottiptv.cc/huya/20985816
+#EXTINF:-1 group-title="一起看" tvg-name="樹袋熊小九九" tvg-logo="https://epg.112114.xyz/logo/樹袋熊小九九.png",樹袋熊小九九
+https://live.ottiptv.cc/huya/11282233
+#EXTINF:-1 group-title="一起看" tvg-name="老司机" tvg-logo="https://epg.112114.xyz/logo/老司机.png",老司机
+https://live.ottiptv.cc/huya/11352946
+#EXTINF:-1 group-title="一起看" tvg-name="--娇妹" tvg-logo="https://epg.112114.xyz/logo/--娇妹.png",--娇妹
+https://live.ottiptv.cc/huya/11342404
+#EXTINF:-1 group-title="一起看" tvg-name="莫小辰" tvg-logo="https://epg.112114.xyz/logo/莫小辰.png",莫小辰
+https://live.ottiptv.cc/huya/11352916
+#EXTINF:-1 group-title="一起看" tvg-name="山东北路大喬" tvg-logo="https://epg.112114.xyz/logo/山东北路大喬.png",山东北路大喬
+https://live.ottiptv.cc/huya/26355860
+#EXTINF:-1 group-title="一起看" tvg-name="HelloKitty" tvg-logo="https://epg.112114.xyz/logo/HelloKitty.png",HelloKitty
+https://live.ottiptv.cc/huya/11352879
+#EXTINF:-1 group-title="一起看" tvg-name="电视迷痴迷港剧" tvg-logo="https://epg.112114.xyz/logo/电视迷痴迷港剧.png",电视迷痴迷港剧
+https://live.ottiptv.cc/huya/29465851
+#EXTINF:-1 group-title="一起看" tvg-name="春水盈盈细浪翻" tvg-logo="https://epg.112114.xyz/logo/春水盈盈细浪翻.png",春水盈盈细浪翻
+https://live.ottiptv.cc/huya/30080255
+#EXTINF:-1 group-title="一起看" tvg-name="老问我东西南北" tvg-logo="https://epg.112114.xyz/logo/老问我东西南北.png",老问我东西南北
+https://live.ottiptv.cc/huya/30080244
+#EXTINF:-1 group-title="一起看" tvg-name="地狱ヽ妖妖" tvg-logo="https://epg.112114.xyz/logo/地狱ヽ妖妖.png",地狱ヽ妖妖
+https://live.ottiptv.cc/huya/11352869
+#EXTINF:-1 group-title="一起看" tvg-name="春江花朝吹香夢" tvg-logo="https://epg.112114.xyz/logo/春江花朝吹香夢.png",春江花朝吹香夢
+https://live.ottiptv.cc/huya/26355791
+#EXTINF:-1 group-title="一起看" tvg-name="YJ-无语凝烟" tvg-logo="https://epg.112114.xyz/logo/YJ-无语凝烟.png",YJ-无语凝烟
+https://live.ottiptv.cc/huya/26355856
+#EXTINF:-1 group-title="一起看" tvg-name="尼古拉斯乔丹" tvg-logo="https://epg.112114.xyz/logo/尼古拉斯乔丹.png",尼古拉斯乔丹
+https://live.ottiptv.cc/huya/11352898
+#EXTINF:-1 group-title="一起看" tvg-name="小猪猪" tvg-logo="https://epg.112114.xyz/logo/小猪猪.png",小猪猪
+https://live.ottiptv.cc/huya/11342416
+#EXTINF:-1 group-title="一起看" tvg-name="鄉8佬" tvg-logo="https://epg.112114.xyz/logo/鄉8佬.png",鄉8佬
+https://live.ottiptv.cc/huya/11352920
+#EXTINF:-1 group-title="一起看" tvg-name="老王夸我帅" tvg-logo="https://epg.112114.xyz/logo/老王夸我帅.png",老王夸我帅
+https://live.ottiptv.cc/huya/11352964
+#EXTINF:-1 group-title="一起看" tvg-name="呆萌小岳岳" tvg-logo="https://epg.112114.xyz/logo/呆萌小岳岳.png",呆萌小岳岳
+https://live.ottiptv.cc/huya/11342398
+#EXTINF:-1 group-title="一起看" tvg-name="更有又相见" tvg-logo="https://epg.112114.xyz/logo/更有又相见.png",更有又相见
+https://live.ottiptv.cc/huya/29982636
+#EXTINF:-1 group-title="一起看" tvg-name="茱麗葉" tvg-logo="https://epg.112114.xyz/logo/茱麗葉.png",茱麗葉
+https://live.ottiptv.cc/huya/11602072
+#EXTINF:-1 group-title="一起看" tvg-name="二次元baby" tvg-logo="https://epg.112114.xyz/logo/二次元baby.png",二次元baby
+https://live.ottiptv.cc/huya/11601963
+#EXTINF:-1 group-title="一起看" tvg-name="如意菜头" tvg-logo="https://epg.112114.xyz/logo/如意菜头.png",如意菜头
+https://live.ottiptv.cc/huya/11352966
+#EXTINF:-1 group-title="一起看" tvg-name="Cc" tvg-logo="https://epg.112114.xyz/logo/Cc.png",Cc
+https://live.ottiptv.cc/huya/11601966
+#EXTINF:-1 group-title="一起看" tvg-name="好汉来也" tvg-logo="https://epg.112114.xyz/logo/好汉来也.png",好汉来也
+https://live.ottiptv.cc/huya/23652426
+#EXTINF:-1 group-title="一起看" tvg-name="江天大夫與" tvg-logo="https://epg.112114.xyz/logo/江天大夫與.png",江天大夫與
+https://live.ottiptv.cc/huya/26355857
+#EXTINF:-1 group-title="一起看" tvg-name="粉娘" tvg-logo="https://epg.112114.xyz/logo/粉娘.png",粉娘
+https://live.ottiptv.cc/huya/11601978
+#EXTINF:-1 group-title="一起看" tvg-name="实力拔萝卜" tvg-logo="https://epg.112114.xyz/logo/实力拔萝卜.png",实力拔萝卜
+https://live.ottiptv.cc/huya/11601960
+#EXTINF:-1 group-title="一起看" tvg-name="逗比宝宝" tvg-logo="https://epg.112114.xyz/logo/逗比宝宝.png",逗比宝宝
+https://live.ottiptv.cc/huya/11342427
+#EXTINF:-1 group-title="一起看" tvg-name="小雅陪你看" tvg-logo="https://epg.112114.xyz/logo/小雅陪你看.png",小雅陪你看
+https://live.ottiptv.cc/huya/30080225
+#EXTINF:-1 group-title="一起看" tvg-name="电视精彩连续剧" tvg-logo="https://epg.112114.xyz/logo/电视精彩连续剧.png",电视精彩连续剧
+https://live.ottiptv.cc/huya/29465848
+#EXTINF:-1 group-title="一起看" tvg-name="微凉不小行" tvg-logo="https://epg.112114.xyz/logo/微凉不小行.png",微凉不小行
+https://live.ottiptv.cc/huya/30080215
+#EXTINF:-1 group-title="一起看" tvg-name="港片剧情真好" tvg-logo="https://epg.112114.xyz/logo/港片剧情真好.png",港片剧情真好
+https://live.ottiptv.cc/huya/29465859
+#EXTINF:-1 group-title="一起看" tvg-name="动作大片放映厅" tvg-logo="https://epg.112114.xyz/logo/动作大片放映厅.png",动作大片放映厅
+https://live.ottiptv.cc/huya/10871113
+#EXTINF:-1 group-title="一起看" tvg-name="核桃姐姐" tvg-logo="https://epg.112114.xyz/logo/核桃姐姐.png",核桃姐姐
+https://live.ottiptv.cc/huya/11342390
+#EXTINF:-1 group-title="一起看" tvg-name="小虎牙-9zUJscDWkH" tvg-logo="https://epg.112114.xyz/logo/小虎牙-9zUJscDWkH.png",小虎牙-9zUJscDWkH
+https://live.ottiptv.cc/huya/30080146
+#EXTINF:-1 group-title="一起看" tvg-name="热心市民高先生" tvg-logo="https://epg.112114.xyz/logo/热心市民高先生.png",热心市民高先生
+https://live.ottiptv.cc/huya/11602037
+#EXTINF:-1 group-title="一起看" tvg-name="袖中忽见洮河北" tvg-logo="https://epg.112114.xyz/logo/袖中忽见洮河北.png",袖中忽见洮河北
+https://live.ottiptv.cc/huya/26355788
+#EXTINF:-1 group-title="一起看" tvg-name="就有难再得" tvg-logo="https://epg.112114.xyz/logo/就有难再得.png",就有难再得
+https://live.ottiptv.cc/huya/30080151
+#EXTINF:-1 group-title="一起看" tvg-name="武侠电影放映厅" tvg-logo="https://epg.112114.xyz/logo/武侠电影放映厅.png",武侠电影放映厅
+https://live.ottiptv.cc/huya/29982611
+#EXTINF:-1 group-title="一起看" tvg-name="一片青青草原" tvg-logo="https://epg.112114.xyz/logo/一片青青草原.png",一片青青草原
+https://live.ottiptv.cc/huya/11352973
+#EXTINF:-1 group-title="一起看" tvg-name="好学上进的青年" tvg-logo="https://epg.112114.xyz/logo/好学上进的青年.png",好学上进的青年
+https://live.ottiptv.cc/huya/29982666
+#EXTINF:-1 group-title="一起看" tvg-name="萌新司机" tvg-logo="https://epg.112114.xyz/logo/萌新司机.png",萌新司机
+https://live.ottiptv.cc/huya/11352881
+#EXTINF:-1 group-title="一起看" tvg-name="我很怪丶但我不坏" tvg-logo="https://epg.112114.xyz/logo/我很怪丶但我不坏.png",我很怪丶但我不坏
+https://live.ottiptv.cc/huya/21059634
+#EXTINF:-1 group-title="一起看" tvg-name="马呜呜" tvg-logo="https://epg.112114.xyz/logo/马呜呜.png",马呜呜
+https://live.ottiptv.cc/huya/29982631
+#EXTINF:-1 group-title="一起看" tvg-name="小妖孽" tvg-logo="https://epg.112114.xyz/logo/小妖孽.png",小妖孽
+https://live.ottiptv.cc/huya/11602088
+#EXTINF:-1 group-title="一起看" tvg-name="前无古人147" tvg-logo="https://epg.112114.xyz/logo/前无古人147.png",前无古人147
+https://live.ottiptv.cc/huya/11352901
+#EXTINF:-1 group-title="一起看" tvg-name="虎牙放映厅" tvg-logo="https://epg.112114.xyz/logo/虎牙放映厅.png",虎牙放映厅
+https://live.ottiptv.cc/huya/11602077
+#EXTINF:-1 group-title="一起看" tvg-name="灾难见证者" tvg-logo="https://epg.112114.xyz/logo/灾难见证者.png",灾难见证者
+https://live.ottiptv.cc/huya/20969137
+#EXTINF:-1 group-title="一起看" tvg-name="摇滚足球本" tvg-logo="https://epg.112114.xyz/logo/摇滚足球本.png",摇滚足球本
+https://live.ottiptv.cc/huya/29982616
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314021
+#EXTINF:-1 group-title="一起看" tvg-name="-懒猪" tvg-logo="https://epg.112114.xyz/logo/-懒猪.png",-懒猪
+https://live.ottiptv.cc/huya/11342393
+#EXTINF:-1 group-title="一起看" tvg-name="加班狗" tvg-logo="https://epg.112114.xyz/logo/加班狗.png",加班狗
+https://live.ottiptv.cc/huya/11352891
+#EXTINF:-1 group-title="一起看" tvg-name="可爱的小强" tvg-logo="https://epg.112114.xyz/logo/可爱的小强.png",可爱的小强
+https://live.ottiptv.cc/huya/11342435
+#EXTINF:-1 group-title="一起看" tvg-name="Yummy" tvg-logo="https://epg.112114.xyz/logo/Yummy.png",Yummy
+https://live.ottiptv.cc/huya/11336587
+#EXTINF:-1 group-title="一起看" tvg-name="兜兜з" tvg-logo="https://epg.112114.xyz/logo/兜兜з.png",兜兜з
+https://live.ottiptv.cc/huya/11352910
+#EXTINF:-1 group-title="一起看" tvg-name="繁花似锦小丽人" tvg-logo="https://epg.112114.xyz/logo/繁花似锦小丽人.png",繁花似锦小丽人
+https://live.ottiptv.cc/huya/30080189
+#EXTINF:-1 group-title="一起看" tvg-name="梁非凡吔X啦" tvg-logo="https://epg.112114.xyz/logo/梁非凡吔X啦.png",梁非凡吔X啦
+https://live.ottiptv.cc/huya/23749083
+#EXTINF:-1 group-title="一起看" tvg-name="小爱酱" tvg-logo="https://epg.112114.xyz/logo/小爱酱.png",小爱酱
+https://live.ottiptv.cc/huya/11352922
+#EXTINF:-1 group-title="一起看" tvg-name="安逗和黑仔" tvg-logo="https://epg.112114.xyz/logo/安逗和黑仔.png",安逗和黑仔
+https://live.ottiptv.cc/huya/11342424
+#EXTINF:-1 group-title="一起看" tvg-name="TVB奇奇" tvg-logo="https://epg.112114.xyz/logo/TVB奇奇.png",TVB奇奇
+https://live.ottiptv.cc/huya/23865148
+#EXTINF:-1 group-title="一起看" tvg-name="我很忙" tvg-logo="https://epg.112114.xyz/logo/我很忙.png",我很忙
+https://live.ottiptv.cc/huya/11352950
+#EXTINF:-1 group-title="一起看" tvg-name="朝服金子" tvg-logo="https://epg.112114.xyz/logo/朝服金子.png",朝服金子
+https://live.ottiptv.cc/huya/29465865
+#EXTINF:-1 group-title="一起看" tvg-name="有妖气漫画-十冷" tvg-logo="https://epg.112114.xyz/logo/有妖气漫画-十冷.png",有妖气漫画-十冷
+https://live.ottiptv.cc/huya/21059550
+#EXTINF:-1 group-title="一起看" tvg-name="是西门大官人啊" tvg-logo="https://epg.112114.xyz/logo/是西门大官人啊.png",是西门大官人啊
+https://live.ottiptv.cc/huya/21059571
+#EXTINF:-1 group-title="一起看" tvg-name="蓶1淳爷" tvg-logo="https://epg.112114.xyz/logo/蓶1淳爷.png",蓶1淳爷
+https://live.ottiptv.cc/huya/11336719
+#EXTINF:-1 group-title="一起看" tvg-name="港剧日常" tvg-logo="https://epg.112114.xyz/logo/港剧日常.png",港剧日常
+https://live.ottiptv.cc/huya/23903123
+#EXTINF:-1 group-title="一起看" tvg-name="方显出英仍无骨" tvg-logo="https://epg.112114.xyz/logo/方显出英仍无骨.png",方显出英仍无骨
+https://live.ottiptv.cc/huya/26355854
+#EXTINF:-1 group-title="一起看" tvg-name="-若凌Provence-" tvg-logo="https://epg.112114.xyz/logo/-若凌Provence-.png",-若凌Provence-
+https://live.ottiptv.cc/huya/11352955
+#EXTINF:-1 group-title="一起看" tvg-name="阿虎爱港剧" tvg-logo="https://epg.112114.xyz/logo/阿虎爱港剧.png",阿虎爱港剧
+https://live.ottiptv.cc/huya/23863833
+#EXTINF:-1 group-title="一起看" tvg-name="主播小贞" tvg-logo="https://epg.112114.xyz/logo/主播小贞.png",主播小贞
+https://live.ottiptv.cc/huya/11352935
+#EXTINF:-1 group-title="一起看" tvg-name="王纪超人" tvg-logo="https://epg.112114.xyz/logo/王纪超人.png",王纪超人
+https://live.ottiptv.cc/huya/21059551
+#EXTINF:-1 group-title="一起看" tvg-name="港片经典回忆" tvg-logo="https://epg.112114.xyz/logo/港片经典回忆.png",港片经典回忆
+https://live.ottiptv.cc/huya/29465849
+#EXTINF:-1 group-title="一起看" tvg-name="笙歌" tvg-logo="https://epg.112114.xyz/logo/笙歌.png",笙歌
+https://live.ottiptv.cc/huya/11352965
+#EXTINF:-1 group-title="一起看" tvg-name="中二的骚年" tvg-logo="https://epg.112114.xyz/logo/中二的骚年.png",中二的骚年
+https://live.ottiptv.cc/huya/11602054
+#EXTINF:-1 group-title="一起看" tvg-name="电视剧痴迷者" tvg-logo="https://epg.112114.xyz/logo/电视剧痴迷者.png",电视剧痴迷者
+https://live.ottiptv.cc/huya/29465856
+#EXTINF:-1 group-title="一起看" tvg-name="采茶大师" tvg-logo="https://epg.112114.xyz/logo/采茶大师.png",采茶大师
+https://live.ottiptv.cc/huya/23728693
+#EXTINF:-1 group-title="一起看" tvg-name="雨落惊鸿人" tvg-logo="https://epg.112114.xyz/logo/雨落惊鸿人.png",雨落惊鸿人
+https://live.ottiptv.cc/huya/21059628
+#EXTINF:-1 group-title="一起看" tvg-name="情节戏剧" tvg-logo="https://epg.112114.xyz/logo/情节戏剧.png",情节戏剧
+https://live.ottiptv.cc/huya/29465854
+#EXTINF:-1 group-title="一起看" tvg-name="市民刘先生" tvg-logo="https://epg.112114.xyz/logo/市民刘先生.png",市民刘先生
+https://live.ottiptv.cc/huya/23728647
+#EXTINF:-1 group-title="一起看" tvg-name="芦苇微微的弟子" tvg-logo="https://epg.112114.xyz/logo/芦苇微微的弟子.png",芦苇微微的弟子
+https://live.ottiptv.cc/huya/21059558
+#EXTINF:-1 group-title="一起看" tvg-name="港剧经典回味无穷" tvg-logo="https://epg.112114.xyz/logo/港剧经典回味无穷.png",港剧经典回味无穷
+https://live.ottiptv.cc/huya/29465861
+#EXTINF:-1 group-title="一起看" tvg-name="三十既未息" tvg-logo="https://epg.112114.xyz/logo/三十既未息.png",三十既未息
+https://live.ottiptv.cc/huya/26355846
+#EXTINF:-1 group-title="一起看" tvg-name="缠" tvg-logo="https://epg.112114.xyz/logo/缠.png",缠
+https://live.ottiptv.cc/huya/20969140
+#EXTINF:-1 group-title="一起看" tvg-name="疯狂的音乐人" tvg-logo="https://epg.112114.xyz/logo/疯狂的音乐人.png",疯狂的音乐人
+https://live.ottiptv.cc/huya/29982625
+#EXTINF:-1 group-title="一起看" tvg-name="李径看奥运" tvg-logo="https://epg.112114.xyz/logo/李径看奥运.png",李径看奥运
+https://live.ottiptv.cc/huya/30080153
+#EXTINF:-1 group-title="一起看" tvg-name="我是周粤驰" tvg-logo="https://epg.112114.xyz/logo/我是周粤驰.png",我是周粤驰
+https://live.ottiptv.cc/huya/23864973
+#EXTINF:-1 group-title="一起看" tvg-name="西班牙七七点评" tvg-logo="https://epg.112114.xyz/logo/西班牙七七点评.png",西班牙七七点评
+https://live.ottiptv.cc/huya/30080161
+#EXTINF:-1 group-title="一起看" tvg-name="一只梦幻小萌虎" tvg-logo="https://epg.112114.xyz/logo/一只梦幻小萌虎.png",一只梦幻小萌虎
+https://live.ottiptv.cc/huya/21059556
+#EXTINF:-1 group-title="一起看" tvg-name="道长我们私奔吧" tvg-logo="https://epg.112114.xyz/logo/道长我们私奔吧.png",道长我们私奔吧
+https://live.ottiptv.cc/huya/26355834
+#EXTINF:-1 group-title="一起看" tvg-name="槽老师" tvg-logo="https://epg.112114.xyz/logo/槽老师.png",槽老师
+https://live.ottiptv.cc/huya/11336571
+#EXTINF:-1 group-title="一起看" tvg-name="荒野达人" tvg-logo="https://epg.112114.xyz/logo/荒野达人.png",荒野达人
+https://live.ottiptv.cc/huya/11352975
+#EXTINF:-1 group-title="一起看" tvg-name="港剧热爱者" tvg-logo="https://epg.112114.xyz/logo/港剧热爱者.png",港剧热爱者
+https://live.ottiptv.cc/huya/29465857
+#EXTINF:-1 group-title="一起看" tvg-name="一只大懒虫" tvg-logo="https://epg.112114.xyz/logo/一只大懒虫.png",一只大懒虫
+https://live.ottiptv.cc/huya/11279251
+#EXTINF:-1 group-title="一起看" tvg-name="落露小鸟" tvg-logo="https://epg.112114.xyz/logo/落露小鸟.png",落露小鸟
+https://live.ottiptv.cc/huya/30080241
+#EXTINF:-1 group-title="一起看" tvg-name="迷失" tvg-logo="https://epg.112114.xyz/logo/迷失.png",迷失
+https://live.ottiptv.cc/huya/11602041
+#EXTINF:-1 group-title="一起看" tvg-name="布谷bugu" tvg-logo="https://epg.112114.xyz/logo/布谷bugu.png",布谷bugu
+https://live.ottiptv.cc/huya/29982671
+#EXTINF:-1 group-title="一起看" tvg-name="鸽宝小改改" tvg-logo="https://epg.112114.xyz/logo/鸽宝小改改.png",鸽宝小改改
+https://live.ottiptv.cc/huya/11601970
+#EXTINF:-1 group-title="一起看" tvg-name="Edinburgh南空" tvg-logo="https://epg.112114.xyz/logo/Edinburgh南空.png",Edinburgh南空
+https://live.ottiptv.cc/huya/11352890
+#EXTINF:-1 group-title="一起看" tvg-name="战斗联盟" tvg-logo="https://epg.112114.xyz/logo/战斗联盟.png",战斗联盟
+https://live.ottiptv.cc/huya/11342413
+#EXTINF:-1 group-title="一起看" tvg-name="寒山初弄色" tvg-logo="https://epg.112114.xyz/logo/寒山初弄色.png",寒山初弄色
+https://live.ottiptv.cc/huya/26355765
+#EXTINF:-1 group-title="一起看" tvg-name="小怪兽、" tvg-logo="https://epg.112114.xyz/logo/小怪兽、.png",小怪兽、
+https://live.ottiptv.cc/huya/11602044
+#EXTINF:-1 group-title="一起看" tvg-name="经典剧好看" tvg-logo="https://epg.112114.xyz/logo/经典剧好看.png",经典剧好看
+https://live.ottiptv.cc/huya/23490183
+#EXTINF:-1 group-title="一起看" tvg-name="猛志百般红" tvg-logo="https://epg.112114.xyz/logo/猛志百般红.png",猛志百般红
+https://live.ottiptv.cc/huya/26355865
+#EXTINF:-1 group-title="一起看" tvg-name="我是靓宝" tvg-logo="https://epg.112114.xyz/logo/我是靓宝.png",我是靓宝
+https://live.ottiptv.cc/huya/23728660
+#EXTINF:-1 group-title="一起看" tvg-name="赛文777" tvg-logo="https://epg.112114.xyz/logo/赛文777.png",赛文777
+https://live.ottiptv.cc/huya/21059607
+#EXTINF:-1 group-title="一起看" tvg-name="电视剧好看" tvg-logo="https://epg.112114.xyz/logo/电视剧好看.png",电视剧好看
+https://live.ottiptv.cc/huya/29465860
+#EXTINF:-1 group-title="一起看" tvg-name="做人最要紧开心" tvg-logo="https://epg.112114.xyz/logo/做人最要紧开心.png",做人最要紧开心
+https://live.ottiptv.cc/huya/23824164
+#EXTINF:-1 group-title="一起看" tvg-name="而莫善者恶之" tvg-logo="https://epg.112114.xyz/logo/而莫善者恶之.png",而莫善者恶之
+https://live.ottiptv.cc/huya/26355775
+#EXTINF:-1 group-title="一起看" tvg-name="战争电影放映厅" tvg-logo="https://epg.112114.xyz/logo/战争电影放映厅.png",战争电影放映厅
+https://live.ottiptv.cc/huya/21059618
+#EXTINF:-1 group-title="一起看" tvg-name="绅士只吃七分熟" tvg-logo="https://epg.112114.xyz/logo/绅士只吃七分熟.png",绅士只吃七分熟
+https://live.ottiptv.cc/huya/20969122
+#EXTINF:-1 group-title="一起看" tvg-name="毁你男神做你男人" tvg-logo="https://epg.112114.xyz/logo/毁你男神做你男人.png",毁你男神做你男人
+https://live.ottiptv.cc/huya/353798
+#EXTINF:-1 group-title="一起看" tvg-name="汽车人" tvg-logo="https://epg.112114.xyz/logo/汽车人.png",汽车人
+https://live.ottiptv.cc/huya/11352897
+#EXTINF:-1 group-title="一起看" tvg-name="老板给次机会吧" tvg-logo="https://epg.112114.xyz/logo/老板给次机会吧.png",老板给次机会吧
+https://live.ottiptv.cc/huya/23829447
+#EXTINF:-1 group-title="一起看" tvg-name="陌哨面" tvg-logo="https://epg.112114.xyz/logo/陌哨面.png",陌哨面
+https://live.ottiptv.cc/huya/26355852
+#EXTINF:-1 group-title="一起看" tvg-name="开船老湿基" tvg-logo="https://epg.112114.xyz/logo/开船老湿基.png",开船老湿基
+https://live.ottiptv.cc/huya/11342387
+#EXTINF:-1 group-title="一起看" tvg-name="苦瓜老姨" tvg-logo="https://epg.112114.xyz/logo/苦瓜老姨.png",苦瓜老姨
+https://live.ottiptv.cc/huya/11342429
+#EXTINF:-1 group-title="一起看" tvg-name="华视-悬疑恐怖" tvg-logo="https://epg.112114.xyz/logo/华视-悬疑恐怖.png",华视-悬疑恐怖
+https://live.ottiptv.cc/huya/23358441
+#EXTINF:-1 group-title="一起看" tvg-name="薛教授" tvg-logo="https://epg.112114.xyz/logo/薛教授.png",薛教授
+https://live.ottiptv.cc/huya/11342385
+#EXTINF:-1 group-title="一起看" tvg-name="维达人" tvg-logo="https://epg.112114.xyz/logo/维达人.png",维达人
+https://live.ottiptv.cc/huya/11336725
+#EXTINF:-1 group-title="一起看" tvg-name="南柯寒梦" tvg-logo="https://epg.112114.xyz/logo/南柯寒梦.png",南柯寒梦
+https://live.ottiptv.cc/huya/30080193
+#EXTINF:-1 group-title="一起看" tvg-name="落于巧克力" tvg-logo="https://epg.112114.xyz/logo/落于巧克力.png",落于巧克力
+https://live.ottiptv.cc/huya/29465879
+#EXTINF:-1 group-title="一起看" tvg-name="微微爱宝宝" tvg-logo="https://epg.112114.xyz/logo/微微爱宝宝.png",微微爱宝宝
+https://live.ottiptv.cc/huya/11342422
+#EXTINF:-1 group-title="一起看" tvg-name="华视-动作大片" tvg-logo="https://epg.112114.xyz/logo/华视-动作大片.png",华视-动作大片
+https://live.ottiptv.cc/huya/23352535
+#EXTINF:-1 group-title="一起看" tvg-name="狗哥吃火锅2" tvg-logo="https://epg.112114.xyz/logo/狗哥吃火锅2.png",狗哥吃火锅2
+https://live.ottiptv.cc/huya/21059624
+#EXTINF:-1 group-title="一起看" tvg-name="迎宾桥米莱迪" tvg-logo="https://epg.112114.xyz/logo/迎宾桥米莱迪.png",迎宾桥米莱迪
+https://live.ottiptv.cc/huya/26355790
+#EXTINF:-1 group-title="一起看" tvg-name="性感大妈" tvg-logo="https://epg.112114.xyz/logo/性感大妈.png",性感大妈
+https://live.ottiptv.cc/huya/11602075
+#EXTINF:-1 group-title="一起看" tvg-name="二次元控" tvg-logo="https://epg.112114.xyz/logo/二次元控.png",二次元控
+https://live.ottiptv.cc/huya/11352912
+#EXTINF:-1 group-title="一起看" tvg-name="了不起的小萌虎" tvg-logo="https://epg.112114.xyz/logo/了不起的小萌虎.png",了不起的小萌虎
+https://live.ottiptv.cc/huya/11342388
+#EXTINF:-1 group-title="一起看" tvg-name="港剧慢品汇" tvg-logo="https://epg.112114.xyz/logo/港剧慢品汇.png",港剧慢品汇
+https://live.ottiptv.cc/huya/23865142
+#EXTINF:-1 group-title="一起看" tvg-name="新奇好玩喵" tvg-logo="https://epg.112114.xyz/logo/新奇好玩喵.png",新奇好玩喵
+https://live.ottiptv.cc/huya/21059610
+#EXTINF:-1 group-title="一起看" tvg-name="老来事業斷橋邊" tvg-logo="https://epg.112114.xyz/logo/老来事業斷橋邊.png",老来事業斷橋邊
+https://live.ottiptv.cc/huya/26355853
+#EXTINF:-1 group-title="一起看" tvg-name="梁非凡吃点啥" tvg-logo="https://epg.112114.xyz/logo/梁非凡吃点啥.png",梁非凡吃点啥
+https://live.ottiptv.cc/huya/21059577
+#EXTINF:-1 group-title="一起看" tvg-name="飙车的老司机" tvg-logo="https://epg.112114.xyz/logo/飙车的老司机.png",飙车的老司机
+https://live.ottiptv.cc/huya/11352894
+#EXTINF:-1 group-title="一起看" tvg-name="悬疑放映厅" tvg-logo="https://epg.112114.xyz/logo/悬疑放映厅.png",悬疑放映厅
+https://live.ottiptv.cc/huya/26355797
+#EXTINF:-1 group-title="一起看" tvg-name="嘤嘤嘤" tvg-logo="https://epg.112114.xyz/logo/嘤嘤嘤.png",嘤嘤嘤
+https://live.ottiptv.cc/huya/11336579
+#EXTINF:-1 group-title="一起看" tvg-name="流浪者行" tvg-logo="https://epg.112114.xyz/logo/流浪者行.png",流浪者行
+https://live.ottiptv.cc/huya/20985829
+#EXTINF:-1 group-title="一起看" tvg-name="惡紫之奪氈酒" tvg-logo="https://epg.112114.xyz/logo/惡紫之奪氈酒.png",惡紫之奪氈酒
+https://live.ottiptv.cc/huya/26355866
+#EXTINF:-1 group-title="一起看" tvg-name="简小熙" tvg-logo="https://epg.112114.xyz/logo/简小熙.png",简小熙
+https://live.ottiptv.cc/huya/11342399
+#EXTINF:-1 group-title="一起看" tvg-name="北岛南城" tvg-logo="https://epg.112114.xyz/logo/北岛南城.png",北岛南城
+https://live.ottiptv.cc/huya/11601962
+#EXTINF:-1 group-title="一起看" tvg-name="这很不同" tvg-logo="https://epg.112114.xyz/logo/这很不同.png",这很不同
+https://live.ottiptv.cc/huya/11602067
+#EXTINF:-1 group-title="一起看" tvg-name="泉上老见示" tvg-logo="https://epg.112114.xyz/logo/泉上老见示.png",泉上老见示
+https://live.ottiptv.cc/huya/29982664
+#EXTINF:-1 group-title="一起看" tvg-name="瓦萨卡" tvg-logo="https://epg.112114.xyz/logo/瓦萨卡.png",瓦萨卡
+https://live.ottiptv.cc/huya/20969131
+#EXTINF:-1 group-title="一起看" tvg-name="晓云街道媽" tvg-logo="https://epg.112114.xyz/logo/晓云街道媽.png",晓云街道媽
+https://live.ottiptv.cc/huya/21059614
+#EXTINF:-1 group-title="一起看" tvg-name="耳里如闻疑忠良" tvg-logo="https://epg.112114.xyz/logo/耳里如闻疑忠良.png",耳里如闻疑忠良
+https://live.ottiptv.cc/huya/26355858
+#EXTINF:-1 group-title="一起看" tvg-name="三剑客带你看" tvg-logo="https://epg.112114.xyz/logo/三剑客带你看.png",三剑客带你看
+https://live.ottiptv.cc/huya/29982595
+#EXTINF:-1 group-title="一起看" tvg-name="微风孝王都" tvg-logo="https://epg.112114.xyz/logo/微风孝王都.png",微风孝王都
+https://live.ottiptv.cc/huya/26355794
+#EXTINF:-1 group-title="一起看" tvg-name="一川星悬-" tvg-logo="https://epg.112114.xyz/logo/一川星悬-.png",一川星悬-
+https://live.ottiptv.cc/huya/29465870
+#EXTINF:-1 group-title="一起看" tvg-name="杀马特死神" tvg-logo="https://epg.112114.xyz/logo/杀马特死神.png",杀马特死神
+https://live.ottiptv.cc/huya/11352875
+#EXTINF:-1 group-title="一起看" tvg-name="娱乐bb机" tvg-logo="https://epg.112114.xyz/logo/娱乐bb机.png",娱乐bb机
+https://live.ottiptv.cc/huya/29982635
+#EXTINF:-1 group-title="一起看" tvg-name="第十门" tvg-logo="https://epg.112114.xyz/logo/第十门.png",第十门
+https://live.ottiptv.cc/huya/11352883
+#EXTINF:-1 group-title="一起看" tvg-name="马春夏秋冬梅" tvg-logo="https://epg.112114.xyz/logo/马春夏秋冬梅.png",马春夏秋冬梅
+https://live.ottiptv.cc/huya/21059564
+#EXTINF:-1 group-title="一起看" tvg-name="大道遺所思" tvg-logo="https://epg.112114.xyz/logo/大道遺所思.png",大道遺所思
+https://live.ottiptv.cc/huya/26355768
+#EXTINF:-1 group-title="一起看" tvg-name="古古三十年" tvg-logo="https://epg.112114.xyz/logo/古古三十年.png",古古三十年
+https://live.ottiptv.cc/huya/29982675
+#EXTINF:-1 group-title="一起看" tvg-name="沙雕剧情梗中梗" tvg-logo="https://epg.112114.xyz/logo/沙雕剧情梗中梗.png",沙雕剧情梗中梗
+https://live.ottiptv.cc/huya/24648646
+#EXTINF:-1 group-title="一起看" tvg-name="loVe、飘零" tvg-logo="https://epg.112114.xyz/logo/loVe、飘零.png",loVe、飘零
+https://live.ottiptv.cc/huya/11602074
+#EXTINF:-1 group-title="一起看" tvg-name="大懒猫" tvg-logo="https://epg.112114.xyz/logo/大懒猫.png",大懒猫
+https://live.ottiptv.cc/huya/11602046
+#EXTINF:-1 group-title="一起看" tvg-name="LOL动画剧情解说" tvg-logo="https://epg.112114.xyz/logo/LOL动画剧情解说.png",LOL动画剧情解说
+https://live.ottiptv.cc/huya/29982690
+#EXTINF:-1 group-title="一起看" tvg-name="龙珠经典放映厅" tvg-logo="https://epg.112114.xyz/logo/龙珠经典放映厅.png",龙珠经典放映厅
+https://live.ottiptv.cc/huya/29982688
+#EXTINF:-1 group-title="一起看" tvg-name="小猪包大米" tvg-logo="https://epg.112114.xyz/logo/小猪包大米.png",小猪包大米
+https://live.ottiptv.cc/huya/30080253
+#EXTINF:-1 group-title="一起看" tvg-name="骑士热音ing" tvg-logo="https://epg.112114.xyz/logo/骑士热音ing.png",骑士热音ing
+https://live.ottiptv.cc/huya/29982613
+#EXTINF:-1 group-title="一起看" tvg-name="螺丝也可爱" tvg-logo="https://epg.112114.xyz/logo/螺丝也可爱.png",螺丝也可爱
+https://live.ottiptv.cc/huya/21059604
+#EXTINF:-1 group-title="一起看" tvg-name="田径精英在奔跑" tvg-logo="https://epg.112114.xyz/logo/田径精英在奔跑.png",田径精英在奔跑
+https://live.ottiptv.cc/huya/29982660
+#EXTINF:-1 group-title="一起看" tvg-name="崇礼燕平" tvg-logo="https://epg.112114.xyz/logo/崇礼燕平.png",崇礼燕平
+https://live.ottiptv.cc/huya/29465862
+#EXTINF:-1 group-title="一起看" tvg-name="星河信箱" tvg-logo="https://epg.112114.xyz/logo/星河信箱.png",星河信箱
+https://live.ottiptv.cc/huya/20969101
+#EXTINF:-1 group-title="一起看" tvg-name="北岛的诗" tvg-logo="https://epg.112114.xyz/logo/北岛的诗.png",北岛的诗
+https://live.ottiptv.cc/huya/11336591
+#EXTINF:-1 group-title="一起看" tvg-name="小牡蛎" tvg-logo="https://epg.112114.xyz/logo/小牡蛎.png",小牡蛎
+https://live.ottiptv.cc/huya/11352962
+#EXTINF:-1 group-title="一起看" tvg-name="全能改造王" tvg-logo="https://epg.112114.xyz/logo/全能改造王.png",全能改造王
+https://live.ottiptv.cc/huya/24609812
+#EXTINF:-1 group-title="一起看" tvg-name="档案事件簿" tvg-logo="https://epg.112114.xyz/logo/档案事件簿.png",档案事件簿
+https://live.ottiptv.cc/huya/20985834
+#EXTINF:-1 group-title="一起看" tvg-name="卓卓脑婆" tvg-logo="https://epg.112114.xyz/logo/卓卓脑婆.png",卓卓脑婆
+https://live.ottiptv.cc/huya/27564478
+#EXTINF:-1 group-title="一起看" tvg-name="重口味爱好者" tvg-logo="https://epg.112114.xyz/logo/重口味爱好者.png",重口味爱好者
+https://live.ottiptv.cc/huya/11352889
+#EXTINF:-1 group-title="一起看" tvg-name="十八里铺大当家" tvg-logo="https://epg.112114.xyz/logo/十八里铺大当家.png",十八里铺大当家
+https://live.ottiptv.cc/huya/21059562
+#EXTINF:-1 group-title="一起看" tvg-name="扫地僧" tvg-logo="https://epg.112114.xyz/logo/扫地僧.png",扫地僧
+https://live.ottiptv.cc/huya/11342394
+#EXTINF:-1 group-title="一起看" tvg-name="大铁锅炖大大鹅" tvg-logo="https://epg.112114.xyz/logo/大铁锅炖大大鹅.png",大铁锅炖大大鹅
+https://live.ottiptv.cc/huya/21059574
+#EXTINF:-1 group-title="一起看" tvg-name="我是翩翩少年郎" tvg-logo="https://epg.112114.xyz/logo/我是翩翩少年郎.png",我是翩翩少年郎
+https://live.ottiptv.cc/huya/30080221
+#EXTINF:-1 group-title="一起看" tvg-name="暴走君丶阿罪" tvg-logo="https://epg.112114.xyz/logo/暴走君丶阿罪.png",暴走君丶阿罪
+https://live.ottiptv.cc/huya/11342423
+#EXTINF:-1 group-title="一起看" tvg-name="哀是麦子的球迷2" tvg-logo="https://epg.112114.xyz/logo/哀是麦子的球迷2.png",哀是麦子的球迷2
+https://live.ottiptv.cc/huya/29982673
+#EXTINF:-1 group-title="一起看" tvg-name="生活技巧" tvg-logo="https://epg.112114.xyz/logo/生活技巧.png",生活技巧
+https://live.ottiptv.cc/huya/20985833
+#EXTINF:-1 group-title="一起看" tvg-name="来瓶肥宅水" tvg-logo="https://epg.112114.xyz/logo/来瓶肥宅水.png",来瓶肥宅水
+https://live.ottiptv.cc/huya/21059555
+#EXTINF:-1 group-title="一起看" tvg-name="云华新知" tvg-logo="https://epg.112114.xyz/logo/云华新知.png",云华新知
+https://live.ottiptv.cc/huya/20969129
+#EXTINF:-1 group-title="一起看" tvg-name="王亦天之高也" tvg-logo="https://epg.112114.xyz/logo/王亦天之高也.png",王亦天之高也
+https://live.ottiptv.cc/huya/29465874
+#EXTINF:-1 group-title="一起看" tvg-name="无花果不结果" tvg-logo="https://epg.112114.xyz/logo/无花果不结果.png",无花果不结果
+https://live.ottiptv.cc/huya/30080228
+#EXTINF:-1 group-title="一起看" tvg-name="小亮亮" tvg-logo="https://epg.112114.xyz/logo/小亮亮.png",小亮亮
+https://live.ottiptv.cc/huya/11342432
+#EXTINF:-1 group-title="一起看" tvg-name="一米八砍竹竿" tvg-logo="https://epg.112114.xyz/logo/一米八砍竹竿.png",一米八砍竹竿
+https://live.ottiptv.cc/huya/30080252
+#EXTINF:-1 group-title="一起看" tvg-name="维思维" tvg-logo="https://epg.112114.xyz/logo/维思维.png",维思维
+https://live.ottiptv.cc/huya/20985802
+#EXTINF:-1 group-title="一起看" tvg-name="追娘娘陪你看" tvg-logo="https://epg.112114.xyz/logo/追娘娘陪你看.png",追娘娘陪你看
+https://live.ottiptv.cc/huya/30080182
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-JBo8XZZWSw" tvg-logo="https://epg.112114.xyz/logo/昵称违规-JBo8XZZWSw.png",昵称违规-JBo8XZZWSw
+https://live.ottiptv.cc/huya/11601965
+#EXTINF:-1 group-title="一起看" tvg-name="粤语电影放映厅" tvg-logo="https://epg.112114.xyz/logo/粤语电影放映厅.png",粤语电影放映厅
+https://live.ottiptv.cc/huya/21059572
+#EXTINF:-1 group-title="一起看" tvg-name="冬日暖心猫" tvg-logo="https://epg.112114.xyz/logo/冬日暖心猫.png",冬日暖心猫
+https://live.ottiptv.cc/huya/29982669
+#EXTINF:-1 group-title="一起看" tvg-name="漓江塔景区售票阿姨" tvg-logo="https://epg.112114.xyz/logo/漓江塔景区售票阿姨.png",漓江塔景区售票阿姨
+https://live.ottiptv.cc/huya/11602082
+#EXTINF:-1 group-title="一起看" tvg-name="尐饭团" tvg-logo="https://epg.112114.xyz/logo/尐饭团.png",尐饭团
+https://live.ottiptv.cc/huya/11352907
+#EXTINF:-1 group-title="一起看" tvg-name="冒险电影放映厅" tvg-logo="https://epg.112114.xyz/logo/冒险电影放映厅.png",冒险电影放映厅
+https://live.ottiptv.cc/huya/21059566
+#EXTINF:-1 group-title="一起看" tvg-name="风中的蜡烛" tvg-logo="https://epg.112114.xyz/logo/风中的蜡烛.png",风中的蜡烛
+https://live.ottiptv.cc/huya/20985856
+#EXTINF:-1 group-title="一起看" tvg-name="羞涩的茄子" tvg-logo="https://epg.112114.xyz/logo/羞涩的茄子.png",羞涩的茄子
+https://live.ottiptv.cc/huya/11336590
+#EXTINF:-1 group-title="一起看" tvg-name="SMG梦想成真" tvg-logo="https://epg.112114.xyz/logo/SMG梦想成真.png",SMG梦想成真
+https://live.ottiptv.cc/huya/11602047
+#EXTINF:-1 group-title="一起看" tvg-name="排球少年砰砰砰" tvg-logo="https://epg.112114.xyz/logo/排球少年砰砰砰.png",排球少年砰砰砰
+https://live.ottiptv.cc/huya/30080167
+#EXTINF:-1 group-title="一起看" tvg-name="冰火岛一霸" tvg-logo="https://epg.112114.xyz/logo/冰火岛一霸.png",冰火岛一霸
+https://live.ottiptv.cc/huya/21059563
+#EXTINF:-1 group-title="一起看" tvg-name="海轮子" tvg-logo="https://epg.112114.xyz/logo/海轮子.png",海轮子
+https://live.ottiptv.cc/huya/20969134
+#EXTINF:-1 group-title="一起看" tvg-name="吕梓昂" tvg-logo="https://epg.112114.xyz/logo/吕梓昂.png",吕梓昂
+https://live.ottiptv.cc/huya/30080248
+#EXTINF:-1 group-title="一起看" tvg-name="阿汤哥的影迷" tvg-logo="https://epg.112114.xyz/logo/阿汤哥的影迷.png",阿汤哥的影迷
+https://live.ottiptv.cc/huya/21059585
+#EXTINF:-1 group-title="一起看" tvg-name="超能狗仔队" tvg-logo="https://epg.112114.xyz/logo/超能狗仔队.png",超能狗仔队
+https://live.ottiptv.cc/huya/30080173
+#EXTINF:-1 group-title="一起看" tvg-name="科技这样玩" tvg-logo="https://epg.112114.xyz/logo/科技这样玩.png",科技这样玩
+https://live.ottiptv.cc/huya/11602033
+#EXTINF:-1 group-title="一起看" tvg-name="ddd" tvg-logo="https://epg.112114.xyz/logo/ddd.png",ddd
+https://live.ottiptv.cc/huya/22024989
+#EXTINF:-1 group-title="一起看" tvg-name="渔洞墨" tvg-logo="https://epg.112114.xyz/logo/渔洞墨.png",渔洞墨
+https://live.ottiptv.cc/huya/26355767
+#EXTINF:-1 group-title="一起看" tvg-name="大可加冰不加可" tvg-logo="https://epg.112114.xyz/logo/大可加冰不加可.png",大可加冰不加可
+https://live.ottiptv.cc/huya/29982672
+#EXTINF:-1 group-title="一起看" tvg-name="港片魅力无限" tvg-logo="https://epg.112114.xyz/logo/港片魅力无限.png",港片魅力无限
+https://live.ottiptv.cc/huya/29465852
+#EXTINF:-1 group-title="一起看" tvg-name="击剑的爱好者" tvg-logo="https://epg.112114.xyz/logo/击剑的爱好者.png",击剑的爱好者
+https://live.ottiptv.cc/huya/30080152
+#EXTINF:-1 group-title="一起看" tvg-name="小蘑菇" tvg-logo="https://epg.112114.xyz/logo/小蘑菇.png",小蘑菇
+https://live.ottiptv.cc/huya/11601981
+#EXTINF:-1 group-title="一起看" tvg-name="阿杰cxj" tvg-logo="https://epg.112114.xyz/logo/阿杰cxj.png",阿杰cxj
+https://live.ottiptv.cc/huya/30080234
+#EXTINF:-1 group-title="一起看" tvg-name="张医生" tvg-logo="https://epg.112114.xyz/logo/张医生.png",张医生
+https://live.ottiptv.cc/huya/11342415
+#EXTINF:-1 group-title="一起看" tvg-name="葱爆牛柳鱂魚" tvg-logo="https://epg.112114.xyz/logo/葱爆牛柳鱂魚.png",葱爆牛柳鱂魚
+https://live.ottiptv.cc/huya/26355778
+#EXTINF:-1 group-title="一起看" tvg-name="昔日女神柳清茶-" tvg-logo="https://epg.112114.xyz/logo/昔日女神柳清茶-.png",昔日女神柳清茶-
+https://live.ottiptv.cc/huya/11279247
+#EXTINF:-1 group-title="一起看" tvg-name="海浪拍岸热情妹" tvg-logo="https://epg.112114.xyz/logo/海浪拍岸热情妹.png",海浪拍岸热情妹
+https://live.ottiptv.cc/huya/30080239
+#EXTINF:-1 group-title="一起看" tvg-name="狗剩小刚" tvg-logo="https://epg.112114.xyz/logo/狗剩小刚.png",狗剩小刚
+https://live.ottiptv.cc/huya/30080243
+#EXTINF:-1 group-title="一起看" tvg-name="宝玉不姓贾" tvg-logo="https://epg.112114.xyz/logo/宝玉不姓贾.png",宝玉不姓贾
+https://live.ottiptv.cc/huya/20985866
+#EXTINF:-1 group-title="一起看" tvg-name="户外寻宝" tvg-logo="https://epg.112114.xyz/logo/户外寻宝.png",户外寻宝
+https://live.ottiptv.cc/huya/20985859
+#EXTINF:-1 group-title="一起看" tvg-name="体坛精彩速递" tvg-logo="https://epg.112114.xyz/logo/体坛精彩速递.png",体坛精彩速递
+https://live.ottiptv.cc/huya/30080196
+#EXTINF:-1 group-title="一起看" tvg-name="千里" tvg-logo="https://epg.112114.xyz/logo/千里.png",千里
+https://live.ottiptv.cc/huya/20985776
+#EXTINF:-1 group-title="一起看" tvg-name="替你挨过揍的朋友" tvg-logo="https://epg.112114.xyz/logo/替你挨过揍的朋友.png",替你挨过揍的朋友
+https://live.ottiptv.cc/huya/11602045
+#EXTINF:-1 group-title="一起看" tvg-name="無尾魚°" tvg-logo="https://epg.112114.xyz/logo/無尾魚°.png",無尾魚°
+https://live.ottiptv.cc/huya/11601961
+#EXTINF:-1 group-title="一起看" tvg-name="剧情扣人心弦" tvg-logo="https://epg.112114.xyz/logo/剧情扣人心弦.png",剧情扣人心弦
+https://live.ottiptv.cc/huya/29465850
+#EXTINF:-1 group-title="一起看" tvg-name="宅妹" tvg-logo="https://epg.112114.xyz/logo/宅妹.png",宅妹
+https://live.ottiptv.cc/huya/11352954
+#EXTINF:-1 group-title="一起看" tvg-name="喝一碗杏仁茶" tvg-logo="https://epg.112114.xyz/logo/喝一碗杏仁茶.png",喝一碗杏仁茶
+https://live.ottiptv.cc/huya/21059565
+#EXTINF:-1 group-title="一起看" tvg-name="飞天女警" tvg-logo="https://epg.112114.xyz/logo/飞天女警.png",飞天女警
+https://live.ottiptv.cc/huya/11601958
+#EXTINF:-1 group-title="一起看" tvg-name="纵深" tvg-logo="https://epg.112114.xyz/logo/纵深.png",纵深
+https://live.ottiptv.cc/huya/20969123
+#EXTINF:-1 group-title="一起看" tvg-name="斌哥漫说2" tvg-logo="https://epg.112114.xyz/logo/斌哥漫说2.png",斌哥漫说2
+https://live.ottiptv.cc/huya/21059621
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314159
+#EXTINF:-1 group-title="一起看" tvg-name="内有恶龙" tvg-logo="https://epg.112114.xyz/logo/内有恶龙.png",内有恶龙
+https://live.ottiptv.cc/huya/29982674
+#EXTINF:-1 group-title="一起看" tvg-name="独一无二小鱼" tvg-logo="https://epg.112114.xyz/logo/独一无二小鱼.png",独一无二小鱼
+https://live.ottiptv.cc/huya/30080219
+#EXTINF:-1 group-title="一起看" tvg-name="不能全鱼" tvg-logo="https://epg.112114.xyz/logo/不能全鱼.png",不能全鱼
+https://live.ottiptv.cc/huya/26355771
+#EXTINF:-1 group-title="一起看" tvg-name="华视-你想要的" tvg-logo="https://epg.112114.xyz/logo/华视-你想要的.png",华视-你想要的
+https://live.ottiptv.cc/huya/23358446
+#EXTINF:-1 group-title="一起看" tvg-name="阿斗归来了3" tvg-logo="https://epg.112114.xyz/logo/阿斗归来了3.png",阿斗归来了3
+https://live.ottiptv.cc/huya/29982685
+#EXTINF:-1 group-title="一起看" tvg-name="第一放映室" tvg-logo="https://epg.112114.xyz/logo/第一放映室.png",第一放映室
+https://live.ottiptv.cc/huya/11352979
+#EXTINF:-1 group-title="一起看" tvg-name="寞尛北" tvg-logo="https://epg.112114.xyz/logo/寞尛北.png",寞尛北
+https://live.ottiptv.cc/huya/11602076
+#EXTINF:-1 group-title="一起看" tvg-name="长岛冰茶-" tvg-logo="https://epg.112114.xyz/logo/长岛冰茶-.png",长岛冰茶-
+https://live.ottiptv.cc/huya/11352884
+#EXTINF:-1 group-title="一起看" tvg-name="神秘小希哟" tvg-logo="https://epg.112114.xyz/logo/神秘小希哟.png",神秘小希哟
+https://live.ottiptv.cc/huya/20985843
+#EXTINF:-1 group-title="一起看" tvg-name="julie" tvg-logo="https://epg.112114.xyz/logo/julie.png",julie
+https://live.ottiptv.cc/huya/20969142
+#EXTINF:-1 group-title="一起看" tvg-name="东方福尔摩斯" tvg-logo="https://epg.112114.xyz/logo/东方福尔摩斯.png",东方福尔摩斯
+https://live.ottiptv.cc/huya/30080229
+#EXTINF:-1 group-title="一起看" tvg-name="华视-警匪大片" tvg-logo="https://epg.112114.xyz/logo/华视-警匪大片.png",华视-警匪大片
+https://live.ottiptv.cc/huya/23358421
+#EXTINF:-1 group-title="一起看" tvg-name="繁星点点的夜晚猫" tvg-logo="https://epg.112114.xyz/logo/繁星点点的夜晚猫.png",繁星点点的夜晚猫
+https://live.ottiptv.cc/huya/30080194
+#EXTINF:-1 group-title="一起看" tvg-name="动作片天花板" tvg-logo="https://epg.112114.xyz/logo/动作片天花板.png",动作片天花板
+https://live.ottiptv.cc/huya/23865152
+#EXTINF:-1 group-title="一起看" tvg-name="茶啊二中" tvg-logo="https://epg.112114.xyz/logo/茶啊二中.png",茶啊二中
+https://live.ottiptv.cc/huya/11213191
+#EXTINF:-1 group-title="一起看" tvg-name="是红鲤鱼绿鲤鱼与驴" tvg-logo="https://epg.112114.xyz/logo/是红鲤鱼绿鲤鱼与驴.png",是红鲤鱼绿鲤鱼与驴
+https://live.ottiptv.cc/huya/21059561
+#EXTINF:-1 group-title="一起看" tvg-name="耶溪猫獅" tvg-logo="https://epg.112114.xyz/logo/耶溪猫獅.png",耶溪猫獅
+https://live.ottiptv.cc/huya/26355782
+#EXTINF:-1 group-title="一起看" tvg-name="胖次过肩摔" tvg-logo="https://epg.112114.xyz/logo/胖次过肩摔.png",胖次过肩摔
+https://live.ottiptv.cc/huya/11352903
+#EXTINF:-1 group-title="一起看" tvg-name="勞資ヽ尐爺" tvg-logo="https://epg.112114.xyz/logo/勞資ヽ尐爺.png",勞資ヽ尐爺
+https://live.ottiptv.cc/huya/11342434
+#EXTINF:-1 group-title="一起看" tvg-name="Fighter" tvg-logo="https://epg.112114.xyz/logo/Fighter.png",Fighter
+https://live.ottiptv.cc/huya/11352949
+#EXTINF:-1 group-title="一起看" tvg-name="奇幻电影放映厅" tvg-logo="https://epg.112114.xyz/logo/奇幻电影放映厅.png",奇幻电影放映厅
+https://live.ottiptv.cc/huya/26355847
+#EXTINF:-1 group-title="一起看" tvg-name="yao不能停" tvg-logo="https://epg.112114.xyz/logo/yao不能停.png",yao不能停
+https://live.ottiptv.cc/huya/11601980
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-QGOoMx3C4k" tvg-logo="https://epg.112114.xyz/logo/昵称违规-QGOoMx3C4k.png",昵称违规-QGOoMx3C4k
+https://live.ottiptv.cc/huya/20985822
+#EXTINF:-1 group-title="一起看" tvg-name="花开又三年" tvg-logo="https://epg.112114.xyz/logo/花开又三年.png",花开又三年
+https://live.ottiptv.cc/huya/20985852
+#EXTINF:-1 group-title="一起看" tvg-name="今朝之长天" tvg-logo="https://epg.112114.xyz/logo/今朝之长天.png",今朝之长天
+https://live.ottiptv.cc/huya/29465866
+#EXTINF:-1 group-title="一起看" tvg-name="艺术旅者" tvg-logo="https://epg.112114.xyz/logo/艺术旅者.png",艺术旅者
+https://live.ottiptv.cc/huya/20985798
+#EXTINF:-1 group-title="一起看" tvg-name="主播辣眼睛" tvg-logo="https://epg.112114.xyz/logo/主播辣眼睛.png",主播辣眼睛
+https://live.ottiptv.cc/huya/11352915
+#EXTINF:-1 group-title="一起看" tvg-name="后宫生存攻略" tvg-logo="https://epg.112114.xyz/logo/后宫生存攻略.png",后宫生存攻略
+https://live.ottiptv.cc/huya/30080183
+#EXTINF:-1 group-title="一起看" tvg-name="超人的归来" tvg-logo="https://epg.112114.xyz/logo/超人的归来.png",超人的归来
+https://live.ottiptv.cc/huya/21059588
+#EXTINF:-1 group-title="一起看" tvg-name="还我瓢瓢拳" tvg-logo="https://epg.112114.xyz/logo/还我瓢瓢拳.png",还我瓢瓢拳
+https://live.ottiptv.cc/huya/21059578
+#EXTINF:-1 group-title="一起看" tvg-name="电影最TOP2" tvg-logo="https://epg.112114.xyz/logo/电影最TOP2.png",电影最TOP2
+https://live.ottiptv.cc/huya/29982676
+#EXTINF:-1 group-title="一起看" tvg-name="绿帽闪电侠" tvg-logo="https://epg.112114.xyz/logo/绿帽闪电侠.png",绿帽闪电侠
+https://live.ottiptv.cc/huya/21059557
+#EXTINF:-1 group-title="一起看" tvg-name="水至凌云笔" tvg-logo="https://epg.112114.xyz/logo/水至凌云笔.png",水至凌云笔
+https://live.ottiptv.cc/huya/21059600
+#EXTINF:-1 group-title="一起看" tvg-name="同心孙楚楼" tvg-logo="https://epg.112114.xyz/logo/同心孙楚楼.png",同心孙楚楼
+https://live.ottiptv.cc/huya/29982658
+#EXTINF:-1 group-title="一起看" tvg-name="良奉白豆" tvg-logo="https://epg.112114.xyz/logo/良奉白豆.png",良奉白豆
+https://live.ottiptv.cc/huya/26355849
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-UJvLCU73jW" tvg-logo="https://epg.112114.xyz/logo/昵称违规-UJvLCU73jW.png",昵称违规-UJvLCU73jW
+https://live.ottiptv.cc/huya/26355828
+#EXTINF:-1 group-title="一起看" tvg-name="蛇猴豹" tvg-logo="https://epg.112114.xyz/logo/蛇猴豹.png",蛇猴豹
+https://live.ottiptv.cc/huya/30080191
+#EXTINF:-1 group-title="一起看" tvg-name="向阳花" tvg-logo="https://epg.112114.xyz/logo/向阳花.png",向阳花
+https://live.ottiptv.cc/huya/11602069
+#EXTINF:-1 group-title="一起看" tvg-name="我是大物" tvg-logo="https://epg.112114.xyz/logo/我是大物.png",我是大物
+https://live.ottiptv.cc/huya/29982622
+#EXTINF:-1 group-title="一起看" tvg-name="包蛋超人" tvg-logo="https://epg.112114.xyz/logo/包蛋超人.png",包蛋超人
+https://live.ottiptv.cc/huya/11342400
+#EXTINF:-1 group-title="一起看" tvg-name="吐槽运动" tvg-logo="https://epg.112114.xyz/logo/吐槽运动.png",吐槽运动
+https://live.ottiptv.cc/huya/11342436
+#EXTINF:-1 group-title="一起看" tvg-name="super一拳超人" tvg-logo="https://epg.112114.xyz/logo/super一拳超人.png",super一拳超人
+https://live.ottiptv.cc/huya/30080169
+#EXTINF:-1 group-title="一起看" tvg-name="如何雨燕" tvg-logo="https://epg.112114.xyz/logo/如何雨燕.png",如何雨燕
+https://live.ottiptv.cc/huya/26355796
+#EXTINF:-1 group-title="一起看" tvg-name="小饭事件簿" tvg-logo="https://epg.112114.xyz/logo/小饭事件簿.png",小饭事件簿
+https://live.ottiptv.cc/huya/20985830
+#EXTINF:-1 group-title="一起看" tvg-name="视死思项羽" tvg-logo="https://epg.112114.xyz/logo/视死思项羽.png",视死思项羽
+https://live.ottiptv.cc/huya/29982655
+#EXTINF:-1 group-title="一起看" tvg-name="合班阿離" tvg-logo="https://epg.112114.xyz/logo/合班阿離.png",合班阿離
+https://live.ottiptv.cc/huya/26355792
+#EXTINF:-1 group-title="一起看" tvg-name="DuckDucks" tvg-logo="https://epg.112114.xyz/logo/DuckDucks.png",DuckDucks
+https://live.ottiptv.cc/huya/29982670
+#EXTINF:-1 group-title="一起看" tvg-name="经典港片轮播" tvg-logo="https://epg.112114.xyz/logo/经典港片轮播.png",经典港片轮播
+https://live.ottiptv.cc/huya/23865086
+#EXTINF:-1 group-title="一起看" tvg-name="锦唐空间" tvg-logo="https://epg.112114.xyz/logo/锦唐空间.png",锦唐空间
+https://live.ottiptv.cc/huya/20969133
+#EXTINF:-1 group-title="一起看" tvg-name="周星星梦里的朱茵" tvg-logo="https://epg.112114.xyz/logo/周星星梦里的朱茵.png",周星星梦里的朱茵
+https://live.ottiptv.cc/huya/21059587
+#EXTINF:-1 group-title="一起看" tvg-name="都護鐵衣也君子" tvg-logo="https://epg.112114.xyz/logo/都護鐵衣也君子.png",都護鐵衣也君子
+https://live.ottiptv.cc/huya/26355772
+#EXTINF:-1 group-title="一起看" tvg-name="藐姑檐户下" tvg-logo="https://epg.112114.xyz/logo/藐姑檐户下.png",藐姑檐户下
+https://live.ottiptv.cc/huya/30080149
+#EXTINF:-1 group-title="一起看" tvg-name="是大宝贝呀" tvg-logo="https://epg.112114.xyz/logo/是大宝贝呀.png",是大宝贝呀
+https://live.ottiptv.cc/huya/23829543
+#EXTINF:-1 group-title="一起看" tvg-name="小军迷" tvg-logo="https://epg.112114.xyz/logo/小军迷.png",小军迷
+https://live.ottiptv.cc/huya/11352909
+#EXTINF:-1 group-title="一起看" tvg-name="原始技术" tvg-logo="https://epg.112114.xyz/logo/原始技术.png",原始技术
+https://live.ottiptv.cc/huya/20985858
+#EXTINF:-1 group-title="一起看" tvg-name="越哥说电影2" tvg-logo="https://epg.112114.xyz/logo/越哥说电影2.png",越哥说电影2
+https://live.ottiptv.cc/huya/29982680
+#EXTINF:-1 group-title="一起看" tvg-name="持枪者-土豆哥" tvg-logo="https://epg.112114.xyz/logo/持枪者-土豆哥.png",持枪者-土豆哥
+https://live.ottiptv.cc/huya/11336578
+#EXTINF:-1 group-title="一起看" tvg-name="【僵尸】24小时放映厅" tvg-logo="https://epg.112114.xyz/logo/【僵尸】24小时放映厅.png",【僵尸】24小时放映厅
+https://live.ottiptv.cc/huya/19285234
+#EXTINF:-1 group-title="一起看" tvg-name="白泽字幕组" tvg-logo="https://epg.112114.xyz/logo/白泽字幕组.png",白泽字幕组
+https://live.ottiptv.cc/huya/23652317
+#EXTINF:-1 group-title="一起看" tvg-name="田园生活分享" tvg-logo="https://epg.112114.xyz/logo/田园生活分享.png",田园生活分享
+https://live.ottiptv.cc/huya/20969145
+#EXTINF:-1 group-title="一起看" tvg-name="4号流水线的李小花" tvg-logo="https://epg.112114.xyz/logo/4号流水线的李小花.png",4号流水线的李小花
+https://live.ottiptv.cc/huya/11601957
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314160
+#EXTINF:-1 group-title="一起看" tvg-name="SMG开怀时刻" tvg-logo="https://epg.112114.xyz/logo/SMG开怀时刻.png",SMG开怀时刻
+https://live.ottiptv.cc/huya/11352908
+#EXTINF:-1 group-title="一起看" tvg-name="斷桥斯氏杯" tvg-logo="https://epg.112114.xyz/logo/斷桥斯氏杯.png",斷桥斯氏杯
+https://live.ottiptv.cc/huya/26355786
+#EXTINF:-1 group-title="一起看" tvg-name="予笙" tvg-logo="https://epg.112114.xyz/logo/予笙.png",予笙
+https://live.ottiptv.cc/huya/20969093
+#EXTINF:-1 group-title="一起看" tvg-name="飞鸟鸣春小满日" tvg-logo="https://epg.112114.xyz/logo/飞鸟鸣春小满日.png",飞鸟鸣春小满日
+https://live.ottiptv.cc/huya/29982646
+#EXTINF:-1 group-title="一起看" tvg-name="千绪小绘" tvg-logo="https://epg.112114.xyz/logo/千绪小绘.png",千绪小绘
+https://live.ottiptv.cc/huya/29465867
+#EXTINF:-1 group-title="一起看" tvg-name="港片迷精选剧集" tvg-logo="https://epg.112114.xyz/logo/港片迷精选剧集.png",港片迷精选剧集
+https://live.ottiptv.cc/huya/29465858
+#EXTINF:-1 group-title="一起看" tvg-name="斯国一" tvg-logo="https://epg.112114.xyz/logo/斯国一.png",斯国一
+https://live.ottiptv.cc/huya/11352905
+#EXTINF:-1 group-title="一起看" tvg-name="阿汤哥的梦中情人" tvg-logo="https://epg.112114.xyz/logo/阿汤哥的梦中情人.png",阿汤哥的梦中情人
+https://live.ottiptv.cc/huya/21059591
+#EXTINF:-1 group-title="一起看" tvg-name="千与千寻的思考" tvg-logo="https://epg.112114.xyz/logo/千与千寻的思考.png",千与千寻的思考
+https://live.ottiptv.cc/huya/21059592
+#EXTINF:-1 group-title="一起看" tvg-name="虎牙现场" tvg-logo="https://epg.112114.xyz/logo/虎牙现场.png",虎牙现场
+https://live.ottiptv.cc/huya/20985839
+#EXTINF:-1 group-title="一起看" tvg-name="赛博的朋克" tvg-logo="https://epg.112114.xyz/logo/赛博的朋克.png",赛博的朋克
+https://live.ottiptv.cc/huya/29982649
+#EXTINF:-1 group-title="一起看" tvg-name="体育前线观察" tvg-logo="https://epg.112114.xyz/logo/体育前线观察.png",体育前线观察
+https://live.ottiptv.cc/huya/30080195
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-aRGiVjLtcn" tvg-logo="https://epg.112114.xyz/logo/昵称违规-aRGiVjLtcn.png",昵称违规-aRGiVjLtcn
+https://live.ottiptv.cc/huya/20985831
+#EXTINF:-1 group-title="一起看" tvg-name="港剧迷狂热" tvg-logo="https://epg.112114.xyz/logo/港剧迷狂热.png",港剧迷狂热
+https://live.ottiptv.cc/huya/29465847
+#EXTINF:-1 group-title="一起看" tvg-name="神行大宝" tvg-logo="https://epg.112114.xyz/logo/神行大宝.png",神行大宝
+https://live.ottiptv.cc/huya/24514506
+#EXTINF:-1 group-title="一起看" tvg-name="阿森木木木" tvg-logo="https://epg.112114.xyz/logo/阿森木木木.png",阿森木木木
+https://live.ottiptv.cc/huya/11601971
+#EXTINF:-1 group-title="一起看" tvg-name="威尼斯的贡多拉" tvg-logo="https://epg.112114.xyz/logo/威尼斯的贡多拉.png",威尼斯的贡多拉
+https://live.ottiptv.cc/huya/29465883
+#EXTINF:-1 group-title="一起看" tvg-name="尽是与君别" tvg-logo="https://epg.112114.xyz/logo/尽是与君别.png",尽是与君别
+https://live.ottiptv.cc/huya/26355824
+#EXTINF:-1 group-title="一起看" tvg-name="香港喜剧大全" tvg-logo="https://epg.112114.xyz/logo/香港喜剧大全.png",香港喜剧大全
+https://live.ottiptv.cc/huya/23865080
+#EXTINF:-1 group-title="一起看" tvg-name="西九龙冠希哥" tvg-logo="https://epg.112114.xyz/logo/西九龙冠希哥.png",西九龙冠希哥
+https://live.ottiptv.cc/huya/21059579
+#EXTINF:-1 group-title="一起看" tvg-name="愤怒的洋羊" tvg-logo="https://epg.112114.xyz/logo/愤怒的洋羊.png",愤怒的洋羊
+https://live.ottiptv.cc/huya/20985857
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314160
+#EXTINF:-1 group-title="一起看" tvg-name="千与千寻的思考" tvg-logo="https://epg.112114.xyz/logo/千与千寻的思考.png",千与千寻的思考
+https://live.ottiptv.cc/huya/21059592
+#EXTINF:-1 group-title="一起看" tvg-name="港剧迷狂热" tvg-logo="https://epg.112114.xyz/logo/港剧迷狂热.png",港剧迷狂热
+https://live.ottiptv.cc/huya/29465847
+#EXTINF:-1 group-title="一起看" tvg-name="周董永远的神" tvg-logo="https://epg.112114.xyz/logo/周董永远的神.png",周董永远的神
+https://live.ottiptv.cc/huya/29982629
+#EXTINF:-1 group-title="一起看" tvg-name="母胎solo二百年" tvg-logo="https://epg.112114.xyz/logo/母胎solo二百年.png",母胎solo二百年
+https://live.ottiptv.cc/huya/11601982
+#EXTINF:-1 group-title="一起看" tvg-name="篮球巅峰" tvg-logo="https://epg.112114.xyz/logo/篮球巅峰.png",篮球巅峰
+https://live.ottiptv.cc/huya/30080158
+#EXTINF:-1 group-title="一起看" tvg-name="帅气男大" tvg-logo="https://epg.112114.xyz/logo/帅气男大.png",帅气男大
+https://live.ottiptv.cc/huya/30080226
+#EXTINF:-1 group-title="一起看" tvg-name="童可可" tvg-logo="https://epg.112114.xyz/logo/童可可.png",童可可
+https://live.ottiptv.cc/huya/11352967
+#EXTINF:-1 group-title="一起看" tvg-name="虎牙现场" tvg-logo="https://epg.112114.xyz/logo/虎牙现场.png",虎牙现场
+https://live.ottiptv.cc/huya/20985839
+#EXTINF:-1 group-title="一起看" tvg-name="陌离-小欣" tvg-logo="https://epg.112114.xyz/logo/陌离-小欣.png",陌离-小欣
+https://live.ottiptv.cc/huya/11342397
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/20985765
+#EXTINF:-1 group-title="一起看" tvg-name="深夜悦读" tvg-logo="https://epg.112114.xyz/logo/深夜悦读.png",深夜悦读
+https://live.ottiptv.cc/huya/20985815
+#EXTINF:-1 group-title="一起看" tvg-name="神行大宝" tvg-logo="https://epg.112114.xyz/logo/神行大宝.png",神行大宝
+https://live.ottiptv.cc/huya/24514506
+#EXTINF:-1 group-title="一起看" tvg-name="狼爸爸" tvg-logo="https://epg.112114.xyz/logo/狼爸爸.png",狼爸爸
+https://live.ottiptv.cc/huya/20985780
+#EXTINF:-1 group-title="一起看" tvg-name="竹叶青说球" tvg-logo="https://epg.112114.xyz/logo/竹叶青说球.png",竹叶青说球
+https://live.ottiptv.cc/huya/29982604
+#EXTINF:-1 group-title="一起看" tvg-name="Amy姐" tvg-logo="https://epg.112114.xyz/logo/Amy姐.png",Amy姐
+https://live.ottiptv.cc/huya/23746486
+#EXTINF:-1 group-title="一起看" tvg-name="赛博的朋克" tvg-logo="https://epg.112114.xyz/logo/赛博的朋克.png",赛博的朋克
+https://live.ottiptv.cc/huya/29982649
+#EXTINF:-1 group-title="一起看" tvg-name="爱吃桃子的喵" tvg-logo="https://epg.112114.xyz/logo/爱吃桃子的喵.png",爱吃桃子的喵
+https://live.ottiptv.cc/huya/18501378
+#EXTINF:-1 group-title="一起看" tvg-name="以仁皇岭" tvg-logo="https://epg.112114.xyz/logo/以仁皇岭.png",以仁皇岭
+https://live.ottiptv.cc/huya/29465871
+#EXTINF:-1 group-title="一起看" tvg-name="我的心好疼" tvg-logo="https://epg.112114.xyz/logo/我的心好疼.png",我的心好疼
+https://live.ottiptv.cc/huya/11601955
+#EXTINF:-1 group-title="一起看" tvg-name="杨过的挂耳染" tvg-logo="https://epg.112114.xyz/logo/杨过的挂耳染.png",杨过的挂耳染
+https://live.ottiptv.cc/huya/23746691
+#EXTINF:-1 group-title="一起看" tvg-name="花开又三年" tvg-logo="https://epg.112114.xyz/logo/花开又三年.png",花开又三年
+https://live.ottiptv.cc/huya/20985852
+#EXTINF:-1 group-title="一起看" tvg-name="老实的小虎牙" tvg-logo="https://epg.112114.xyz/logo/老实的小虎牙.png",老实的小虎牙
+https://live.ottiptv.cc/huya/21059609
+#EXTINF:-1 group-title="一起看" tvg-name="橘酱真甜" tvg-logo="https://epg.112114.xyz/logo/橘酱真甜.png",橘酱真甜
+https://live.ottiptv.cc/huya/11602055
+#EXTINF:-1 group-title="一起看" tvg-name="娜娜Q" tvg-logo="https://epg.112114.xyz/logo/娜娜Q.png",娜娜Q
+https://live.ottiptv.cc/huya/20969125
+#EXTINF:-1 group-title="一起看" tvg-name="观剧无限惊喜" tvg-logo="https://epg.112114.xyz/logo/观剧无限惊喜.png",观剧无限惊喜
+https://live.ottiptv.cc/huya/29465853
+#EXTINF:-1 group-title="一起看" tvg-name="身外桂鱼" tvg-logo="https://epg.112114.xyz/logo/身外桂鱼.png",身外桂鱼
+https://live.ottiptv.cc/huya/29465869
+#EXTINF:-1 group-title="一起看" tvg-name="难与鸣琴弹" tvg-logo="https://epg.112114.xyz/logo/难与鸣琴弹.png",难与鸣琴弹
+https://live.ottiptv.cc/huya/21059612
+#EXTINF:-1 group-title="一起看" tvg-name="电影最TOP2" tvg-logo="https://epg.112114.xyz/logo/电影最TOP2.png",电影最TOP2
+https://live.ottiptv.cc/huya/29982676
+#EXTINF:-1 group-title="一起看" tvg-name="越哥说电影2" tvg-logo="https://epg.112114.xyz/logo/越哥说电影2.png",越哥说电影2
+https://live.ottiptv.cc/huya/29982680
+#EXTINF:-1 group-title="一起看" tvg-name="电视剧扣人心弦" tvg-logo="https://epg.112114.xyz/logo/电视剧扣人心弦.png",电视剧扣人心弦
+https://live.ottiptv.cc/huya/29465855
+#EXTINF:-1 group-title="一起看" tvg-name="车速高开" tvg-logo="https://epg.112114.xyz/logo/车速高开.png",车速高开
+https://live.ottiptv.cc/huya/20985850
+#EXTINF:-1 group-title="一起看" tvg-name="非凡武林2" tvg-logo="https://epg.112114.xyz/logo/非凡武林2.png",非凡武林2
+https://live.ottiptv.cc/huya/29982677
+#EXTINF:-1 group-title="一起看" tvg-name="爱情电影放映厅" tvg-logo="https://epg.112114.xyz/logo/爱情电影放映厅.png",爱情电影放映厅
+https://live.ottiptv.cc/huya/29982639
+#EXTINF:-1 group-title="一起看" tvg-name="翦元良" tvg-logo="https://epg.112114.xyz/logo/翦元良.png",翦元良
+https://live.ottiptv.cc/huya/21059596
+#EXTINF:-1 group-title="一起看" tvg-name="西班牙巴斯光年" tvg-logo="https://epg.112114.xyz/logo/西班牙巴斯光年.png",西班牙巴斯光年
+https://live.ottiptv.cc/huya/30080256
+#EXTINF:-1 group-title="一起看" tvg-name="我才是厨神" tvg-logo="https://epg.112114.xyz/logo/我才是厨神.png",我才是厨神
+https://live.ottiptv.cc/huya/23728595
+#EXTINF:-1 group-title="一起看" tvg-name="为所欲为的墨镜哥" tvg-logo="https://epg.112114.xyz/logo/为所欲为的墨镜哥.png",为所欲为的墨镜哥
+https://live.ottiptv.cc/huya/23865161
+#EXTINF:-1 group-title="一起看" tvg-name="宠物电竞领主" tvg-logo="https://epg.112114.xyz/logo/宠物电竞领主.png",宠物电竞领主
+https://live.ottiptv.cc/huya/30080235
+#EXTINF:-1 group-title="一起看" tvg-name="铁血真汉子" tvg-logo="https://epg.112114.xyz/logo/铁血真汉子.png",铁血真汉子
+https://live.ottiptv.cc/huya/11342395
+#EXTINF:-1 group-title="一起看" tvg-name="港风女神" tvg-logo="https://epg.112114.xyz/logo/港风女神.png",港风女神
+https://live.ottiptv.cc/huya/23728689
+#EXTINF:-1 group-title="一起看" tvg-name="TVB职场剧大全" tvg-logo="https://epg.112114.xyz/logo/TVB职场剧大全.png",TVB职场剧大全
+https://live.ottiptv.cc/huya/23735153
+#EXTINF:-1 group-title="一起看" tvg-name="尹地仇" tvg-logo="https://epg.112114.xyz/logo/尹地仇.png",尹地仇
+https://live.ottiptv.cc/huya/21059567
+#EXTINF:-1 group-title="一起看" tvg-name="小雅很可爱" tvg-logo="https://epg.112114.xyz/logo/小雅很可爱.png",小雅很可爱
+https://live.ottiptv.cc/huya/29982648
+#EXTINF:-1 group-title="一起看" tvg-name="徒步喜马拉雅" tvg-logo="https://epg.112114.xyz/logo/徒步喜马拉雅.png",徒步喜马拉雅
+https://live.ottiptv.cc/huya/24609811
+#EXTINF:-1 group-title="一起看" tvg-name="机动战士驾驶科目3" tvg-logo="https://epg.112114.xyz/logo/机动战士驾驶科目3.png",机动战士驾驶科目3
+https://live.ottiptv.cc/huya/26355764
+#EXTINF:-1 group-title="一起看" tvg-name="黄金屋" tvg-logo="https://epg.112114.xyz/logo/黄金屋.png",黄金屋
+https://live.ottiptv.cc/huya/20969119
+#EXTINF:-1 group-title="一起看" tvg-name="斯国一" tvg-logo="https://epg.112114.xyz/logo/斯国一.png",斯国一
+https://live.ottiptv.cc/huya/11352905
+#EXTINF:-1 group-title="一起看" tvg-name="钱丢丢丢" tvg-logo="https://epg.112114.xyz/logo/钱丢丢丢.png",钱丢丢丢
+https://live.ottiptv.cc/huya/20969127
+#EXTINF:-1 group-title="一起看" tvg-name="梨花娇滴滴" tvg-logo="https://epg.112114.xyz/logo/梨花娇滴滴.png",梨花娇滴滴
+https://live.ottiptv.cc/huya/30080216
+#EXTINF:-1 group-title="一起看" tvg-name="之而成冠毛" tvg-logo="https://epg.112114.xyz/logo/之而成冠毛.png",之而成冠毛
+https://live.ottiptv.cc/huya/26355802
+#EXTINF:-1 group-title="一起看" tvg-name="黄金妖狐猫" tvg-logo="https://epg.112114.xyz/logo/黄金妖狐猫.png",黄金妖狐猫
+https://live.ottiptv.cc/huya/30080157
+#EXTINF:-1 group-title="一起看" tvg-name="是大宝贝呀" tvg-logo="https://epg.112114.xyz/logo/是大宝贝呀.png",是大宝贝呀
+https://live.ottiptv.cc/huya/23829543
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-aRGiVjLtcn" tvg-logo="https://epg.112114.xyz/logo/昵称违规-aRGiVjLtcn.png",昵称违规-aRGiVjLtcn
+https://live.ottiptv.cc/huya/20985831
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-dTyPjS9FGm" tvg-logo="https://epg.112114.xyz/logo/昵称违规-dTyPjS9FGm.png",昵称违规-dTyPjS9FGm
+https://live.ottiptv.cc/huya/20985865
+#EXTINF:-1 group-title="一起看" tvg-name="喜欢陪你唠嗑" tvg-logo="https://epg.112114.xyz/logo/喜欢陪你唠嗑.png",喜欢陪你唠嗑
+https://live.ottiptv.cc/huya/29982621
+#EXTINF:-1 group-title="一起看" tvg-name="且听我说" tvg-logo="https://epg.112114.xyz/logo/且听我说.png",且听我说
+https://live.ottiptv.cc/huya/20985820
+#EXTINF:-1 group-title="一起看" tvg-name="舞王驾到" tvg-logo="https://epg.112114.xyz/logo/舞王驾到.png",舞王驾到
+https://live.ottiptv.cc/huya/11342438
+#EXTINF:-1 group-title="一起看" tvg-name="阿汤哥的梦中情人" tvg-logo="https://epg.112114.xyz/logo/阿汤哥的梦中情人.png",阿汤哥的梦中情人
+https://live.ottiptv.cc/huya/21059591
+#EXTINF:-1 group-title="一起看" tvg-name="静谧小稻草" tvg-logo="https://epg.112114.xyz/logo/静谧小稻草.png",静谧小稻草
+https://live.ottiptv.cc/huya/30307160
+#EXTINF:-1 group-title="一起看" tvg-name="Time小时间" tvg-logo="https://epg.112114.xyz/logo/Time小时间.png",Time小时间
+https://live.ottiptv.cc/huya/30080246
+#EXTINF:-1 group-title="一起看" tvg-name="艾薇宝贝de宝贝" tvg-logo="https://epg.112114.xyz/logo/艾薇宝贝de宝贝.png",艾薇宝贝de宝贝
+https://live.ottiptv.cc/huya/21059554
+#EXTINF:-1 group-title="一起看" tvg-name="千绪小绘" tvg-logo="https://epg.112114.xyz/logo/千绪小绘.png",千绪小绘
+https://live.ottiptv.cc/huya/29465867
+#EXTINF:-1 group-title="一起看" tvg-name="永艳金铭" tvg-logo="https://epg.112114.xyz/logo/永艳金铭.png",永艳金铭
+https://live.ottiptv.cc/huya/26355839
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/20985853
+#EXTINF:-1 group-title="一起看" tvg-name="我的宝贝baby" tvg-logo="https://epg.112114.xyz/logo/我的宝贝baby.png",我的宝贝baby
+https://live.ottiptv.cc/huya/11352880
+#EXTINF:-1 group-title="一起看" tvg-name="大帅哥狄奇" tvg-logo="https://epg.112114.xyz/logo/大帅哥狄奇.png",大帅哥狄奇
+https://live.ottiptv.cc/huya/23728651
+#EXTINF:-1 group-title="一起看" tvg-name="经典日本动漫速看" tvg-logo="https://epg.112114.xyz/logo/经典日本动漫速看.png",经典日本动漫速看
+https://live.ottiptv.cc/huya/29982686
+#EXTINF:-1 group-title="一起看" tvg-name="鋪床拂席有清風" tvg-logo="https://epg.112114.xyz/logo/鋪床拂席有清風.png",鋪床拂席有清風
+https://live.ottiptv.cc/huya/26355862
+#EXTINF:-1 group-title="一起看" tvg-name="阿森木木木" tvg-logo="https://epg.112114.xyz/logo/阿森木木木.png",阿森木木木
+https://live.ottiptv.cc/huya/11601971
+#EXTINF:-1 group-title="一起看" tvg-name="终年防肠断" tvg-logo="https://epg.112114.xyz/logo/终年防肠断.png",终年防肠断
+https://live.ottiptv.cc/huya/30080187
+#EXTINF:-1 group-title="一起看" tvg-name="悬疑电影放映厅" tvg-logo="https://epg.112114.xyz/logo/悬疑电影放映厅.png",悬疑电影放映厅
+https://live.ottiptv.cc/huya/29982641
+#EXTINF:-1 group-title="一起看" tvg-name="雨、浮沉" tvg-logo="https://epg.112114.xyz/logo/雨、浮沉.png",雨、浮沉
+https://live.ottiptv.cc/huya/11336593
+#EXTINF:-1 group-title="一起看" tvg-name="本是凉薄之人怎暖他人" tvg-logo="https://epg.112114.xyz/logo/本是凉薄之人怎暖他人.png",本是凉薄之人怎暖他人
+https://live.ottiptv.cc/huya/21059630
+#EXTINF:-1 group-title="一起看" tvg-name="熬夜看球帝" tvg-logo="https://epg.112114.xyz/logo/熬夜看球帝.png",熬夜看球帝
+https://live.ottiptv.cc/huya/29465877
+#EXTINF:-1 group-title="一起看" tvg-name="皮皮皮卡卡皮卡丘" tvg-logo="https://epg.112114.xyz/logo/皮皮皮卡卡皮卡丘.png",皮皮皮卡卡皮卡丘
+https://live.ottiptv.cc/huya/21059595
+#EXTINF:-1 group-title="一起看" tvg-name="果子山薩科" tvg-logo="https://epg.112114.xyz/logo/果子山薩科.png",果子山薩科
+https://live.ottiptv.cc/huya/26355823
+#EXTINF:-1 group-title="一起看" tvg-name="黑羽" tvg-logo="https://epg.112114.xyz/logo/黑羽.png",黑羽
+https://live.ottiptv.cc/huya/20985791
+#EXTINF:-1 group-title="一起看" tvg-name="SMG爆笑舞台" tvg-logo="https://epg.112114.xyz/logo/SMG爆笑舞台.png",SMG爆笑舞台
+https://live.ottiptv.cc/huya/11352937
+#EXTINF:-1 group-title="一起看" tvg-name="军械库" tvg-logo="https://epg.112114.xyz/logo/军械库.png",军械库
+https://live.ottiptv.cc/huya/20969111
+#EXTINF:-1 group-title="一起看" tvg-name="十五块五吴清鸥" tvg-logo="https://epg.112114.xyz/logo/十五块五吴清鸥.png",十五块五吴清鸥
+https://live.ottiptv.cc/huya/30080237
+#EXTINF:-1 group-title="一起看" tvg-name="吾聊电影2" tvg-logo="https://epg.112114.xyz/logo/吾聊电影2.png",吾聊电影2
+https://live.ottiptv.cc/huya/29982684
+#EXTINF:-1 group-title="一起看" tvg-name="激战欧罗巴" tvg-logo="https://epg.112114.xyz/logo/激战欧罗巴.png",激战欧罗巴
+https://live.ottiptv.cc/huya/29465876
+#EXTINF:-1 group-title="一起看" tvg-name="贷款小说家" tvg-logo="https://epg.112114.xyz/logo/贷款小说家.png",贷款小说家
+https://live.ottiptv.cc/huya/30080249
+#EXTINF:-1 group-title="一起看" tvg-name="足球客栈Harbou" tvg-logo="https://epg.112114.xyz/logo/足球客栈Harbou.png",足球客栈Harbou
+https://live.ottiptv.cc/huya/29982615
+#EXTINF:-1 group-title="一起看" tvg-name="元芳看不到" tvg-logo="https://epg.112114.xyz/logo/元芳看不到.png",元芳看不到
+https://live.ottiptv.cc/huya/11342414
+#EXTINF:-1 group-title="一起看" tvg-name="丹尼日记" tvg-logo="https://epg.112114.xyz/logo/丹尼日记.png",丹尼日记
+https://live.ottiptv.cc/huya/20969121
+#EXTINF:-1 group-title="一起看" tvg-name="青怏" tvg-logo="https://epg.112114.xyz/logo/青怏.png",青怏
+https://live.ottiptv.cc/huya/20969098
+#EXTINF:-1 group-title="一起看" tvg-name="青曲社" tvg-logo="https://epg.112114.xyz/logo/青曲社.png",青曲社
+https://live.ottiptv.cc/huya/20969135
+#EXTINF:-1 group-title="一起看" tvg-name="西红柿" tvg-logo="https://epg.112114.xyz/logo/西红柿.png",西红柿
+https://live.ottiptv.cc/huya/11601979
+#EXTINF:-1 group-title="一起看" tvg-name="六宫" tvg-logo="https://epg.112114.xyz/logo/六宫.png",六宫
+https://live.ottiptv.cc/huya/11602051
+#EXTINF:-1 group-title="一起看" tvg-name="迢递羹瓜祭" tvg-logo="https://epg.112114.xyz/logo/迢递羹瓜祭.png",迢递羹瓜祭
+https://live.ottiptv.cc/huya/26355787
+#EXTINF:-1 group-title="一起看" tvg-name="老王诡事" tvg-logo="https://epg.112114.xyz/logo/老王诡事.png",老王诡事
+https://live.ottiptv.cc/huya/20985847
+#EXTINF:-1 group-title="一起看" tvg-name="每日读书" tvg-logo="https://epg.112114.xyz/logo/每日读书.png",每日读书
+https://live.ottiptv.cc/huya/20985826
+#EXTINF:-1 group-title="一起看" tvg-name="TVB追剧小能手" tvg-logo="https://epg.112114.xyz/logo/TVB追剧小能手.png",TVB追剧小能手
+https://live.ottiptv.cc/huya/23865179
+#EXTINF:-1 group-title="一起看" tvg-name="初心" tvg-logo="https://epg.112114.xyz/logo/初心.png",初心
+https://live.ottiptv.cc/huya/11352941
+#EXTINF:-1 group-title="一起看" tvg-name="西双版纳旅游" tvg-logo="https://epg.112114.xyz/logo/西双版纳旅游.png",西双版纳旅游
+https://live.ottiptv.cc/huya/29465880
+#EXTINF:-1 group-title="一起看" tvg-name="吹绿令人老" tvg-logo="https://epg.112114.xyz/logo/吹绿令人老.png",吹绿令人老
+https://live.ottiptv.cc/huya/21059613
+#EXTINF:-1 group-title="一起看" tvg-name="天德力已殚" tvg-logo="https://epg.112114.xyz/logo/天德力已殚.png",天德力已殚
+https://live.ottiptv.cc/huya/29982665
+#EXTINF:-1 group-title="一起看" tvg-name="御所田南通" tvg-logo="https://epg.112114.xyz/logo/御所田南通.png",御所田南通
+https://live.ottiptv.cc/huya/26355773
+#EXTINF:-1 group-title="一起看" tvg-name="會稽愚婦数花开" tvg-logo="https://epg.112114.xyz/logo/會稽愚婦数花开.png",會稽愚婦数花开
+https://live.ottiptv.cc/huya/26355845
+#EXTINF:-1 group-title="一起看" tvg-name="岩石上的树" tvg-logo="https://epg.112114.xyz/logo/岩石上的树.png",岩石上的树
+https://live.ottiptv.cc/huya/30080222
+#EXTINF:-1 group-title="一起看" tvg-name="五彩哥哥们" tvg-logo="https://epg.112114.xyz/logo/五彩哥哥们.png",五彩哥哥们
+https://live.ottiptv.cc/huya/29982633
+#EXTINF:-1 group-title="一起看" tvg-name="看似斐濟" tvg-logo="https://epg.112114.xyz/logo/看似斐濟.png",看似斐濟
+https://live.ottiptv.cc/huya/26355780
+#EXTINF:-1 group-title="一起看" tvg-name="炙恋兽兽" tvg-logo="https://epg.112114.xyz/logo/炙恋兽兽.png",炙恋兽兽
+https://live.ottiptv.cc/huya/11342428
+#EXTINF:-1 group-title="一起看" tvg-name="SMG吐槽担当" tvg-logo="https://epg.112114.xyz/logo/SMG吐槽担当.png",SMG吐槽担当
+https://live.ottiptv.cc/huya/11352961
+#EXTINF:-1 group-title="一起看" tvg-name="今时记" tvg-logo="https://epg.112114.xyz/logo/今时记.png",今时记
+https://live.ottiptv.cc/huya/20969113
+#EXTINF:-1 group-title="一起看" tvg-name="横而为己任" tvg-logo="https://epg.112114.xyz/logo/横而为己任.png",横而为己任
+https://live.ottiptv.cc/huya/26355837
+#EXTINF:-1 group-title="一起看" tvg-name="糊辣壳-阿达" tvg-logo="https://epg.112114.xyz/logo/糊辣壳-阿达.png",糊辣壳-阿达
+https://live.ottiptv.cc/huya/30080254
+#EXTINF:-1 group-title="一起看" tvg-name="梦幻之源宠7" tvg-logo="https://epg.112114.xyz/logo/梦幻之源宠7.png",梦幻之源宠7
+https://live.ottiptv.cc/huya/29982608
+#EXTINF:-1 group-title="一起看" tvg-name="小翼看科技" tvg-logo="https://epg.112114.xyz/logo/小翼看科技.png",小翼看科技
+https://live.ottiptv.cc/huya/27318871
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧有益" tvg-logo="https://epg.112114.xyz/logo/君临剧有益.png",君临剧有益
+https://live.ottiptv.cc/huya/24884646
+#EXTINF:-1 group-title="一起看" tvg-name="热爱旅行的仙女" tvg-logo="https://epg.112114.xyz/logo/热爱旅行的仙女.png",热爱旅行的仙女
+https://live.ottiptv.cc/huya/20985837
+#EXTINF:-1 group-title="一起看" tvg-name="烟强葉" tvg-logo="https://epg.112114.xyz/logo/烟强葉.png",烟强葉
+https://live.ottiptv.cc/huya/26355829
+#EXTINF:-1 group-title="一起看" tvg-name="辣条好吃嘛" tvg-logo="https://epg.112114.xyz/logo/辣条好吃嘛.png",辣条好吃嘛
+https://live.ottiptv.cc/huya/11601969
+#EXTINF:-1 group-title="一起看" tvg-name="靠谱女青年高小婷" tvg-logo="https://epg.112114.xyz/logo/靠谱女青年高小婷.png",靠谱女青年高小婷
+https://live.ottiptv.cc/huya/11342392
+#EXTINF:-1 group-title="一起看" tvg-name="靠谱女青年高小婷" tvg-logo="https://epg.112114.xyz/logo/靠谱女青年高小婷.png",靠谱女青年高小婷
+https://live.ottiptv.cc/huya/11342392
+#EXTINF:-1 group-title="一起看" tvg-name="小琦琪" tvg-logo="https://epg.112114.xyz/logo/小琦琪.png",小琦琪
+https://live.ottiptv.cc/huya/21241819
+#EXTINF:-1 group-title="一起看" tvg-name="百里乐成" tvg-logo="https://epg.112114.xyz/logo/百里乐成.png",百里乐成
+https://live.ottiptv.cc/huya/21059632
+#EXTINF:-1 group-title="一起看" tvg-name="图文不符" tvg-logo="https://epg.112114.xyz/logo/图文不符.png",图文不符
+https://live.ottiptv.cc/huya/20985790
+#EXTINF:-1 group-title="一起看" tvg-name="缇兰传奇" tvg-logo="https://epg.112114.xyz/logo/缇兰传奇.png",缇兰传奇
+https://live.ottiptv.cc/huya/30080178
+#EXTINF:-1 group-title="一起看" tvg-name="高雅小鲸" tvg-logo="https://epg.112114.xyz/logo/高雅小鲸.png",高雅小鲸
+https://live.ottiptv.cc/huya/30080223
+#EXTINF:-1 group-title="一起看" tvg-name="心动好剧" tvg-logo="https://epg.112114.xyz/logo/心动好剧.png",心动好剧
+https://live.ottiptv.cc/huya/26355781
+#EXTINF:-1 group-title="一起看" tvg-name="明日香世界第一可爱" tvg-logo="https://epg.112114.xyz/logo/明日香世界第一可爱.png",明日香世界第一可爱
+https://live.ottiptv.cc/huya/21059530
+#EXTINF:-1 group-title="一起看" tvg-name="我是大侠闯江湖" tvg-logo="https://epg.112114.xyz/logo/我是大侠闯江湖.png",我是大侠闯江湖
+https://live.ottiptv.cc/huya/29982667
+#EXTINF:-1 group-title="一起看" tvg-name="奇遇公主" tvg-logo="https://epg.112114.xyz/logo/奇遇公主.png",奇遇公主
+https://live.ottiptv.cc/huya/30080156
+#EXTINF:-1 group-title="一起看" tvg-name="SMG胖月老" tvg-logo="https://epg.112114.xyz/logo/SMG胖月老.png",SMG胖月老
+https://live.ottiptv.cc/huya/11352947
+#EXTINF:-1 group-title="一起看" tvg-name="国乒小分队" tvg-logo="https://epg.112114.xyz/logo/国乒小分队.png",国乒小分队
+https://live.ottiptv.cc/huya/30080171
+#EXTINF:-1 group-title="一起看" tvg-name="港剧职场日记" tvg-logo="https://epg.112114.xyz/logo/港剧职场日记.png",港剧职场日记
+https://live.ottiptv.cc/huya/23903164
+#EXTINF:-1 group-title="一起看" tvg-name="状元及第粥" tvg-logo="https://epg.112114.xyz/logo/状元及第粥.png",状元及第粥
+https://live.ottiptv.cc/huya/21059581
+#EXTINF:-1 group-title="一起看" tvg-name="滴水恋" tvg-logo="https://epg.112114.xyz/logo/滴水恋.png",滴水恋
+https://live.ottiptv.cc/huya/30080218
+#EXTINF:-1 group-title="一起看" tvg-name="林正英百年老粉" tvg-logo="https://epg.112114.xyz/logo/林正英百年老粉.png",林正英百年老粉
+https://live.ottiptv.cc/huya/21059619
+#EXTINF:-1 group-title="一起看" tvg-name="阿张的RayZhang" tvg-logo="https://epg.112114.xyz/logo/阿张的RayZhang.png",阿张的RayZhang
+https://live.ottiptv.cc/huya/29982637
+#EXTINF:-1 group-title="一起看" tvg-name="iTVB大后宫" tvg-logo="https://epg.112114.xyz/logo/iTVB大后宫.png",iTVB大后宫
+https://live.ottiptv.cc/huya/23863804
+#EXTINF:-1 group-title="一起看" tvg-name="酒窝储存机" tvg-logo="https://epg.112114.xyz/logo/酒窝储存机.png",酒窝储存机
+https://live.ottiptv.cc/huya/11602043
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-5W3JAeeEfC" tvg-logo="https://epg.112114.xyz/logo/昵称违规-5W3JAeeEfC.png",昵称违规-5W3JAeeEfC
+https://live.ottiptv.cc/huya/22360453
+#EXTINF:-1 group-title="一起看" tvg-name="傲笑红尘君" tvg-logo="https://epg.112114.xyz/logo/傲笑红尘君.png",傲笑红尘君
+https://live.ottiptv.cc/huya/29982645
+#EXTINF:-1 group-title="一起看" tvg-name="云斑裸頰虾虎鱼锚参科" tvg-logo="https://epg.112114.xyz/logo/云斑裸頰虾虎鱼锚参科.png",云斑裸頰虾虎鱼锚参科
+https://live.ottiptv.cc/huya/26355766
+#EXTINF:-1 group-title="一起看" tvg-name="顶级奢侈" tvg-logo="https://epg.112114.xyz/logo/顶级奢侈.png",顶级奢侈
+https://live.ottiptv.cc/huya/20985814
+#EXTINF:-1 group-title="一起看" tvg-name="我的朋友陈白露小姐" tvg-logo="https://epg.112114.xyz/logo/我的朋友陈白露小姐.png",我的朋友陈白露小姐
+https://live.ottiptv.cc/huya/11352917
+#EXTINF:-1 group-title="一起看" tvg-name="皇太子布朗尼" tvg-logo="https://epg.112114.xyz/logo/皇太子布朗尼.png",皇太子布朗尼
+https://live.ottiptv.cc/huya/29982642
+#EXTINF:-1 group-title="一起看" tvg-name="足球TOP" tvg-logo="https://epg.112114.xyz/logo/足球TOP.png",足球TOP
+https://live.ottiptv.cc/huya/29982607
+#EXTINF:-1 group-title="一起看" tvg-name="定海路老夫子" tvg-logo="https://epg.112114.xyz/logo/定海路老夫子.png",定海路老夫子
+https://live.ottiptv.cc/huya/26355770
+#EXTINF:-1 group-title="一起看" tvg-name="仰望星空慢直播" tvg-logo="https://epg.112114.xyz/logo/仰望星空慢直播.png",仰望星空慢直播
+https://live.ottiptv.cc/huya/29465892
+#EXTINF:-1 group-title="一起看" tvg-name="无心说" tvg-logo="https://epg.112114.xyz/logo/无心说.png",无心说
+https://live.ottiptv.cc/huya/20985772
+#EXTINF:-1 group-title="一起看" tvg-name="霸总傲天短剧" tvg-logo="https://epg.112114.xyz/logo/霸总傲天短剧.png",霸总傲天短剧
+https://live.ottiptv.cc/huya/29465898
+#EXTINF:-1 group-title="一起看" tvg-name="校长莫开腔" tvg-logo="https://epg.112114.xyz/logo/校长莫开腔.png",校长莫开腔
+https://live.ottiptv.cc/huya/20969120
+#EXTINF:-1 group-title="一起看" tvg-name="鸡公碗" tvg-logo="https://epg.112114.xyz/logo/鸡公碗.png",鸡公碗
+https://live.ottiptv.cc/huya/23734211
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-7kYdWFDMe2" tvg-logo="https://epg.112114.xyz/logo/昵称违规-7kYdWFDMe2.png",昵称违规-7kYdWFDMe2
+https://live.ottiptv.cc/huya/20985777
+#EXTINF:-1 group-title="一起看" tvg-name="弹一闪闪闪" tvg-logo="https://epg.112114.xyz/logo/弹一闪闪闪.png",弹一闪闪闪
+https://live.ottiptv.cc/huya/21059570
+#EXTINF:-1 group-title="一起看" tvg-name="只爱评书" tvg-logo="https://epg.112114.xyz/logo/只爱评书.png",只爱评书
+https://live.ottiptv.cc/huya/20985827
+#EXTINF:-1 group-title="一起看" tvg-name="异色档案" tvg-logo="https://epg.112114.xyz/logo/异色档案.png",异色档案
+https://live.ottiptv.cc/huya/20985841
+#EXTINF:-1 group-title="一起看" tvg-name="我才是打工人" tvg-logo="https://epg.112114.xyz/logo/我才是打工人.png",我才是打工人
+https://live.ottiptv.cc/huya/23860039
+#EXTINF:-1 group-title="一起看" tvg-name="每日侃谈" tvg-logo="https://epg.112114.xyz/logo/每日侃谈.png",每日侃谈
+https://live.ottiptv.cc/huya/20969114
+#EXTINF:-1 group-title="一起看" tvg-name="亮哥讲电影2" tvg-logo="https://epg.112114.xyz/logo/亮哥讲电影2.png",亮哥讲电影2
+https://live.ottiptv.cc/huya/29982687
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-jPhz6R8hIC" tvg-logo="https://epg.112114.xyz/logo/昵称违规-jPhz6R8hIC.png",昵称违规-jPhz6R8hIC
+https://live.ottiptv.cc/huya/11352918
+#EXTINF:-1 group-title="一起看" tvg-name="玩大变成光" tvg-logo="https://epg.112114.xyz/logo/玩大变成光.png",玩大变成光
+https://live.ottiptv.cc/huya/21059608
+#EXTINF:-1 group-title="一起看" tvg-name="龙须菜麻糍" tvg-logo="https://epg.112114.xyz/logo/龙须菜麻糍.png",龙须菜麻糍
+https://live.ottiptv.cc/huya/30080147
+#EXTINF:-1 group-title="一起看" tvg-name="暖阳雪兔" tvg-logo="https://epg.112114.xyz/logo/暖阳雪兔.png",暖阳雪兔
+https://live.ottiptv.cc/huya/30080155
+#EXTINF:-1 group-title="一起看" tvg-name="港剧伴你行" tvg-logo="https://epg.112114.xyz/logo/港剧伴你行.png",港剧伴你行
+https://live.ottiptv.cc/huya/23903183
+#EXTINF:-1 group-title="一起看" tvg-name="多米诺效应" tvg-logo="https://epg.112114.xyz/logo/多米诺效应.png",多米诺效应
+https://live.ottiptv.cc/huya/20985832
+#EXTINF:-1 group-title="一起看" tvg-name="仙人万戶侯" tvg-logo="https://epg.112114.xyz/logo/仙人万戶侯.png",仙人万戶侯
+https://live.ottiptv.cc/huya/26355863
+#EXTINF:-1 group-title="一起看" tvg-name="绝不再虚伪讨好" tvg-logo="https://epg.112114.xyz/logo/绝不再虚伪讨好.png",绝不再虚伪讨好
+https://live.ottiptv.cc/huya/30080232
+#EXTINF:-1 group-title="一起看" tvg-name="二十鯉" tvg-logo="https://epg.112114.xyz/logo/二十鯉.png",二十鯉
+https://live.ottiptv.cc/huya/26355783
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-pTSEbHriOn" tvg-logo="https://epg.112114.xyz/logo/昵称违规-pTSEbHriOn.png",昵称违规-pTSEbHriOn
+https://live.ottiptv.cc/huya/23863796
+#EXTINF:-1 group-title="一起看" tvg-name="雪狐啸谷" tvg-logo="https://epg.112114.xyz/logo/雪狐啸谷.png",雪狐啸谷
+https://live.ottiptv.cc/huya/30080251
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-LC5NQAheX1" tvg-logo="https://epg.112114.xyz/logo/昵称违规-LC5NQAheX1.png",昵称违规-LC5NQAheX1
+https://live.ottiptv.cc/huya/20985784
+#EXTINF:-1 group-title="一起看" tvg-name="冬至小肉丸子圈圈" tvg-logo="https://epg.112114.xyz/logo/冬至小肉丸子圈圈.png",冬至小肉丸子圈圈
+https://live.ottiptv.cc/huya/30080141
+#EXTINF:-1 group-title="一起看" tvg-name="港片看不停" tvg-logo="https://epg.112114.xyz/logo/港片看不停.png",港片看不停
+https://live.ottiptv.cc/huya/23865096
+#EXTINF:-1 group-title="一起看" tvg-name="Zyn" tvg-logo="https://epg.112114.xyz/logo/Zyn.png",Zyn
+https://live.ottiptv.cc/huya/20985781
+#EXTINF:-1 group-title="一起看" tvg-name="對君白蜥蜴" tvg-logo="https://epg.112114.xyz/logo/對君白蜥蜴.png",對君白蜥蜴
+https://live.ottiptv.cc/huya/26355776
+#EXTINF:-1 group-title="一起看" tvg-name="丹凤新村老白" tvg-logo="https://epg.112114.xyz/logo/丹凤新村老白.png",丹凤新村老白
+https://live.ottiptv.cc/huya/26355851
+#EXTINF:-1 group-title="一起看" tvg-name="电视城打工人" tvg-logo="https://epg.112114.xyz/logo/电视城打工人.png",电视城打工人
+https://live.ottiptv.cc/huya/23824171
+#EXTINF:-1 group-title="一起看" tvg-name="自缘身在苔衣上" tvg-logo="https://epg.112114.xyz/logo/自缘身在苔衣上.png",自缘身在苔衣上
+https://live.ottiptv.cc/huya/26355822
+#EXTINF:-1 group-title="一起看" tvg-name="电竞小魔王" tvg-logo="https://epg.112114.xyz/logo/电竞小魔王.png",电竞小魔王
+https://live.ottiptv.cc/huya/20985844
+#EXTINF:-1 group-title="一起看" tvg-name="今日说" tvg-logo="https://epg.112114.xyz/logo/今日说.png",今日说
+https://live.ottiptv.cc/huya/20985860
+#EXTINF:-1 group-title="一起看" tvg-name="嫣然" tvg-logo="https://epg.112114.xyz/logo/嫣然.png",嫣然
+https://live.ottiptv.cc/huya/11601977
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧优秀" tvg-logo="https://epg.112114.xyz/logo/君临剧优秀.png",君临剧优秀
+https://live.ottiptv.cc/huya/24884334
+#EXTINF:-1 group-title="一起看" tvg-name="銀河少女-" tvg-logo="https://epg.112114.xyz/logo/銀河少女-.png",銀河少女-
+https://live.ottiptv.cc/huya/26355760
+#EXTINF:-1 group-title="一起看" tvg-name="教父三部曲的影迷" tvg-logo="https://epg.112114.xyz/logo/教父三部曲的影迷.png",教父三部曲的影迷
+https://live.ottiptv.cc/huya/21059589
+#EXTINF:-1 group-title="一起看" tvg-name="年月犬" tvg-logo="https://epg.112114.xyz/logo/年月犬.png",年月犬
+https://live.ottiptv.cc/huya/26355784
+#EXTINF:-1 group-title="一起看" tvg-name="时光小偷" tvg-logo="https://epg.112114.xyz/logo/时光小偷.png",时光小偷
+https://live.ottiptv.cc/huya/11352952
+#EXTINF:-1 group-title="一起看" tvg-name="-惟美" tvg-logo="https://epg.112114.xyz/logo/-惟美.png",-惟美
+https://live.ottiptv.cc/huya/11352885
+#EXTINF:-1 group-title="一起看" tvg-name="正在减肥的阿辰" tvg-logo="https://epg.112114.xyz/logo/正在减肥的阿辰.png",正在减肥的阿辰
+https://live.ottiptv.cc/huya/29982657
+#EXTINF:-1 group-title="一起看" tvg-name="薰衣草雀" tvg-logo="https://epg.112114.xyz/logo/薰衣草雀.png",薰衣草雀
+https://live.ottiptv.cc/huya/30080143
+#EXTINF:-1 group-title="一起看" tvg-name="錦丹广明" tvg-logo="https://epg.112114.xyz/logo/錦丹广明.png",錦丹广明
+https://live.ottiptv.cc/huya/26355793
+#EXTINF:-1 group-title="一起看" tvg-name="臨眺無雨色" tvg-logo="https://epg.112114.xyz/logo/臨眺無雨色.png",臨眺無雨色
+https://live.ottiptv.cc/huya/26355838
+#EXTINF:-1 group-title="一起看" tvg-name="邓潇" tvg-logo="https://epg.112114.xyz/logo/邓潇.png",邓潇
+https://live.ottiptv.cc/huya/20985771
+#EXTINF:-1 group-title="一起看" tvg-name="贝爷" tvg-logo="https://epg.112114.xyz/logo/贝爷.png",贝爷
+https://live.ottiptv.cc/huya/20969143
+#EXTINF:-1 group-title="一起看" tvg-name="世界到底有多大" tvg-logo="https://epg.112114.xyz/logo/世界到底有多大.png",世界到底有多大
+https://live.ottiptv.cc/huya/23829537
+#EXTINF:-1 group-title="一起看" tvg-name="小当家动漫社" tvg-logo="https://epg.112114.xyz/logo/小当家动漫社.png",小当家动漫社
+https://live.ottiptv.cc/huya/24257300
+#EXTINF:-1 group-title="一起看" tvg-name="恶魔宝钧" tvg-logo="https://epg.112114.xyz/logo/恶魔宝钧.png",恶魔宝钧
+https://live.ottiptv.cc/huya/30080242
+#EXTINF:-1 group-title="一起看" tvg-name="-小癲" tvg-logo="https://epg.112114.xyz/logo/-小癲.png",-小癲
+https://live.ottiptv.cc/huya/11602065
+#EXTINF:-1 group-title="一起看" tvg-name="動感de地带" tvg-logo="https://epg.112114.xyz/logo/動感de地带.png",動感de地带
+https://live.ottiptv.cc/huya/29465878
+#EXTINF:-1 group-title="一起看" tvg-name="涵九九是九九" tvg-logo="https://epg.112114.xyz/logo/涵九九是九九.png",涵九九是九九
+https://live.ottiptv.cc/huya/29982647
+#EXTINF:-1 group-title="一起看" tvg-name="高山流水梦" tvg-logo="https://epg.112114.xyz/logo/高山流水梦.png",高山流水梦
+https://live.ottiptv.cc/huya/30080174
+#EXTINF:-1 group-title="一起看" tvg-name="葱花" tvg-logo="https://epg.112114.xyz/logo/葱花.png",葱花
+https://live.ottiptv.cc/huya/11352938
+#EXTINF:-1 group-title="一起看" tvg-name="爆裂电影2" tvg-logo="https://epg.112114.xyz/logo/爆裂电影2.png",爆裂电影2
+https://live.ottiptv.cc/huya/29982678
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/19077705
+#EXTINF:-1 group-title="一起看" tvg-name="多面体想娶冰柠檬" tvg-logo="https://epg.112114.xyz/logo/多面体想娶冰柠檬.png",多面体想娶冰柠檬
+https://live.ottiptv.cc/huya/21059575
+#EXTINF:-1 group-title="一起看" tvg-name="D3ath-亡魂" tvg-logo="https://epg.112114.xyz/logo/D3ath-亡魂.png",D3ath-亡魂
+https://live.ottiptv.cc/huya/11342437
+#EXTINF:-1 group-title="一起看" tvg-name="蝉噪见之矣" tvg-logo="https://epg.112114.xyz/logo/蝉噪见之矣.png",蝉噪见之矣
+https://live.ottiptv.cc/huya/29982609
+#EXTINF:-1 group-title="一起看" tvg-name="joe-creator" tvg-logo="https://epg.112114.xyz/logo/joe-creator.png",joe-creator
+https://live.ottiptv.cc/huya/29982624
+#EXTINF:-1 group-title="一起看" tvg-name="足球那些事贰" tvg-logo="https://epg.112114.xyz/logo/足球那些事贰.png",足球那些事贰
+https://live.ottiptv.cc/huya/29982617
+#EXTINF:-1 group-title="一起看" tvg-name="耳科冲普拉斯" tvg-logo="https://epg.112114.xyz/logo/耳科冲普拉斯.png",耳科冲普拉斯
+https://live.ottiptv.cc/huya/20969126
+#EXTINF:-1 group-title="一起看" tvg-name="奥运前线观察" tvg-logo="https://epg.112114.xyz/logo/奥运前线观察.png",奥运前线观察
+https://live.ottiptv.cc/huya/30080185
+#EXTINF:-1 group-title="一起看" tvg-name="扁豆看电影2" tvg-logo="https://epg.112114.xyz/logo/扁豆看电影2.png",扁豆看电影2
+https://live.ottiptv.cc/huya/21059623
+#EXTINF:-1 group-title="一起看" tvg-name="深秋有诗" tvg-logo="https://epg.112114.xyz/logo/深秋有诗.png",深秋有诗
+https://live.ottiptv.cc/huya/29982627
+#EXTINF:-1 group-title="一起看" tvg-name="科幻是我的神" tvg-logo="https://epg.112114.xyz/logo/科幻是我的神.png",科幻是我的神
+https://live.ottiptv.cc/huya/30080257
+#EXTINF:-1 group-title="一起看" tvg-name="拉美小姐姐Walesk" tvg-logo="https://epg.112114.xyz/logo/拉美小姐姐Walesk.png",拉美小姐姐Walesk
+https://live.ottiptv.cc/huya/29982634
+#EXTINF:-1 group-title="一起看" tvg-name="李大湿" tvg-logo="https://epg.112114.xyz/logo/李大湿.png",李大湿
+https://live.ottiptv.cc/huya/11342417
+#EXTINF:-1 group-title="一起看" tvg-name="池邊苏爾" tvg-logo="https://epg.112114.xyz/logo/池邊苏爾.png",池邊苏爾
+https://live.ottiptv.cc/huya/26355821
+#EXTINF:-1 group-title="一起看" tvg-name="学妹爱学长" tvg-logo="https://epg.112114.xyz/logo/学妹爱学长.png",学妹爱学长
+https://live.ottiptv.cc/huya/11352886
+#EXTINF:-1 group-title="一起看" tvg-name="barry观世界" tvg-logo="https://epg.112114.xyz/logo/barry观世界.png",barry观世界
+https://live.ottiptv.cc/huya/20985835
+#EXTINF:-1 group-title="一起看" tvg-name="天水慢直播" tvg-logo="https://epg.112114.xyz/logo/天水慢直播.png",天水慢直播
+https://live.ottiptv.cc/huya/29465899
+#EXTINF:-1 group-title="一起看" tvg-name="一起来埋堆" tvg-logo="https://epg.112114.xyz/logo/一起来埋堆.png",一起来埋堆
+https://live.ottiptv.cc/huya/23734183
+#EXTINF:-1 group-title="一起看" tvg-name="一只邪恶小棕熊" tvg-logo="https://epg.112114.xyz/logo/一只邪恶小棕熊.png",一只邪恶小棕熊
+https://live.ottiptv.cc/huya/30080224
+#EXTINF:-1 group-title="一起看" tvg-name="静妃沉浮录" tvg-logo="https://epg.112114.xyz/logo/静妃沉浮录.png",静妃沉浮录
+https://live.ottiptv.cc/huya/30080177
+#EXTINF:-1 group-title="一起看" tvg-name="ByDiy" tvg-logo="https://epg.112114.xyz/logo/ByDiy.png",ByDiy
+https://live.ottiptv.cc/huya/20985807
+#EXTINF:-1 group-title="一起看" tvg-name="辛苦烧餅" tvg-logo="https://epg.112114.xyz/logo/辛苦烧餅.png",辛苦烧餅
+https://live.ottiptv.cc/huya/26355848
+#EXTINF:-1 group-title="一起看" tvg-name="威猛先生" tvg-logo="https://epg.112114.xyz/logo/威猛先生.png",威猛先生
+https://live.ottiptv.cc/huya/11342420
+#EXTINF:-1 group-title="一起看" tvg-name="KotohaModeling" tvg-logo="https://epg.112114.xyz/logo/KotohaModeling.png",KotohaModeling
+https://live.ottiptv.cc/huya/20985794
+#EXTINF:-1 group-title="一起看" tvg-name="霸总傲天短剧" tvg-logo="https://epg.112114.xyz/logo/霸总傲天短剧.png",霸总傲天短剧
+https://live.ottiptv.cc/huya/29465896
+#EXTINF:-1 group-title="一起看" tvg-name="明月少年" tvg-logo="https://epg.112114.xyz/logo/明月少年.png",明月少年
+https://live.ottiptv.cc/huya/23652238
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-a2yKCay99R" tvg-logo="https://epg.112114.xyz/logo/昵称违规-a2yKCay99R.png",昵称违规-a2yKCay99R
+https://live.ottiptv.cc/huya/21954527
+#EXTINF:-1 group-title="一起看" tvg-name="近藤喜彦" tvg-logo="https://epg.112114.xyz/logo/近藤喜彦.png",近藤喜彦
+https://live.ottiptv.cc/huya/20985787
+#EXTINF:-1 group-title="一起看" tvg-name="加点吉拿棒" tvg-logo="https://epg.112114.xyz/logo/加点吉拿棒.png",加点吉拿棒
+https://live.ottiptv.cc/huya/20985782
+#EXTINF:-1 group-title="一起看" tvg-name="撸车吧" tvg-logo="https://epg.112114.xyz/logo/撸车吧.png",撸车吧
+https://live.ottiptv.cc/huya/20985779
+#EXTINF:-1 group-title="一起看" tvg-name="秋风美少女" tvg-logo="https://epg.112114.xyz/logo/秋风美少女.png",秋风美少女
+https://live.ottiptv.cc/huya/30080139
+#EXTINF:-1 group-title="一起看" tvg-name="大头猴足球" tvg-logo="https://epg.112114.xyz/logo/大头猴足球.png",大头猴足球
+https://live.ottiptv.cc/huya/29982605
+#EXTINF:-1 group-title="一起看" tvg-name="港剧日日见" tvg-logo="https://epg.112114.xyz/logo/港剧日日见.png",港剧日日见
+https://live.ottiptv.cc/huya/23864480
+#EXTINF:-1 group-title="一起看" tvg-name="伍德雅特" tvg-logo="https://epg.112114.xyz/logo/伍德雅特.png",伍德雅特
+https://live.ottiptv.cc/huya/20985805
+#EXTINF:-1 group-title="一起看" tvg-name="嫩模下厨房" tvg-logo="https://epg.112114.xyz/logo/嫩模下厨房.png",嫩模下厨房
+https://live.ottiptv.cc/huya/23735181
+#EXTINF:-1 group-title="一起看" tvg-name="芳草细雨烟" tvg-logo="https://epg.112114.xyz/logo/芳草细雨烟.png",芳草细雨烟
+https://live.ottiptv.cc/huya/30080188
+#EXTINF:-1 group-title="一起看" tvg-name="狮王哈哈乐" tvg-logo="https://epg.112114.xyz/logo/狮王哈哈乐.png",狮王哈哈乐
+https://live.ottiptv.cc/huya/30080176
+#EXTINF:-1 group-title="一起看" tvg-name="此人皆怪怒" tvg-logo="https://epg.112114.xyz/logo/此人皆怪怒.png",此人皆怪怒
+https://live.ottiptv.cc/huya/26355779
+#EXTINF:-1 group-title="一起看" tvg-name="跳水这件事" tvg-logo="https://epg.112114.xyz/logo/跳水这件事.png",跳水这件事
+https://live.ottiptv.cc/huya/29982662
+#EXTINF:-1 group-title="一起看" tvg-name="薔薇六" tvg-logo="https://epg.112114.xyz/logo/薔薇六.png",薔薇六
+https://live.ottiptv.cc/huya/26355799
+#EXTINF:-1 group-title="一起看" tvg-name="一席YIXI" tvg-logo="https://epg.112114.xyz/logo/一席YIXI.png",一席YIXI
+https://live.ottiptv.cc/huya/20985840
+#EXTINF:-1 group-title="一起看" tvg-name="假装" tvg-logo="https://epg.112114.xyz/logo/假装.png",假装
+https://live.ottiptv.cc/huya/11352948
+#EXTINF:-1 group-title="一起看" tvg-name="南中莫甘娜" tvg-logo="https://epg.112114.xyz/logo/南中莫甘娜.png",南中莫甘娜
+https://live.ottiptv.cc/huya/26355789
+#EXTINF:-1 group-title="一起看" tvg-name="Slslsl" tvg-logo="https://epg.112114.xyz/logo/Slslsl.png",Slslsl
+https://live.ottiptv.cc/huya/15482686
+#EXTINF:-1 group-title="一起看" tvg-name="喜来乐狮子头" tvg-logo="https://epg.112114.xyz/logo/喜来乐狮子头.png",喜来乐狮子头
+https://live.ottiptv.cc/huya/21059580
+#EXTINF:-1 group-title="一起看" tvg-name="阿飞" tvg-logo="https://epg.112114.xyz/logo/阿飞.png",阿飞
+https://live.ottiptv.cc/huya/11352934
+#EXTINF:-1 group-title="一起看" tvg-name="三剑客陪你看" tvg-logo="https://epg.112114.xyz/logo/三剑客陪你看.png",三剑客陪你看
+https://live.ottiptv.cc/huya/30080162
+#EXTINF:-1 group-title="一起看" tvg-name="真男人耳光大赛" tvg-logo="https://epg.112114.xyz/logo/真男人耳光大赛.png",真男人耳光大赛
+https://live.ottiptv.cc/huya/20072873
+#EXTINF:-1 group-title="一起看" tvg-name="河声云梦泽" tvg-logo="https://epg.112114.xyz/logo/河声云梦泽.png",河声云梦泽
+https://live.ottiptv.cc/huya/29982614
+#EXTINF:-1 group-title="一起看" tvg-name="仓鼠人" tvg-logo="https://epg.112114.xyz/logo/仓鼠人.png",仓鼠人
+https://live.ottiptv.cc/huya/20985789
+#EXTINF:-1 group-title="一起看" tvg-name="猜你知道" tvg-logo="https://epg.112114.xyz/logo/猜你知道.png",猜你知道
+https://live.ottiptv.cc/huya/20985825
+#EXTINF:-1 group-title="一起看" tvg-name="貔柴带你看" tvg-logo="https://epg.112114.xyz/logo/貔柴带你看.png",貔柴带你看
+https://live.ottiptv.cc/huya/30080179
+#EXTINF:-1 group-title="一起看" tvg-name="疯狂动物园园长" tvg-logo="https://epg.112114.xyz/logo/疯狂动物园园长.png",疯狂动物园园长
+https://live.ottiptv.cc/huya/29465891
+#EXTINF:-1 group-title="一起看" tvg-name="别和陌生人说话" tvg-logo="https://epg.112114.xyz/logo/别和陌生人说话.png",别和陌生人说话
+https://live.ottiptv.cc/huya/21059573
+#EXTINF:-1 group-title="一起看" tvg-name="菌边村艾克" tvg-logo="https://epg.112114.xyz/logo/菌边村艾克.png",菌边村艾克
+https://live.ottiptv.cc/huya/29465872
+#EXTINF:-1 group-title="一起看" tvg-name="足球GOAL" tvg-logo="https://epg.112114.xyz/logo/足球GOAL.png",足球GOAL
+https://live.ottiptv.cc/huya/29982602
+#EXTINF:-1 group-title="一起看" tvg-name="虎牙志愿者" tvg-logo="https://epg.112114.xyz/logo/虎牙志愿者.png",虎牙志愿者
+https://live.ottiptv.cc/huya/880232
+#EXTINF:-1 group-title="一起看" tvg-name="唐唐科普" tvg-logo="https://epg.112114.xyz/logo/唐唐科普.png",唐唐科普
+https://live.ottiptv.cc/huya/20985846
+#EXTINF:-1 group-title="一起看" tvg-name="TVB练习生" tvg-logo="https://epg.112114.xyz/logo/TVB练习生.png",TVB练习生
+https://live.ottiptv.cc/huya/23865132
+#EXTINF:-1 group-title="一起看" tvg-name="探索世界科普" tvg-logo="https://epg.112114.xyz/logo/探索世界科普.png",探索世界科普
+https://live.ottiptv.cc/huya/20985813
+#EXTINF:-1 group-title="一起看" tvg-name="华视-爱情大片" tvg-logo="https://epg.112114.xyz/logo/华视-爱情大片.png",华视-爱情大片
+https://live.ottiptv.cc/huya/23358431
+#EXTINF:-1 group-title="一起看" tvg-name="真假么么哒" tvg-logo="https://epg.112114.xyz/logo/真假么么哒.png",真假么么哒
+https://live.ottiptv.cc/huya/11602036
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314165
+#EXTINF:-1 group-title="一起看" tvg-name="硬控rap" tvg-logo="https://epg.112114.xyz/logo/硬控rap.png",硬控rap
+https://live.ottiptv.cc/huya/29982630
+#EXTINF:-1 group-title="一起看" tvg-name="上太空看地球" tvg-logo="https://epg.112114.xyz/logo/上太空看地球.png",上太空看地球
+https://live.ottiptv.cc/huya/29465881
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-95tgIDoBHS" tvg-logo="https://epg.112114.xyz/logo/昵称违规-95tgIDoBHS.png",昵称违规-95tgIDoBHS
+https://live.ottiptv.cc/huya/23863787
+#EXTINF:-1 group-title="一起看" tvg-name="VK棒棒鸡看剧" tvg-logo="https://epg.112114.xyz/logo/VK棒棒鸡看剧.png",VK棒棒鸡看剧
+https://live.ottiptv.cc/huya/29982640
+#EXTINF:-1 group-title="一起看" tvg-name="今天不想梳头发" tvg-logo="https://epg.112114.xyz/logo/今天不想梳头发.png",今天不想梳头发
+https://live.ottiptv.cc/huya/30080233
+#EXTINF:-1 group-title="一起看" tvg-name="老外点评来了" tvg-logo="https://epg.112114.xyz/logo/老外点评来了.png",老外点评来了
+https://live.ottiptv.cc/huya/29982659
+#EXTINF:-1 group-title="一起看" tvg-name="包租婆不停水" tvg-logo="https://epg.112114.xyz/logo/包租婆不停水.png",包租婆不停水
+https://live.ottiptv.cc/huya/21059568
+#EXTINF:-1 group-title="一起看" tvg-name="坚定希望" tvg-logo="https://epg.112114.xyz/logo/坚定希望.png",坚定希望
+https://live.ottiptv.cc/huya/21059529
+#EXTINF:-1 group-title="一起看" tvg-name="面对疾风-" tvg-logo="https://epg.112114.xyz/logo/面对疾风-.png",面对疾风-
+https://live.ottiptv.cc/huya/11352904
+#EXTINF:-1 group-title="一起看" tvg-name="粤爱看港片" tvg-logo="https://epg.112114.xyz/logo/粤爱看港片.png",粤爱看港片
+https://live.ottiptv.cc/huya/23863809
+#EXTINF:-1 group-title="一起看" tvg-name="港剧课代表" tvg-logo="https://epg.112114.xyz/logo/港剧课代表.png",港剧课代表
+https://live.ottiptv.cc/huya/23863895
+#EXTINF:-1 group-title="一起看" tvg-name="过儿想姑姑了" tvg-logo="https://epg.112114.xyz/logo/过儿想姑姑了.png",过儿想姑姑了
+https://live.ottiptv.cc/huya/23749068
+#EXTINF:-1 group-title="一起看" tvg-name="夏至搞笑女20" tvg-logo="https://epg.112114.xyz/logo/夏至搞笑女20.png",夏至搞笑女20
+https://live.ottiptv.cc/huya/30080142
+#EXTINF:-1 group-title="一起看" tvg-name="云初" tvg-logo="https://epg.112114.xyz/logo/云初.png",云初
+https://live.ottiptv.cc/huya/20969099
+#EXTINF:-1 group-title="一起看" tvg-name="莫欺少年穷哇" tvg-logo="https://epg.112114.xyz/logo/莫欺少年穷哇.png",莫欺少年穷哇
+https://live.ottiptv.cc/huya/20985845
+#EXTINF:-1 group-title="一起看" tvg-name="人类观察员love" tvg-logo="https://epg.112114.xyz/logo/人类观察员love.png",人类观察员love
+https://live.ottiptv.cc/huya/29982628
+#EXTINF:-1 group-title="一起看" tvg-name="野味小生共江湖同醉" tvg-logo="https://epg.112114.xyz/logo/野味小生共江湖同醉.png",野味小生共江湖同醉
+https://live.ottiptv.cc/huya/21059631
+#EXTINF:-1 group-title="一起看" tvg-name="港剧一家人" tvg-logo="https://epg.112114.xyz/logo/港剧一家人.png",港剧一家人
+https://live.ottiptv.cc/huya/23903152
+#EXTINF:-1 group-title="一起看" tvg-name="世界格斗场" tvg-logo="https://epg.112114.xyz/logo/世界格斗场.png",世界格斗场
+https://live.ottiptv.cc/huya/11352969
+#EXTINF:-1 group-title="一起看" tvg-name="AKIHITO" tvg-logo="https://epg.112114.xyz/logo/AKIHITO.png",AKIHITO
+https://live.ottiptv.cc/huya/20985792
+#EXTINF:-1 group-title="一起看" tvg-name="香港刑侦实录" tvg-logo="https://epg.112114.xyz/logo/香港刑侦实录.png",香港刑侦实录
+https://live.ottiptv.cc/huya/23865058
+#EXTINF:-1 group-title="一起看" tvg-name="迪士尼姐姐" tvg-logo="https://epg.112114.xyz/logo/迪士尼姐姐.png",迪士尼姐姐
+https://live.ottiptv.cc/huya/29982656
+#EXTINF:-1 group-title="一起看" tvg-name="TVB古装大片" tvg-logo="https://epg.112114.xyz/logo/TVB古装大片.png",TVB古装大片
+https://live.ottiptv.cc/huya/23865025
+#EXTINF:-1 group-title="一起看" tvg-name="哈拉少足球" tvg-logo="https://epg.112114.xyz/logo/哈拉少足球.png",哈拉少足球
+https://live.ottiptv.cc/huya/29982619
+#EXTINF:-1 group-title="一起看" tvg-name="探险小分队" tvg-logo="https://epg.112114.xyz/logo/探险小分队.png",探险小分队
+https://live.ottiptv.cc/huya/20985862
+#EXTINF:-1 group-title="一起看" tvg-name="其意" tvg-logo="https://epg.112114.xyz/logo/其意.png",其意
+https://live.ottiptv.cc/huya/20969128
+#EXTINF:-1 group-title="一起看" tvg-name="舒克影视梗" tvg-logo="https://epg.112114.xyz/logo/舒克影视梗.png",舒克影视梗
+https://live.ottiptv.cc/huya/24517063
+#EXTINF:-1 group-title="一起看" tvg-name="我叫Laughing哥" tvg-logo="https://epg.112114.xyz/logo/我叫Laughing哥.png",我叫Laughing哥
+https://live.ottiptv.cc/huya/23734243
+#EXTINF:-1 group-title="一起看" tvg-name="看见爱情深" tvg-logo="https://epg.112114.xyz/logo/看见爱情深.png",看见爱情深
+https://live.ottiptv.cc/huya/30080145
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧美好" tvg-logo="https://epg.112114.xyz/logo/君临剧美好.png",君临剧美好
+https://live.ottiptv.cc/huya/24884587
+#EXTINF:-1 group-title="一起看" tvg-name="虎扯新车" tvg-logo="https://epg.112114.xyz/logo/虎扯新车.png",虎扯新车
+https://live.ottiptv.cc/huya/26355820
+#EXTINF:-1 group-title="一起看" tvg-name="一家人整整齐齐" tvg-logo="https://epg.112114.xyz/logo/一家人整整齐齐.png",一家人整整齐齐
+https://live.ottiptv.cc/huya/23860057
+#EXTINF:-1 group-title="一起看" tvg-name="埋堆搞搞震" tvg-logo="https://epg.112114.xyz/logo/埋堆搞搞震.png",埋堆搞搞震
+https://live.ottiptv.cc/huya/23734169
+#EXTINF:-1 group-title="一起看" tvg-name="堆堆看港剧" tvg-logo="https://epg.112114.xyz/logo/堆堆看港剧.png",堆堆看港剧
+https://live.ottiptv.cc/huya/23902225
+#EXTINF:-1 group-title="一起看" tvg-name="上元石" tvg-logo="https://epg.112114.xyz/logo/上元石.png",上元石
+https://live.ottiptv.cc/huya/20985799
+#EXTINF:-1 group-title="一起看" tvg-name="小喇叭佩囍" tvg-logo="https://epg.112114.xyz/logo/小喇叭佩囍.png",小喇叭佩囍
+https://live.ottiptv.cc/huya/23863778
+#EXTINF:-1 group-title="一起看" tvg-name="动画电影放映厅" tvg-logo="https://epg.112114.xyz/logo/动画电影放映厅.png",动画电影放映厅
+https://live.ottiptv.cc/huya/11352878
+#EXTINF:-1 group-title="一起看" tvg-name="溪水潺潺公子" tvg-logo="https://epg.112114.xyz/logo/溪水潺潺公子.png",溪水潺潺公子
+https://live.ottiptv.cc/huya/30080175
+#EXTINF:-1 group-title="一起看" tvg-name="牙缝多了根青菜" tvg-logo="https://epg.112114.xyz/logo/牙缝多了根青菜.png",牙缝多了根青菜
+https://live.ottiptv.cc/huya/11352877
+#EXTINF:-1 group-title="一起看" tvg-name="苏仨" tvg-logo="https://epg.112114.xyz/logo/苏仨.png",苏仨
+https://live.ottiptv.cc/huya/11601972
+#EXTINF:-1 group-title="一起看" tvg-name="我只是个好人" tvg-logo="https://epg.112114.xyz/logo/我只是个好人.png",我只是个好人
+https://live.ottiptv.cc/huya/23728674
+#EXTINF:-1 group-title="一起看" tvg-name="普通司机小马" tvg-logo="https://epg.112114.xyz/logo/普通司机小马.png",普通司机小马
+https://live.ottiptv.cc/huya/23749096
+#EXTINF:-1 group-title="一起看" tvg-name="小轩" tvg-logo="https://epg.112114.xyz/logo/小轩.png",小轩
+https://live.ottiptv.cc/huya/11352899
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-a2yKCay99R" tvg-logo="https://epg.112114.xyz/logo/昵称违规-a2yKCay99R.png",昵称违规-a2yKCay99R
+https://live.ottiptv.cc/huya/21954527
+#EXTINF:-1 group-title="一起看" tvg-name="我还是不骄傲" tvg-logo="https://epg.112114.xyz/logo/我还是不骄傲.png",我还是不骄傲
+https://live.ottiptv.cc/huya/30080245
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧良心" tvg-logo="https://epg.112114.xyz/logo/君临剧良心.png",君临剧良心
+https://live.ottiptv.cc/huya/24884368
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧美丽" tvg-logo="https://epg.112114.xyz/logo/君临剧美丽.png",君临剧美丽
+https://live.ottiptv.cc/huya/24879375
+#EXTINF:-1 group-title="一起看" tvg-name="TVB爱情故事" tvg-logo="https://epg.112114.xyz/logo/TVB爱情故事.png",TVB爱情故事
+https://live.ottiptv.cc/huya/23863818
+#EXTINF:-1 group-title="一起看" tvg-name="我爱佩小西" tvg-logo="https://epg.112114.xyz/logo/我爱佩小西.png",我爱佩小西
+https://live.ottiptv.cc/huya/23863822
+#EXTINF:-1 group-title="一起看" tvg-name="春天的希望小仙子" tvg-logo="https://epg.112114.xyz/logo/春天的希望小仙子.png",春天的希望小仙子
+https://live.ottiptv.cc/huya/30080231
+#EXTINF:-1 group-title="一起看" tvg-name="虎牙院线" tvg-logo="https://epg.112114.xyz/logo/虎牙院线.png",虎牙院线
+https://live.ottiptv.cc/huya/16020022
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧靓" tvg-logo="https://epg.112114.xyz/logo/君临剧靓.png",君临剧靓
+https://live.ottiptv.cc/huya/24844242
+#EXTINF:-1 group-title="一起看" tvg-name="我叫山鸡哥" tvg-logo="https://epg.112114.xyz/logo/我叫山鸡哥.png",我叫山鸡哥
+https://live.ottiptv.cc/huya/23734246
+#EXTINF:-1 group-title="一起看" tvg-name="河水汝相对" tvg-logo="https://epg.112114.xyz/logo/河水汝相对.png",河水汝相对
+https://live.ottiptv.cc/huya/29982610
+#EXTINF:-1 group-title="一起看" tvg-name="一起来学粤语" tvg-logo="https://epg.112114.xyz/logo/一起来学粤语.png",一起来学粤语
+https://live.ottiptv.cc/huya/23734196
+#EXTINF:-1 group-title="一起看" tvg-name="电影旅者" tvg-logo="https://epg.112114.xyz/logo/电影旅者.png",电影旅者
+https://live.ottiptv.cc/huya/20969136
+#EXTINF:-1 group-title="一起看" tvg-name="华视-高分好片" tvg-logo="https://epg.112114.xyz/logo/华视-高分好片.png",华视-高分好片
+https://live.ottiptv.cc/huya/23352530
+#EXTINF:-1 group-title="一起看" tvg-name="望处不是筝" tvg-logo="https://epg.112114.xyz/logo/望处不是筝.png",望处不是筝
+https://live.ottiptv.cc/huya/29982668
+#EXTINF:-1 group-title="一起看" tvg-name="野味小生共江湖同醉" tvg-logo="https://epg.112114.xyz/logo/野味小生共江湖同醉.png",野味小生共江湖同醉
+https://live.ottiptv.cc/huya/21059631
+#EXTINF:-1 group-title="一起看" tvg-name="52岁翼大利艺术" tvg-logo="https://epg.112114.xyz/logo/52岁翼大利艺术.png",52岁翼大利艺术
+https://live.ottiptv.cc/huya/29982620
+#EXTINF:-1 group-title="一起看" tvg-name="VK棒棒鸡看剧" tvg-logo="https://epg.112114.xyz/logo/VK棒棒鸡看剧.png",VK棒棒鸡看剧
+https://live.ottiptv.cc/huya/29982640
+#EXTINF:-1 group-title="一起看" tvg-name="露露姐" tvg-logo="https://epg.112114.xyz/logo/露露姐.png",露露姐
+https://live.ottiptv.cc/huya/11601964
+#EXTINF:-1 group-title="一起看" tvg-name="外国人看世界" tvg-logo="https://epg.112114.xyz/logo/外国人看世界.png",外国人看世界
+https://live.ottiptv.cc/huya/29982626
+#EXTINF:-1 group-title="一起看" tvg-name="我是港剧迷" tvg-logo="https://epg.112114.xyz/logo/我是港剧迷.png",我是港剧迷
+https://live.ottiptv.cc/huya/23903085
+#EXTINF:-1 group-title="一起看" tvg-name="华视-猜你喜欢" tvg-logo="https://epg.112114.xyz/logo/华视-猜你喜欢.png",华视-猜你喜欢
+https://live.ottiptv.cc/huya/23352563
+#EXTINF:-1 group-title="一起看" tvg-name="惊悚电影放映厅" tvg-logo="https://epg.112114.xyz/logo/惊悚电影放映厅.png",惊悚电影放映厅
+https://live.ottiptv.cc/huya/26355795
+#EXTINF:-1 group-title="一起看" tvg-name="阳光下飞鸽" tvg-logo="https://epg.112114.xyz/logo/阳光下飞鸽.png",阳光下飞鸽
+https://live.ottiptv.cc/huya/30080138
+#EXTINF:-1 group-title="一起看" tvg-name="一起看短剧" tvg-logo="https://epg.112114.xyz/logo/一起看短剧.png",一起看短剧
+https://live.ottiptv.cc/huya/11352887
+#EXTINF:-1 group-title="一起看" tvg-name="地震监视慢直播" tvg-logo="https://epg.112114.xyz/logo/地震监视慢直播.png",地震监视慢直播
+https://live.ottiptv.cc/huya/29465884
+#EXTINF:-1 group-title="一起看" tvg-name="假面骑士干巴爹" tvg-logo="https://epg.112114.xyz/logo/假面骑士干巴爹.png",假面骑士干巴爹
+https://live.ottiptv.cc/huya/29982654
+#EXTINF:-1 group-title="一起看" tvg-name="斯須炒成中何寄" tvg-logo="https://epg.112114.xyz/logo/斯須炒成中何寄.png",斯須炒成中何寄
+https://live.ottiptv.cc/huya/26355774
+#EXTINF:-1 group-title="一起看" tvg-name="国际化style" tvg-logo="https://epg.112114.xyz/logo/国际化style.png",国际化style
+https://live.ottiptv.cc/huya/29982623
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧开心" tvg-logo="https://epg.112114.xyz/logo/君临剧开心.png",君临剧开心
+https://live.ottiptv.cc/huya/24879365
+#EXTINF:-1 group-title="一起看" tvg-name="妖孽CC" tvg-logo="https://epg.112114.xyz/logo/妖孽CC.png",妖孽CC
+https://live.ottiptv.cc/huya/11352945
+#EXTINF:-1 group-title="一起看" tvg-name="YOUNG" tvg-logo="https://epg.112114.xyz/logo/YOUNG.png",YOUNG
+https://live.ottiptv.cc/huya/20985766
+#EXTINF:-1 group-title="一起看" tvg-name="大型忙内的宅姐姐" tvg-logo="https://epg.112114.xyz/logo/大型忙内的宅姐姐.png",大型忙内的宅姐姐
+https://live.ottiptv.cc/huya/11602084
+#EXTINF:-1 group-title="一起看" tvg-name="八卦君" tvg-logo="https://epg.112114.xyz/logo/八卦君.png",八卦君
+https://live.ottiptv.cc/huya/20969112
+#EXTINF:-1 group-title="一起看" tvg-name="横而梦里还" tvg-logo="https://epg.112114.xyz/logo/横而梦里还.png",横而梦里还
+https://live.ottiptv.cc/huya/21059602
+#EXTINF:-1 group-title="一起看" tvg-name="AKIHITO" tvg-logo="https://epg.112114.xyz/logo/AKIHITO.png",AKIHITO
+https://live.ottiptv.cc/huya/20985792
+#EXTINF:-1 group-title="一起看" tvg-name="雨燕体育直播" tvg-logo="https://epg.112114.xyz/logo/雨燕体育直播.png",雨燕体育直播
+https://live.ottiptv.cc/huya/29982618
+#EXTINF:-1 group-title="一起看" tvg-name="治霖足球故事" tvg-logo="https://epg.112114.xyz/logo/治霖足球故事.png",治霖足球故事
+https://live.ottiptv.cc/huya/29982606
+#EXTINF:-1 group-title="一起看" tvg-name="村村就爱玩" tvg-logo="https://epg.112114.xyz/logo/村村就爱玩.png",村村就爱玩
+https://live.ottiptv.cc/huya/21059605
+#EXTINF:-1 group-title="一起看" tvg-name="世界格斗场" tvg-logo="https://epg.112114.xyz/logo/世界格斗场.png",世界格斗场
+https://live.ottiptv.cc/huya/11352969
+#EXTINF:-1 group-title="一起看" tvg-name="来听歌呀" tvg-logo="https://epg.112114.xyz/logo/来听歌呀.png",来听歌呀
+https://live.ottiptv.cc/huya/11352913
+#EXTINF:-1 group-title="一起看" tvg-name="老文的快乐生活" tvg-logo="https://epg.112114.xyz/logo/老文的快乐生活.png",老文的快乐生活
+https://live.ottiptv.cc/huya/21267475
+#EXTINF:-1 group-title="一起看" tvg-name="渡川" tvg-logo="https://epg.112114.xyz/logo/渡川.png",渡川
+https://live.ottiptv.cc/huya/20969095
+#EXTINF:-1 group-title="一起看" tvg-name="脑壳不太好" tvg-logo="https://epg.112114.xyz/logo/脑壳不太好.png",脑壳不太好
+https://live.ottiptv.cc/huya/11602042
+#EXTINF:-1 group-title="一起看" tvg-name="明月少年" tvg-logo="https://epg.112114.xyz/logo/明月少年.png",明月少年
+https://live.ottiptv.cc/huya/23652238
+#EXTINF:-1 group-title="一起看" tvg-name="举重大能" tvg-logo="https://epg.112114.xyz/logo/举重大能.png",举重大能
+https://live.ottiptv.cc/huya/30080144
+#EXTINF:-1 group-title="一起看" tvg-name="三剑客陪你看" tvg-logo="https://epg.112114.xyz/logo/三剑客陪你看.png",三剑客陪你看
+https://live.ottiptv.cc/huya/30080162
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧聪明" tvg-logo="https://epg.112114.xyz/logo/君临剧聪明.png",君临剧聪明
+https://live.ottiptv.cc/huya/24888173
+#EXTINF:-1 group-title="一起看" tvg-name="油麻地糖水铺" tvg-logo="https://epg.112114.xyz/logo/油麻地糖水铺.png",油麻地糖水铺
+https://live.ottiptv.cc/huya/23734223
+#EXTINF:-1 group-title="一起看" tvg-name="KotohaModeling" tvg-logo="https://epg.112114.xyz/logo/KotohaModeling.png",KotohaModeling
+https://live.ottiptv.cc/huya/20985794
+#EXTINF:-1 group-title="一起看" tvg-name="音粤无国界" tvg-logo="https://epg.112114.xyz/logo/音粤无国界.png",音粤无国界
+https://live.ottiptv.cc/huya/23734256
+#EXTINF:-1 group-title="一起看" tvg-name="君临剧美好" tvg-logo="https://epg.112114.xyz/logo/君临剧美好.png",君临剧美好
+https://live.ottiptv.cc/huya/24884587
+#EXTINF:-1 group-title="一起看" tvg-name="前沿旅行社" tvg-logo="https://epg.112114.xyz/logo/前沿旅行社.png",前沿旅行社
+https://live.ottiptv.cc/huya/20985854
+#EXTINF:-1 group-title="一起看" tvg-name="最美不过保时捷" tvg-logo="https://epg.112114.xyz/logo/最美不过保时捷.png",最美不过保时捷
+https://live.ottiptv.cc/huya/26355810
+#EXTINF:-1 group-title="一起看" tvg-name="石敢当本当" tvg-logo="https://epg.112114.xyz/logo/石敢当本当.png",石敢当本当
+https://live.ottiptv.cc/huya/23749074
+#EXTINF:-1 group-title="一起看" tvg-name="亚运体育7号台" tvg-logo="https://epg.112114.xyz/logo/亚运体育7号台.png",亚运体育7号台
+https://live.ottiptv.cc/huya/136154
+#EXTINF:-1 group-title="一起看" tvg-name="Fight、Girl" tvg-logo="https://epg.112114.xyz/logo/Fight、Girl.png",Fight、Girl
+https://live.ottiptv.cc/huya/11352895
+#EXTINF:-1 group-title="一起看" tvg-name="华视-喜剧大片" tvg-logo="https://epg.112114.xyz/logo/华视-喜剧大片.png",华视-喜剧大片
+https://live.ottiptv.cc/huya/23352525
+#EXTINF:-1 group-title="一起看" tvg-name="骚年跟我来听歌" tvg-logo="https://epg.112114.xyz/logo/骚年跟我来听歌.png",骚年跟我来听歌
+https://live.ottiptv.cc/huya/11352974
+#EXTINF:-1 group-title="一起看" tvg-name="鲨手不太冷的影迷" tvg-logo="https://epg.112114.xyz/logo/鲨手不太冷的影迷.png",鲨手不太冷的影迷
+https://live.ottiptv.cc/huya/21059586
+#EXTINF:-1 group-title="一起看" tvg-name="鬼叔奇谈" tvg-logo="https://epg.112114.xyz/logo/鬼叔奇谈.png",鬼叔奇谈
+https://live.ottiptv.cc/huya/20985821
+#EXTINF:-1 group-title="一起看" tvg-name="FunniestAnimals" tvg-logo="https://epg.112114.xyz/logo/FunniestAnimals.png",FunniestAnimals
+https://live.ottiptv.cc/huya/20985793
+#EXTINF:-1 group-title="一起看" tvg-name="舒克影视梗" tvg-logo="https://epg.112114.xyz/logo/舒克影视梗.png",舒克影视梗
+https://live.ottiptv.cc/huya/24517063
+#EXTINF:-1 group-title="一起看" tvg-name="熊叔实验室" tvg-logo="https://epg.112114.xyz/logo/熊叔实验室.png",熊叔实验室
+https://live.ottiptv.cc/huya/20985864
+#EXTINF:-1 group-title="一起看" tvg-name="街头唱歌" tvg-logo="https://epg.112114.xyz/logo/街头唱歌.png",街头唱歌
+https://live.ottiptv.cc/huya/20985812
+#EXTINF:-1 group-title="一起看" tvg-name="马克婷日常" tvg-logo="https://epg.112114.xyz/logo/马克婷日常.png",马克婷日常
+https://live.ottiptv.cc/huya/20985774
+#EXTINF:-1 group-title="一起看" tvg-name="给生活加点笑" tvg-logo="https://epg.112114.xyz/logo/给生活加点笑.png",给生活加点笑
+https://live.ottiptv.cc/huya/20985764
+#EXTINF:-1 group-title="一起看" tvg-name="木槿花" tvg-logo="https://epg.112114.xyz/logo/木槿花.png",木槿花
+https://live.ottiptv.cc/huya/20969100
+#EXTINF:-1 group-title="一起看" tvg-name="斯诺克从小爱戳球" tvg-logo="https://epg.112114.xyz/logo/斯诺克从小爱戳球.png",斯诺克从小爱戳球
+https://live.ottiptv.cc/huya/11352893
+#EXTINF:-1 group-title="一起看" tvg-name="AlfarisRawk" tvg-logo="https://epg.112114.xyz/logo/AlfarisRawk.png",AlfarisRawk
+https://live.ottiptv.cc/huya/20985803
+#EXTINF:-1 group-title="一起看" tvg-name="使臣响画轮" tvg-logo="https://epg.112114.xyz/logo/使臣响画轮.png",使臣响画轮
+https://live.ottiptv.cc/huya/29465873
+#EXTINF:-1 group-title="一起看" tvg-name="有点意思" tvg-logo="https://epg.112114.xyz/logo/有点意思.png",有点意思
+https://live.ottiptv.cc/huya/20985824
+#EXTINF:-1 group-title="一起看" tvg-name="士多霹雳" tvg-logo="https://epg.112114.xyz/logo/士多霹雳.png",士多霹雳
+https://live.ottiptv.cc/huya/20985869
+#EXTINF:-1 group-title="一起看" tvg-name="芳草细雨烟" tvg-logo="https://epg.112114.xyz/logo/芳草细雨烟.png",芳草细雨烟
+https://live.ottiptv.cc/huya/30080188
+#EXTINF:-1 group-title="一起看" tvg-name="語之不顾細谨" tvg-logo="https://epg.112114.xyz/logo/語之不顾細谨.png",語之不顾細谨
+https://live.ottiptv.cc/huya/26355785
+#EXTINF:-1 group-title="一起看" tvg-name="匹马泪沾襟" tvg-logo="https://epg.112114.xyz/logo/匹马泪沾襟.png",匹马泪沾襟
+https://live.ottiptv.cc/huya/30080137
+#EXTINF:-1 group-title="一起看" tvg-name="母胎solo200年" tvg-logo="https://epg.112114.xyz/logo/母胎solo200年.png",母胎solo200年
+https://live.ottiptv.cc/huya/30041512
+#EXTINF:-1 group-title="一起看" tvg-name="梦儿" tvg-logo="https://epg.112114.xyz/logo/梦儿.png",梦儿
+https://live.ottiptv.cc/huya/20969102
+#EXTINF:-1 group-title="一起看" tvg-name="万千星辉来吹水" tvg-logo="https://epg.112114.xyz/logo/万千星辉来吹水.png",万千星辉来吹水
+https://live.ottiptv.cc/huya/23865186
+#EXTINF:-1 group-title="一起看" tvg-name="冰冷浪漫" tvg-logo="https://epg.112114.xyz/logo/冰冷浪漫.png",冰冷浪漫
+https://live.ottiptv.cc/huya/29982663
+#EXTINF:-1 group-title="一起看" tvg-name="yoo" tvg-logo="https://epg.112114.xyz/logo/yoo.png",yoo
+https://live.ottiptv.cc/huya/11352876
+#EXTINF:-1 group-title="一起看" tvg-name="滴妹" tvg-logo="https://epg.112114.xyz/logo/滴妹.png",滴妹
+https://live.ottiptv.cc/huya/20985788
+#EXTINF:-1 group-title="一起看" tvg-name="就爱看电视" tvg-logo="https://epg.112114.xyz/logo/就爱看电视.png",就爱看电视
+https://live.ottiptv.cc/huya/21059545
+#EXTINF:-1 group-title="一起看" tvg-name="驯鹿的阶梯" tvg-logo="https://epg.112114.xyz/logo/驯鹿的阶梯.png",驯鹿的阶梯
+https://live.ottiptv.cc/huya/20985870
+#EXTINF:-1 group-title="一起看" tvg-name="放轻松RELAX" tvg-logo="https://epg.112114.xyz/logo/放轻松RELAX.png",放轻松RELAX
+https://live.ottiptv.cc/huya/20985801
+#EXTINF:-1 group-title="一起看" tvg-name="MOCA陪你看" tvg-logo="https://epg.112114.xyz/logo/MOCA陪你看.png",MOCA陪你看
+https://live.ottiptv.cc/huya/30080165
+#EXTINF:-1 group-title="一起看" tvg-name="RainyRabbits" tvg-logo="https://epg.112114.xyz/logo/RainyRabbits.png",RainyRabbits
+https://live.ottiptv.cc/huya/30080172
+#EXTINF:-1 group-title="一起看" tvg-name="歪果仁Reaction" tvg-logo="https://epg.112114.xyz/logo/歪果仁Reaction.png",歪果仁Reaction
+https://live.ottiptv.cc/huya/29982644
+#EXTINF:-1 group-title="一起看" tvg-name="壹车" tvg-logo="https://epg.112114.xyz/logo/壹车.png",壹车
+https://live.ottiptv.cc/huya/20969124
+#EXTINF:-1 group-title="一起看" tvg-name="正经纪录片" tvg-logo="https://epg.112114.xyz/logo/正经纪录片.png",正经纪录片
+https://live.ottiptv.cc/huya/23860049
+#EXTINF:-1 group-title="一起看" tvg-name="冷门港片大全" tvg-logo="https://epg.112114.xyz/logo/冷门港片大全.png",冷门港片大全
+https://live.ottiptv.cc/huya/23903196
+#EXTINF:-1 group-title="一起看" tvg-name="猪猪憨态态" tvg-logo="https://epg.112114.xyz/logo/猪猪憨态态.png",猪猪憨态态
+https://live.ottiptv.cc/huya/30080198
+#EXTINF:-1 group-title="一起看" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/24314166
+#EXTINF:-1 group-title="一起看" tvg-name="港剧日日见" tvg-logo="https://epg.112114.xyz/logo/港剧日日见.png",港剧日日见
+https://live.ottiptv.cc/huya/23864480
+#EXTINF:-1 group-title="一起看" tvg-name="南跃-俊轩" tvg-logo="https://epg.112114.xyz/logo/南跃-俊轩.png",南跃-俊轩
+https://live.ottiptv.cc/huya/10299733
+#EXTINF:-1 group-title="一起看" tvg-name="调查团" tvg-logo="https://epg.112114.xyz/logo/调查团.png",调查团
+https://live.ottiptv.cc/huya/20969117
+#EXTINF:-1 group-title="一起看" tvg-name="lorre" tvg-logo="https://epg.112114.xyz/logo/lorre.png",lorre
+https://live.ottiptv.cc/huya/20985842
+#EXTINF:-1 group-title="一起看" tvg-name="港剧影视汇" tvg-logo="https://epg.112114.xyz/logo/港剧影视汇.png",港剧影视汇
+https://live.ottiptv.cc/huya/23903142
+#EXTINF:-1 group-title="一起看" tvg-name="娥姐来了" tvg-logo="https://epg.112114.xyz/logo/娥姐来了.png",娥姐来了
+https://live.ottiptv.cc/huya/23734234
+#EXTINF:-1 group-title="一起看" tvg-name="港剧连连看" tvg-logo="https://epg.112114.xyz/logo/港剧连连看.png",港剧连连看
+https://live.ottiptv.cc/huya/23863882
+#EXTINF:-1 group-title="一起看" tvg-name="昵称违规-2Nw7CSd9z0" tvg-logo="https://epg.112114.xyz/logo/昵称违规-2Nw7CSd9z0.png",昵称违规-2Nw7CSd9z0
+https://live.ottiptv.cc/huya/880256
+#EXTINF:-1 group-title="一起看" tvg-name="科技宅男" tvg-logo="https://epg.112114.xyz/logo/科技宅男.png",科技宅男
+https://live.ottiptv.cc/huya/20985785
+#EXTINF:-1 group-title="一起看" tvg-name="麋鹿" tvg-logo="https://epg.112114.xyz/logo/麋鹿.png",麋鹿
+https://live.ottiptv.cc/huya/11342419
+#EXTINF:-1 group-title="一起看" tvg-name="TVB浪姐" tvg-logo="https://epg.112114.xyz/logo/TVB浪姐.png",TVB浪姐
+https://live.ottiptv.cc/huya/23865124
+#EXTINF:-1 group-title="一起看" tvg-name="华视-爱情大片" tvg-logo="https://epg.112114.xyz/logo/华视-爱情大片.png",华视-爱情大片
+https://live.ottiptv.cc/huya/23358431
+#EXTINF:-1 group-title="一起看" tvg-name="雅痞不是帅" tvg-logo="https://epg.112114.xyz/logo/雅痞不是帅.png",雅痞不是帅
+https://live.ottiptv.cc/huya/11352953
+#EXTINF:-1 group-title="一起看" tvg-name="TVB悬疑大片" tvg-logo="https://epg.112114.xyz/logo/TVB悬疑大片.png",TVB悬疑大片
+https://live.ottiptv.cc/huya/23865072
+#EXTINF:-1 group-title="一起看" tvg-name="主播黑猫" tvg-logo="https://epg.112114.xyz/logo/主播黑猫.png",主播黑猫
+https://live.ottiptv.cc/huya/11352896
+#EXTINF:-1 group-title="一起看" tvg-name="电竞也要专用机" tvg-logo="https://epg.112114.xyz/logo/电竞也要专用机.png",电竞也要专用机
+https://live.ottiptv.cc/huya/26355816
+#EXTINF:-1 group-title="一起看" tvg-name="喵喵即正义" tvg-logo="https://epg.112114.xyz/logo/喵喵即正义.png",喵喵即正义
+https://live.ottiptv.cc/huya/21059528
+#EXTINF:-1 group-title="一起看" tvg-name="睿智如夏花" tvg-logo="https://epg.112114.xyz/logo/睿智如夏花.png",睿智如夏花
+https://live.ottiptv.cc/huya/30080217
+#EXTINF:-1 group-title="一起看" tvg-name="阿呀呀阿sir" tvg-logo="https://epg.112114.xyz/logo/阿呀呀阿sir.png",阿呀呀阿sir
+https://live.ottiptv.cc/huya/23865171
+#EXTINF:-1 group-title="一起看" tvg-name="排球太燃了" tvg-logo="https://epg.112114.xyz/logo/排球太燃了.png",排球太燃了
+https://live.ottiptv.cc/huya/30080166
+#EXTINF:-1 group-title="一起看" tvg-name="沐小错" tvg-logo="https://epg.112114.xyz/logo/沐小错.png",沐小错
+https://live.ottiptv.cc/huya/11352956
+#EXTINF:-1 group-title="一起看" tvg-name="是醉芙吖" tvg-logo="https://epg.112114.xyz/logo/是醉芙吖.png",是醉芙吖
+https://live.ottiptv.cc/huya/21059599
+#EXTINF:-1 group-title="一起看" tvg-name="街头唱歌" tvg-logo="https://epg.112114.xyz/logo/街头唱歌.png",街头唱歌
+https://live.ottiptv.cc/huya/20985812
+#EXTINF:-1 group-title="一起看" tvg-name="华视-猜你喜欢" tvg-logo="https://epg.112114.xyz/logo/华视-猜你喜欢.png",华视-猜你喜欢
+https://live.ottiptv.cc/huya/23352563
+#EXTINF:-1 group-title="一起看" tvg-name="克莱篮球生涯" tvg-logo="https://epg.112114.xyz/logo/克莱篮球生涯.png",克莱篮球生涯
+https://live.ottiptv.cc/huya/29982652
+#EXTINF:-1 group-title="一起看" tvg-name="Fight、Girl" tvg-logo="https://epg.112114.xyz/logo/Fight、Girl.png",Fight、Girl
+https://live.ottiptv.cc/huya/11352895
+#EXTINF:-1 group-title="一起看" tvg-name="阿夹" tvg-logo="https://epg.112114.xyz/logo/阿夹.png",阿夹
+https://live.ottiptv.cc/huya/20985783
+#EXTINF:-1 group-title="一起看" tvg-name="SMG最强大脑" tvg-logo="https://epg.112114.xyz/logo/SMG最强大脑.png",SMG最强大脑
+https://live.ottiptv.cc/huya/11352914
+#EXTINF:-1 group-title="一起看" tvg-name="老雷" tvg-logo="https://epg.112114.xyz/logo/老雷.png",老雷
+https://live.ottiptv.cc/huya/11602034
+#EXTINF:-1 group-title="一起看" tvg-name="UniqueToo" tvg-logo="https://epg.112114.xyz/logo/UniqueToo.png",UniqueToo
+https://live.ottiptv.cc/huya/20985806
+#EXTINF:-1 group-title="一起看" tvg-name="柠檬树下你和我" tvg-logo="https://epg.112114.xyz/logo/柠檬树下你和我.png",柠檬树下你和我
+https://live.ottiptv.cc/huya/11352892
+#EXTINF:-1 group-title="一起看" tvg-name="沉默的孤狼啊" tvg-logo="https://epg.112114.xyz/logo/沉默的孤狼啊.png",沉默的孤狼啊
+https://live.ottiptv.cc/huya/21059598
+#EXTINF:-1 group-title="原创" tvg-name="芸芸看剧" tvg-logo="https://epg.112114.xyz/logo/芸芸看剧.png",芸芸看剧
+https://live.ottiptv.cc/huya/30832594
+#EXTINF:-1 group-title="原创" tvg-name="花见羞羞" tvg-logo="https://epg.112114.xyz/logo/花见羞羞.png",花见羞羞
+https://live.ottiptv.cc/huya/30829078
+#EXTINF:-1 group-title="原创" tvg-name="小花爱剧" tvg-logo="https://epg.112114.xyz/logo/小花爱剧.png",小花爱剧
+https://live.ottiptv.cc/huya/30974687
+#EXTINF:-1 group-title="原创" tvg-name="阿斗归来了" tvg-logo="https://epg.112114.xyz/logo/阿斗归来了.png",阿斗归来了
+https://live.ottiptv.cc/huya/13303478
+#EXTINF:-1 group-title="原创" tvg-name="喵喵宝、" tvg-logo="https://epg.112114.xyz/logo/喵喵宝、.png",喵喵宝、
+https://live.ottiptv.cc/huya/31039016
+#EXTINF:-1 group-title="原创" tvg-name="孤鹰燕影" tvg-logo="https://epg.112114.xyz/logo/孤鹰燕影.png",孤鹰燕影
+https://live.ottiptv.cc/huya/30204448
+#EXTINF:-1 group-title="原创" tvg-name="糖糖爱电影" tvg-logo="https://epg.112114.xyz/logo/糖糖爱电影.png",糖糖爱电影
+https://live.ottiptv.cc/huya/31023037
+#EXTINF:-1 group-title="原创" tvg-name="日落花想容" tvg-logo="https://epg.112114.xyz/logo/日落花想容.png",日落花想容
+https://live.ottiptv.cc/huya/29981376
+#EXTINF:-1 group-title="原创" tvg-name="也芥末-" tvg-logo="https://epg.112114.xyz/logo/也芥末-.png",也芥末-
+https://live.ottiptv.cc/huya/30219264
+#EXTINF:-1 group-title="原创" tvg-name="RR寅子" tvg-logo="https://epg.112114.xyz/logo/RR寅子.png",RR寅子
+https://live.ottiptv.cc/huya/30241641
+#EXTINF:-1 group-title="原创" tvg-name="涂涂观影团" tvg-logo="https://epg.112114.xyz/logo/涂涂观影团.png",涂涂观影团
+https://live.ottiptv.cc/huya/30513350
+#EXTINF:-1 group-title="原创" tvg-name="梓含那" tvg-logo="https://epg.112114.xyz/logo/梓含那.png",梓含那
+https://live.ottiptv.cc/huya/30957287
+#EXTINF:-1 group-title="原创" tvg-name="Yi朵朵" tvg-logo="https://epg.112114.xyz/logo/Yi朵朵.png",Yi朵朵
+https://live.ottiptv.cc/huya/30987504
+#EXTINF:-1 group-title="原创" tvg-name="青青观影团" tvg-logo="https://epg.112114.xyz/logo/青青观影团.png",青青观影团
+https://live.ottiptv.cc/huya/30513600
+#EXTINF:-1 group-title="原创" tvg-name="微竞-浪娅" tvg-logo="https://epg.112114.xyz/logo/微竞-浪娅.png",微竞-浪娅
+https://live.ottiptv.cc/huya/30280769
+#EXTINF:-1 group-title="原创" tvg-name="啵啵爱播播" tvg-logo="https://epg.112114.xyz/logo/啵啵爱播播.png",啵啵爱播播
+https://live.ottiptv.cc/huya/30994768
+#EXTINF:-1 group-title="原创" tvg-name="甜心喵咪酱" tvg-logo="https://epg.112114.xyz/logo/甜心喵咪酱.png",甜心喵咪酱
+https://live.ottiptv.cc/huya/30658920
+#EXTINF:-1 group-title="原创" tvg-name="报导一个字" tvg-logo="https://epg.112114.xyz/logo/报导一个字.png",报导一个字
+https://live.ottiptv.cc/huya/30955638
+#EXTINF:-1 group-title="原创" tvg-name="陈翔六点半" tvg-logo="https://epg.112114.xyz/logo/陈翔六点半.png",陈翔六点半
+https://live.ottiptv.cc/huya/11274154
+#EXTINF:-1 group-title="原创" tvg-name="我真不吃肥肉" tvg-logo="https://epg.112114.xyz/logo/我真不吃肥肉.png",我真不吃肥肉
+https://live.ottiptv.cc/huya/30835565
+#EXTINF:-1 group-title="原创" tvg-name="爱吃蛋蛋糕" tvg-logo="https://epg.112114.xyz/logo/爱吃蛋蛋糕.png",爱吃蛋蛋糕
+https://live.ottiptv.cc/huya/30995188
+#EXTINF:-1 group-title="原创" tvg-name="以为在何许" tvg-logo="https://epg.112114.xyz/logo/以为在何许.png",以为在何许
+https://live.ottiptv.cc/huya/30955238
+#EXTINF:-1 group-title="原创" tvg-name="甜瓜不萌" tvg-logo="https://epg.112114.xyz/logo/甜瓜不萌.png",甜瓜不萌
+https://live.ottiptv.cc/huya/30158546
+#EXTINF:-1 group-title="原创" tvg-name="暑光微影小萌" tvg-logo="https://epg.112114.xyz/logo/暑光微影小萌.png",暑光微影小萌
+https://live.ottiptv.cc/huya/30964619
+#EXTINF:-1 group-title="原创" tvg-name="埋堆堆官方火热播出" tvg-logo="https://epg.112114.xyz/logo/埋堆堆官方火热播出.png",埋堆堆官方火热播出
+https://live.ottiptv.cc/huya/30326432
+#EXTINF:-1 group-title="原创" tvg-name="微笑影视" tvg-logo="https://epg.112114.xyz/logo/微笑影视.png",微笑影视
+https://live.ottiptv.cc/huya/25256065
+#EXTINF:-1 group-title="原创" tvg-name="诚信丶三哥解说26842" tvg-logo="https://epg.112114.xyz/logo/诚信丶三哥解说26842.png",诚信丶三哥解说26842
+https://live.ottiptv.cc/huya/594913
+#EXTINF:-1 group-title="原创" tvg-name="诚信安安" tvg-logo="https://epg.112114.xyz/logo/诚信安安.png",诚信安安
+https://live.ottiptv.cc/huya/30985600
+#EXTINF:-1 group-title="原创" tvg-name="施施来啦" tvg-logo="https://epg.112114.xyz/logo/施施来啦.png",施施来啦
+https://live.ottiptv.cc/huya/31007029
+#EXTINF:-1 group-title="原创" tvg-name="甜甜心puppy" tvg-logo="https://epg.112114.xyz/logo/甜甜心puppy.png",甜甜心puppy
+https://live.ottiptv.cc/huya/30900623
+#EXTINF:-1 group-title="原创" tvg-name="狂鸟丶秋天l-90327" tvg-logo="https://epg.112114.xyz/logo/狂鸟丶秋天l-90327.png",狂鸟丶秋天l-90327
+https://live.ottiptv.cc/huya/29976108
+#EXTINF:-1 group-title="原创" tvg-name="惜哉超常伦" tvg-logo="https://epg.112114.xyz/logo/惜哉超常伦.png",惜哉超常伦
+https://live.ottiptv.cc/huya/30965454
+#EXTINF:-1 group-title="原创" tvg-name="小莉直播" tvg-logo="https://epg.112114.xyz/logo/小莉直播.png",小莉直播
+https://live.ottiptv.cc/huya/30993430
+#EXTINF:-1 group-title="原创" tvg-name="春风和煦汉族" tvg-logo="https://epg.112114.xyz/logo/春风和煦汉族.png",春风和煦汉族
+https://live.ottiptv.cc/huya/30955013
+#EXTINF:-1 group-title="原创" tvg-name="小满荷塘香色" tvg-logo="https://epg.112114.xyz/logo/小满荷塘香色.png",小满荷塘香色
+https://live.ottiptv.cc/huya/30860538
+#EXTINF:-1 group-title="原创" tvg-name="仇仟璃" tvg-logo="https://epg.112114.xyz/logo/仇仟璃.png",仇仟璃
+https://live.ottiptv.cc/huya/19807776
+#EXTINF:-1 group-title="原创" tvg-name="辰辰观影" tvg-logo="https://epg.112114.xyz/logo/辰辰观影.png",辰辰观影
+https://live.ottiptv.cc/huya/30882696
+#EXTINF:-1 group-title="原创" tvg-name="微微影视" tvg-logo="https://epg.112114.xyz/logo/微微影视.png",微微影视
+https://live.ottiptv.cc/huya/24527617
+#EXTINF:-1 group-title="原创" tvg-name="来生" tvg-logo="https://epg.112114.xyz/logo/来生.png",来生
+https://live.ottiptv.cc/huya/30867383
+#EXTINF:-1 group-title="原创" tvg-name="虎桥路关羽" tvg-logo="https://epg.112114.xyz/logo/虎桥路关羽.png",虎桥路关羽
+https://live.ottiptv.cc/huya/30613314
+#EXTINF:-1 group-title="原创" tvg-name="大梨o" tvg-logo="https://epg.112114.xyz/logo/大梨o.png",大梨o
+https://live.ottiptv.cc/huya/30830295
+#EXTINF:-1 group-title="原创" tvg-name="影迷心公社" tvg-logo="https://epg.112114.xyz/logo/影迷心公社.png",影迷心公社
+https://live.ottiptv.cc/huya/30522289
+#EXTINF:-1 group-title="原创" tvg-name="小桃猪猪" tvg-logo="https://epg.112114.xyz/logo/小桃猪猪.png",小桃猪猪
+https://live.ottiptv.cc/huya/30527430
+#EXTINF:-1 group-title="原创" tvg-name="子宽放" tvg-logo="https://epg.112114.xyz/logo/子宽放.png",子宽放
+https://live.ottiptv.cc/huya/30362138
+#EXTINF:-1 group-title="原创" tvg-name="天天影社" tvg-logo="https://epg.112114.xyz/logo/天天影社.png",天天影社
+https://live.ottiptv.cc/huya/29808803
+#EXTINF:-1 group-title="原创" tvg-name="SJ-以宁" tvg-logo="https://epg.112114.xyz/logo/SJ-以宁.png",SJ-以宁
+https://live.ottiptv.cc/huya/29664242
+#EXTINF:-1 group-title="原创" tvg-name="叁岁打死牛" tvg-logo="https://epg.112114.xyz/logo/叁岁打死牛.png",叁岁打死牛
+https://live.ottiptv.cc/huya/30515137
+#EXTINF:-1 group-title="原创" tvg-name="炒白果萝卜" tvg-logo="https://epg.112114.xyz/logo/炒白果萝卜.png",炒白果萝卜
+https://live.ottiptv.cc/huya/30440855
+#EXTINF:-1 group-title="原创" tvg-name="天羊盖地虎儿乔家劲" tvg-logo="https://epg.112114.xyz/logo/天羊盖地虎儿乔家劲.png",天羊盖地虎儿乔家劲
+https://live.ottiptv.cc/huya/30065341
+#EXTINF:-1 group-title="原创" tvg-name="自弃罐头" tvg-logo="https://epg.112114.xyz/logo/自弃罐头.png",自弃罐头
+https://live.ottiptv.cc/huya/29910845
+#EXTINF:-1 group-title="原创" tvg-name="我是图图很淘气" tvg-logo="https://epg.112114.xyz/logo/我是图图很淘气.png",我是图图很淘气
+https://live.ottiptv.cc/huya/30080227
+#EXTINF:-1 group-title="原创" tvg-name="游戏解说剪辑师" tvg-logo="https://epg.112114.xyz/logo/游戏解说剪辑师.png",游戏解说剪辑师
+https://live.ottiptv.cc/huya/25679291
+#EXTINF:-1 group-title="原创" tvg-name="影评专员" tvg-logo="https://epg.112114.xyz/logo/影评专员.png",影评专员
+https://live.ottiptv.cc/huya/30311494
+#EXTINF:-1 group-title="原创" tvg-name="得志未断绝" tvg-logo="https://epg.112114.xyz/logo/得志未断绝.png",得志未断绝
+https://live.ottiptv.cc/huya/30523326
+#EXTINF:-1 group-title="原创" tvg-name="艾莉" tvg-logo="https://epg.112114.xyz/logo/艾莉.png",艾莉
+https://live.ottiptv.cc/huya/20969144
+#EXTINF:-1 group-title="原创" tvg-name="奶贝可可" tvg-logo="https://epg.112114.xyz/logo/奶贝可可.png",奶贝可可
+https://live.ottiptv.cc/huya/30664021
+#EXTINF:-1 group-title="原创" tvg-name="扁豆看电影" tvg-logo="https://epg.112114.xyz/logo/扁豆看电影.png",扁豆看电影
+https://live.ottiptv.cc/huya/16028551
+#EXTINF:-1 group-title="原创" tvg-name="悸动" tvg-logo="https://epg.112114.xyz/logo/悸动.png",悸动
+https://live.ottiptv.cc/huya/28272846
+#EXTINF:-1 group-title="原创" tvg-name="錦瑟无故见松雪" tvg-logo="https://epg.112114.xyz/logo/錦瑟无故见松雪.png",錦瑟无故见松雪
+https://live.ottiptv.cc/huya/26355840
+#EXTINF:-1 group-title="原创" tvg-name="唯倜得同行" tvg-logo="https://epg.112114.xyz/logo/唯倜得同行.png",唯倜得同行
+https://live.ottiptv.cc/huya/30311525
+#EXTINF:-1 group-title="原创" tvg-name="SJ-图南" tvg-logo="https://epg.112114.xyz/logo/SJ-图南.png",SJ-图南
+https://live.ottiptv.cc/huya/29528547
+#EXTINF:-1 group-title="原创" tvg-name="阿锋观影" tvg-logo="https://epg.112114.xyz/logo/阿锋观影.png",阿锋观影
+https://live.ottiptv.cc/huya/14212729
+#EXTINF:-1 group-title="原创" tvg-name="芮橙说剧" tvg-logo="https://epg.112114.xyz/logo/芮橙说剧.png",芮橙说剧
+https://live.ottiptv.cc/huya/30287258
+#EXTINF:-1 group-title="原创" tvg-name="飞燕剧场" tvg-logo="https://epg.112114.xyz/logo/飞燕剧场.png",飞燕剧场
+https://live.ottiptv.cc/huya/30705109
+#EXTINF:-1 group-title="原创" tvg-name="电影最TOP" tvg-logo="https://epg.112114.xyz/logo/电影最TOP.png",电影最TOP
+https://live.ottiptv.cc/huya/11774959
+#EXTINF:-1 group-title="原创" tvg-name="小月亮【峡谷送餐员】" tvg-logo="https://epg.112114.xyz/logo/小月亮【峡谷送餐员】.png",小月亮【峡谷送餐员】
+https://live.ottiptv.cc/huya/21124360
+#EXTINF:-1 group-title="原创" tvg-name="余小二哦" tvg-logo="https://epg.112114.xyz/logo/余小二哦.png",余小二哦
+https://live.ottiptv.cc/huya/10279885
+#EXTINF:-1 group-title="原创" tvg-name="止戈电影" tvg-logo="https://epg.112114.xyz/logo/止戈电影.png",止戈电影
+https://live.ottiptv.cc/huya/19863777
+#EXTINF:-1 group-title="原创" tvg-name="科幻梦工场" tvg-logo="https://epg.112114.xyz/logo/科幻梦工场.png",科幻梦工场
+https://live.ottiptv.cc/huya/15152155
+#EXTINF:-1 group-title="原创" tvg-name="年年营" tvg-logo="https://epg.112114.xyz/logo/年年营.png",年年营
+https://live.ottiptv.cc/huya/29580970
+#EXTINF:-1 group-title="原创" tvg-name="狗哥吃火锅" tvg-logo="https://epg.112114.xyz/logo/狗哥吃火锅.png",狗哥吃火锅
+https://live.ottiptv.cc/huya/17269326
+#EXTINF:-1 group-title="原创" tvg-name="星柠布丁" tvg-logo="https://epg.112114.xyz/logo/星柠布丁.png",星柠布丁
+https://live.ottiptv.cc/huya/31039222
+#EXTINF:-1 group-title="原创" tvg-name="老歪陪你唠" tvg-logo="https://epg.112114.xyz/logo/老歪陪你唠.png",老歪陪你唠
+https://live.ottiptv.cc/huya/30080164
+#EXTINF:-1 group-title="原创" tvg-name="细品红楼" tvg-logo="https://epg.112114.xyz/logo/细品红楼.png",细品红楼
+https://live.ottiptv.cc/huya/30080181
+#EXTINF:-1 group-title="原创" tvg-name="夜萝莉宝宝" tvg-logo="https://epg.112114.xyz/logo/夜萝莉宝宝.png",夜萝莉宝宝
+https://live.ottiptv.cc/huya/30968485
+#EXTINF:-1 group-title="原创" tvg-name="HeungsamsFamily" tvg-logo="https://epg.112114.xyz/logo/HeungsamsFamily.png",HeungsamsFamily
+https://live.ottiptv.cc/huya/29487319
+#EXTINF:-1 group-title="原创" tvg-name="奇思妙想8" tvg-logo="https://epg.112114.xyz/logo/奇思妙想8.png",奇思妙想8
+https://live.ottiptv.cc/huya/30080192
+#EXTINF:-1 group-title="原创" tvg-name="乖乖【恭囍發財】" tvg-logo="https://epg.112114.xyz/logo/乖乖【恭囍發財】.png",乖乖【恭囍發財】
+https://live.ottiptv.cc/huya/29140342
+#EXTINF:-1 group-title="原创" tvg-name="玉玉爱追剧" tvg-logo="https://epg.112114.xyz/logo/玉玉爱追剧.png",玉玉爱追剧
+https://live.ottiptv.cc/huya/31041015
+#EXTINF:-1 group-title="原创" tvg-name="天雷鼓鼓说剧" tvg-logo="https://epg.112114.xyz/logo/天雷鼓鼓说剧.png",天雷鼓鼓说剧
+https://live.ottiptv.cc/huya/30277823
+#EXTINF:-1 group-title="原创" tvg-name="一哥爱解说" tvg-logo="https://epg.112114.xyz/logo/一哥爱解说.png",一哥爱解说
+https://live.ottiptv.cc/huya/28806915
+#EXTINF:-1 group-title="原创" tvg-name="西部影坛" tvg-logo="https://epg.112114.xyz/logo/西部影坛.png",西部影坛
+https://live.ottiptv.cc/huya/30311497
+#EXTINF:-1 group-title="原创" tvg-name="小迷糊" tvg-logo="https://epg.112114.xyz/logo/小迷糊.png",小迷糊
+https://live.ottiptv.cc/huya/29580971
+#EXTINF:-1 group-title="原创" tvg-name="家里有只小汤圆" tvg-logo="https://epg.112114.xyz/logo/家里有只小汤圆.png",家里有只小汤圆
+https://live.ottiptv.cc/huya/28078466
+#EXTINF:-1 group-title="原创" tvg-name="宸星-北遇" tvg-logo="https://epg.112114.xyz/logo/宸星-北遇.png",宸星-北遇
+https://live.ottiptv.cc/huya/25391470
+#EXTINF:-1 group-title="原创" tvg-name="DD-解说" tvg-logo="https://epg.112114.xyz/logo/DD-解说.png",DD-解说
+https://live.ottiptv.cc/huya/25650806
+#EXTINF:-1 group-title="原创" tvg-name="影小渔" tvg-logo="https://epg.112114.xyz/logo/影小渔.png",影小渔
+https://live.ottiptv.cc/huya/30296971
+#EXTINF:-1 group-title="原创" tvg-name="阿光影视" tvg-logo="https://epg.112114.xyz/logo/阿光影视.png",阿光影视
+https://live.ottiptv.cc/huya/30292086
+#EXTINF:-1 group-title="原创" tvg-name="虎牙中式台球比赛" tvg-logo="https://epg.112114.xyz/logo/虎牙中式台球比赛.png",虎牙中式台球比赛
+https://live.ottiptv.cc/huya/29588938
+#EXTINF:-1 group-title="原创" tvg-name="钟爱陶喆" tvg-logo="https://epg.112114.xyz/logo/钟爱陶喆.png",钟爱陶喆
+https://live.ottiptv.cc/huya/30080186
+#EXTINF:-1 group-title="原创" tvg-name="亮哥讲电影" tvg-logo="https://epg.112114.xyz/logo/亮哥讲电影.png",亮哥讲电影
+https://live.ottiptv.cc/huya/16144175
+#EXTINF:-1 group-title="原创" tvg-name="西西姐姐" tvg-logo="https://epg.112114.xyz/logo/西西姐姐.png",西西姐姐
+https://live.ottiptv.cc/huya/29581116
+#EXTINF:-1 group-title="原创" tvg-name="舍前棕" tvg-logo="https://epg.112114.xyz/logo/舍前棕.png",舍前棕
+https://live.ottiptv.cc/huya/26355844
+#EXTINF:-1 group-title="原创" tvg-name="庄升秋" tvg-logo="https://epg.112114.xyz/logo/庄升秋.png",庄升秋
+https://live.ottiptv.cc/huya/29581262
+#EXTINF:-1 group-title="原创" tvg-name="荒野求生影探" tvg-logo="https://epg.112114.xyz/logo/荒野求生影探.png",荒野求生影探
+https://live.ottiptv.cc/huya/28556708
+#EXTINF:-1 group-title="原创" tvg-name="竟日搔白首" tvg-logo="https://epg.112114.xyz/logo/竟日搔白首.png",竟日搔白首
+https://live.ottiptv.cc/huya/30080197
+#EXTINF:-1 group-title="原创" tvg-name="就有芦芽短" tvg-logo="https://epg.112114.xyz/logo/就有芦芽短.png",就有芦芽短
+https://live.ottiptv.cc/huya/29982612
+#EXTINF:-1 group-title="原创" tvg-name="非凡武林" tvg-logo="https://epg.112114.xyz/logo/非凡武林.png",非凡武林
+https://live.ottiptv.cc/huya/21674665
+#EXTINF:-1 group-title="原创" tvg-name="小虎花花" tvg-logo="https://epg.112114.xyz/logo/小虎花花.png",小虎花花
+https://live.ottiptv.cc/huya/30829449
+#EXTINF:-1 group-title="原创" tvg-name="缔爵丶小阿杜" tvg-logo="https://epg.112114.xyz/logo/缔爵丶小阿杜.png",缔爵丶小阿杜
+https://live.ottiptv.cc/huya/16755322
+#EXTINF:-1 group-title="原创" tvg-name="中国探月太空萌兔" tvg-logo="https://epg.112114.xyz/logo/中国探月太空萌兔.png",中国探月太空萌兔
+https://live.ottiptv.cc/huya/23663418
+#EXTINF:-1 group-title="原创" tvg-name="南西视频" tvg-logo="https://epg.112114.xyz/logo/南西视频.png",南西视频
+https://live.ottiptv.cc/huya/16913382
+#EXTINF:-1 group-title="原创" tvg-name="李小哇絮叨叨" tvg-logo="https://epg.112114.xyz/logo/李小哇絮叨叨.png",李小哇絮叨叨
+https://live.ottiptv.cc/huya/18441722
+#EXTINF:-1 group-title="原创" tvg-name="月光下" tvg-logo="https://epg.112114.xyz/logo/月光下.png",月光下
+https://live.ottiptv.cc/huya/20599549
+#EXTINF:-1 group-title="原创" tvg-name="YeShi小哥" tvg-logo="https://epg.112114.xyz/logo/YeShi小哥.png",YeShi小哥
+https://live.ottiptv.cc/huya/14363949
+#EXTINF:-1 group-title="原创" tvg-name="击剑永不息" tvg-logo="https://epg.112114.xyz/logo/击剑永不息.png",击剑永不息
+https://live.ottiptv.cc/huya/30080154
+#EXTINF:-1 group-title="原创" tvg-name="哀是麦子的球迷" tvg-logo="https://epg.112114.xyz/logo/哀是麦子的球迷.png",哀是麦子的球迷
+https://live.ottiptv.cc/huya/16162176
+#EXTINF:-1 group-title="原创" tvg-name="力哥影視" tvg-logo="https://epg.112114.xyz/logo/力哥影視.png",力哥影視
+https://live.ottiptv.cc/huya/23419131
+#EXTINF:-1 group-title="原创" tvg-name="斌哥漫说" tvg-logo="https://epg.112114.xyz/logo/斌哥漫说.png",斌哥漫说
+https://live.ottiptv.cc/huya/18632116
+#EXTINF:-1 group-title="原创" tvg-name="雪布林" tvg-logo="https://epg.112114.xyz/logo/雪布林.png",雪布林
+https://live.ottiptv.cc/huya/30311504
+#EXTINF:-1 group-title="原创" tvg-name="麥l佳佳" tvg-logo="https://epg.112114.xyz/logo/麥l佳佳.png",麥l佳佳
+https://live.ottiptv.cc/huya/25749030
+#EXTINF:-1 group-title="原创" tvg-name="泛爱心说剧" tvg-logo="https://epg.112114.xyz/logo/泛爱心说剧.png",泛爱心说剧
+https://live.ottiptv.cc/huya/14734068
+#EXTINF:-1 group-title="原创" tvg-name="欧巴宋仲基" tvg-logo="https://epg.112114.xyz/logo/欧巴宋仲基.png",欧巴宋仲基
+https://live.ottiptv.cc/huya/23829474
+#EXTINF:-1 group-title="原创" tvg-name="S哥影视" tvg-logo="https://epg.112114.xyz/logo/S哥影视.png",S哥影视
+https://live.ottiptv.cc/huya/24720260
+#EXTINF:-1 group-title="原创" tvg-name="SJ-辛稼轩" tvg-logo="https://epg.112114.xyz/logo/SJ-辛稼轩.png",SJ-辛稼轩
+https://live.ottiptv.cc/huya/29528581
+#EXTINF:-1 group-title="原创" tvg-name="发疯小丛品鉴甄学" tvg-logo="https://epg.112114.xyz/logo/发疯小丛品鉴甄学.png",发疯小丛品鉴甄学
+https://live.ottiptv.cc/huya/30080163
+#EXTINF:-1 group-title="原创" tvg-name="荒野求生影视" tvg-logo="https://epg.112114.xyz/logo/荒野求生影视.png",荒野求生影视
+https://live.ottiptv.cc/huya/24766781
+#EXTINF:-1 group-title="原创" tvg-name="港剧大放送" tvg-logo="https://epg.112114.xyz/logo/港剧大放送.png",港剧大放送
+https://live.ottiptv.cc/huya/23903106
+#EXTINF:-1 group-title="原创" tvg-name="小丑讲电影" tvg-logo="https://epg.112114.xyz/logo/小丑讲电影.png",小丑讲电影
+https://live.ottiptv.cc/huya/16857432
+#EXTINF:-1 group-title="原创" tvg-name="野行者" tvg-logo="https://epg.112114.xyz/logo/野行者.png",野行者
+https://live.ottiptv.cc/huya/20072663
+#EXTINF:-1 group-title="原创" tvg-name="大神影视" tvg-logo="https://epg.112114.xyz/logo/大神影视.png",大神影视
+https://live.ottiptv.cc/huya/30297011
+#EXTINF:-1 group-title="原创" tvg-name="小虎动漫影视社" tvg-logo="https://epg.112114.xyz/logo/小虎动漫影视社.png",小虎动漫影视社
+https://live.ottiptv.cc/huya/30882469
+#EXTINF:-1 group-title="原创" tvg-name="剧能说" tvg-logo="https://epg.112114.xyz/logo/剧能说.png",剧能说
+https://live.ottiptv.cc/huya/30298490
+#EXTINF:-1 group-title="原创" tvg-name="诡计腰柳中空" tvg-logo="https://epg.112114.xyz/logo/诡计腰柳中空.png",诡计腰柳中空
+https://live.ottiptv.cc/huya/30307341
+#EXTINF:-1 group-title="原创" tvg-name="音乐小石榴" tvg-logo="https://epg.112114.xyz/logo/音乐小石榴.png",音乐小石榴
+https://live.ottiptv.cc/huya/17091681
+#EXTINF:-1 group-title="原创" tvg-name="日落丶星屑" tvg-logo="https://epg.112114.xyz/logo/日落丶星屑.png",日落丶星屑
+https://live.ottiptv.cc/huya/21059615
+#EXTINF:-1 group-title="原创" tvg-name="gaoxiang" tvg-logo="https://epg.112114.xyz/logo/gaoxiang.png",gaoxiang
+https://live.ottiptv.cc/huya/28148214
+#EXTINF:-1 group-title="原创" tvg-name="小金很大" tvg-logo="https://epg.112114.xyz/logo/小金很大.png",小金很大
+https://live.ottiptv.cc/huya/30307351
+#EXTINF:-1 group-title="原创" tvg-name="越哥说电影" tvg-logo="https://epg.112114.xyz/logo/越哥说电影.png",越哥说电影
+https://live.ottiptv.cc/huya/15894162
+#EXTINF:-1 group-title="原创" tvg-name="幻海航行" tvg-logo="https://epg.112114.xyz/logo/幻海航行.png",幻海航行
+https://live.ottiptv.cc/huya/17105786
+#EXTINF:-1 group-title="原创" tvg-name="小川侃电影" tvg-logo="https://epg.112114.xyz/logo/小川侃电影.png",小川侃电影
+https://live.ottiptv.cc/huya/15870999
+#EXTINF:-1 group-title="原创" tvg-name="君陌观影" tvg-logo="https://epg.112114.xyz/logo/君陌观影.png",君陌观影
+https://live.ottiptv.cc/huya/29420446
+#EXTINF:-1 group-title="原创" tvg-name="重庆火锅青岚黄麻鸡" tvg-logo="https://epg.112114.xyz/logo/重庆火锅青岚黄麻鸡.png",重庆火锅青岚黄麻鸡
+https://live.ottiptv.cc/huya/30342855
+#EXTINF:-1 group-title="原创" tvg-name="阿良说美剧" tvg-logo="https://epg.112114.xyz/logo/阿良说美剧.png",阿良说美剧
+https://live.ottiptv.cc/huya/20488841
+#EXTINF:-1 group-title="原创" tvg-name="辟哥影视" tvg-logo="https://epg.112114.xyz/logo/辟哥影视.png",辟哥影视
+https://live.ottiptv.cc/huya/27653235
+#EXTINF:-1 group-title="原创" tvg-name="星光璀璨照夜阑" tvg-logo="https://epg.112114.xyz/logo/星光璀璨照夜阑.png",星光璀璨照夜阑
+https://live.ottiptv.cc/huya/30080211
+#EXTINF:-1 group-title="原创" tvg-name="乔我说动漫频道" tvg-logo="https://epg.112114.xyz/logo/乔我说动漫频道.png",乔我说动漫频道
+https://live.ottiptv.cc/huya/17941367
+#EXTINF:-1 group-title="原创" tvg-name="杰克动漫" tvg-logo="https://epg.112114.xyz/logo/杰克动漫.png",杰克动漫
+https://live.ottiptv.cc/huya/19757963
+#EXTINF:-1 group-title="原创" tvg-name="糊了的胡萝卜" tvg-logo="https://epg.112114.xyz/logo/糊了的胡萝卜.png",糊了的胡萝卜
+https://live.ottiptv.cc/huya/25725150
+#EXTINF:-1 group-title="原创" tvg-name="大鱼爱路飞" tvg-logo="https://epg.112114.xyz/logo/大鱼爱路飞.png",大鱼爱路飞
+https://live.ottiptv.cc/huya/25818873
+#EXTINF:-1 group-title="原创" tvg-name="小阿掌" tvg-logo="https://epg.112114.xyz/logo/小阿掌.png",小阿掌
+https://live.ottiptv.cc/huya/28182904
+#EXTINF:-1 group-title="原创" tvg-name="小若影视" tvg-logo="https://epg.112114.xyz/logo/小若影视.png",小若影视
+https://live.ottiptv.cc/huya/29868594
+#EXTINF:-1 group-title="原创" tvg-name="头上在眼前" tvg-logo="https://epg.112114.xyz/logo/头上在眼前.png",头上在眼前
+https://live.ottiptv.cc/huya/30307331
+#EXTINF:-1 group-title="原创" tvg-name="仙人见老聃归" tvg-logo="https://epg.112114.xyz/logo/仙人见老聃归.png",仙人见老聃归
+https://live.ottiptv.cc/huya/30080212
+#EXTINF:-1 group-title="原创" tvg-name="狂野女孩i了吗" tvg-logo="https://epg.112114.xyz/logo/狂野女孩i了吗.png",狂野女孩i了吗
+https://live.ottiptv.cc/huya/21059559
+#EXTINF:-1 group-title="原创" tvg-name="狼肉-影视故事" tvg-logo="https://epg.112114.xyz/logo/狼肉-影视故事.png",狼肉-影视故事
+https://live.ottiptv.cc/huya/30375709
+#EXTINF:-1 group-title="原创" tvg-name="拾光剧场" tvg-logo="https://epg.112114.xyz/logo/拾光剧场.png",拾光剧场
+https://live.ottiptv.cc/huya/30539264
+#EXTINF:-1 group-title="原创" tvg-name="良少聊漫威" tvg-logo="https://epg.112114.xyz/logo/良少聊漫威.png",良少聊漫威
+https://live.ottiptv.cc/huya/25523725
+#EXTINF:-1 group-title="原创" tvg-name="剧说有惊喜" tvg-logo="https://epg.112114.xyz/logo/剧说有惊喜.png",剧说有惊喜
+https://live.ottiptv.cc/huya/30339670
+#EXTINF:-1 group-title="原创" tvg-name="燃电时代" tvg-logo="https://epg.112114.xyz/logo/燃电时代.png",燃电时代
+https://live.ottiptv.cc/huya/15824466
+#EXTINF:-1 group-title="原创" tvg-name="五哥观影团" tvg-logo="https://epg.112114.xyz/logo/五哥观影团.png",五哥观影团
+https://live.ottiptv.cc/huya/30307366
+#EXTINF:-1 group-title="原创" tvg-name="喜仔的世界" tvg-logo="https://epg.112114.xyz/logo/喜仔的世界.png",喜仔的世界
+https://live.ottiptv.cc/huya/17098448
+#EXTINF:-1 group-title="原创" tvg-name="温泉鱼儿戏" tvg-logo="https://epg.112114.xyz/logo/温泉鱼儿戏.png",温泉鱼儿戏
+https://live.ottiptv.cc/huya/30080199
+#EXTINF:-1 group-title="原创" tvg-name="老微讲故事" tvg-logo="https://epg.112114.xyz/logo/老微讲故事.png",老微讲故事
+https://live.ottiptv.cc/huya/27693540
+#EXTINF:-1 group-title="原创" tvg-name="萬里洋洋者矣" tvg-logo="https://epg.112114.xyz/logo/萬里洋洋者矣.png",萬里洋洋者矣
+https://live.ottiptv.cc/huya/26355836
+#EXTINF:-1 group-title="原创" tvg-name="情思说剧" tvg-logo="https://epg.112114.xyz/logo/情思说剧.png",情思说剧
+https://live.ottiptv.cc/huya/29870731
+#EXTINF:-1 group-title="原创" tvg-name="农校小绿" tvg-logo="https://epg.112114.xyz/logo/农校小绿.png",农校小绿
+https://live.ottiptv.cc/huya/30080213
+#EXTINF:-1 group-title="原创" tvg-name="吾聊电影" tvg-logo="https://epg.112114.xyz/logo/吾聊电影.png",吾聊电影
+https://live.ottiptv.cc/huya/16424416
+#EXTINF:-1 group-title="原创" tvg-name="君知钩看了" tvg-logo="https://epg.112114.xyz/logo/君知钩看了.png",君知钩看了
+https://live.ottiptv.cc/huya/30307439
+#EXTINF:-1 group-title="原创" tvg-name="荒爷求生007" tvg-logo="https://epg.112114.xyz/logo/荒爷求生007.png",荒爷求生007
+https://live.ottiptv.cc/huya/29468771
+#EXTINF:-1 group-title="原创" tvg-name="老P仔动漫" tvg-logo="https://epg.112114.xyz/logo/老P仔动漫.png",老P仔动漫
+https://live.ottiptv.cc/huya/26510802
+#EXTINF:-1 group-title="原创" tvg-name="原始生活21天" tvg-logo="https://epg.112114.xyz/logo/原始生活21天.png",原始生活21天
+https://live.ottiptv.cc/huya/17610289
+#EXTINF:-1 group-title="原创" tvg-name="君子杉" tvg-logo="https://epg.112114.xyz/logo/君子杉.png",君子杉
+https://live.ottiptv.cc/huya/15321830
+#EXTINF:-1 group-title="原创" tvg-name="咔咔一顿玩" tvg-logo="https://epg.112114.xyz/logo/咔咔一顿玩.png",咔咔一顿玩
+https://live.ottiptv.cc/huya/30824456
+#EXTINF:-1 group-title="原创" tvg-name="鸳鸯入帘青" tvg-logo="https://epg.112114.xyz/logo/鸳鸯入帘青.png",鸳鸯入帘青
+https://live.ottiptv.cc/huya/30380969
+#EXTINF:-1 group-title="原创" tvg-name="小丰爱追剧" tvg-logo="https://epg.112114.xyz/logo/小丰爱追剧.png",小丰爱追剧
+https://live.ottiptv.cc/huya/30439802
+#EXTINF:-1 group-title="原创" tvg-name="山石说电影" tvg-logo="https://epg.112114.xyz/logo/山石说电影.png",山石说电影
+https://live.ottiptv.cc/huya/29858128
+#EXTINF:-1 group-title="原创" tvg-name="鱼丸说电影" tvg-logo="https://epg.112114.xyz/logo/鱼丸说电影.png",鱼丸说电影
+https://live.ottiptv.cc/huya/16615910
+#EXTINF:-1 group-title="原创" tvg-name="硬汉影探" tvg-logo="https://epg.112114.xyz/logo/硬汉影探.png",硬汉影探
+https://live.ottiptv.cc/huya/24614407
+#EXTINF:-1 group-title="原创" tvg-name="大漠讲电影" tvg-logo="https://epg.112114.xyz/logo/大漠讲电影.png",大漠讲电影
+https://live.ottiptv.cc/huya/30301298
+#EXTINF:-1 group-title="原创" tvg-name="青年电影馆" tvg-logo="https://epg.112114.xyz/logo/青年电影馆.png",青年电影馆
+https://live.ottiptv.cc/huya/21388479
+#EXTINF:-1 group-title="原创" tvg-name="晕倒羊一家" tvg-logo="https://epg.112114.xyz/logo/晕倒羊一家.png",晕倒羊一家
+https://live.ottiptv.cc/huya/25107026
+#EXTINF:-1 group-title="原创" tvg-name="正恒YJ-猫猫酱" tvg-logo="https://epg.112114.xyz/logo/正恒YJ-猫猫酱.png",正恒YJ-猫猫酱
+https://live.ottiptv.cc/huya/21509833
+#EXTINF:-1 group-title="原创" tvg-name="拳满天下" tvg-logo="https://epg.112114.xyz/logo/拳满天下.png",拳满天下
+https://live.ottiptv.cc/huya/18152427
+#EXTINF:-1 group-title="原创" tvg-name="言雨说剧" tvg-logo="https://epg.112114.xyz/logo/言雨说剧.png",言雨说剧
+https://live.ottiptv.cc/huya/30297024
+#EXTINF:-1 group-title="原创" tvg-name="猫丸酱影视" tvg-logo="https://epg.112114.xyz/logo/猫丸酱影视.png",猫丸酱影视
+https://live.ottiptv.cc/huya/26999674
+#EXTINF:-1 group-title="原创" tvg-name="大潘影视" tvg-logo="https://epg.112114.xyz/logo/大潘影视.png",大潘影视
+https://live.ottiptv.cc/huya/30439834
+#EXTINF:-1 group-title="原创" tvg-name="猛虎电影" tvg-logo="https://epg.112114.xyz/logo/猛虎电影.png",猛虎电影
+https://live.ottiptv.cc/huya/24770988
+#EXTINF:-1 group-title="原创" tvg-name="阿神电影" tvg-logo="https://epg.112114.xyz/logo/阿神电影.png",阿神电影
+https://live.ottiptv.cc/huya/29396896
+#EXTINF:-1 group-title="原创" tvg-name="圣逗事" tvg-logo="https://epg.112114.xyz/logo/圣逗事.png",圣逗事
+https://live.ottiptv.cc/huya/18390254
+#EXTINF:-1 group-title="原创" tvg-name="影视铺FILMSHOP" tvg-logo="https://epg.112114.xyz/logo/影视铺FILMSHOP.png",影视铺FILMSHOP
+https://live.ottiptv.cc/huya/30297166
+#EXTINF:-1 group-title="原创" tvg-name="乔我说游戏频道" tvg-logo="https://epg.112114.xyz/logo/乔我说游戏频道.png",乔我说游戏频道
+https://live.ottiptv.cc/huya/17943364
+#EXTINF:-1 group-title="原创" tvg-name="八零影漫" tvg-logo="https://epg.112114.xyz/logo/八零影漫.png",八零影漫
+https://live.ottiptv.cc/huya/27236095
+#EXTINF:-1 group-title="原创" tvg-name="柒言绝剧" tvg-logo="https://epg.112114.xyz/logo/柒言绝剧.png",柒言绝剧
+https://live.ottiptv.cc/huya/24778726
+#EXTINF:-1 group-title="原创" tvg-name="竖子所乐兮" tvg-logo="https://epg.112114.xyz/logo/竖子所乐兮.png",竖子所乐兮
+https://live.ottiptv.cc/huya/30307442
+#EXTINF:-1 group-title="原创" tvg-name="小宋追剧" tvg-logo="https://epg.112114.xyz/logo/小宋追剧.png",小宋追剧
+https://live.ottiptv.cc/huya/30310419
+#EXTINF:-1 group-title="原创" tvg-name="鹏友说电影" tvg-logo="https://epg.112114.xyz/logo/鹏友说电影.png",鹏友说电影
+https://live.ottiptv.cc/huya/29340612
+#EXTINF:-1 group-title="原创" tvg-name="电影探长官方" tvg-logo="https://epg.112114.xyz/logo/电影探长官方.png",电影探长官方
+https://live.ottiptv.cc/huya/30277705
+#EXTINF:-1 group-title="原创" tvg-name="Big笑工坊" tvg-logo="https://epg.112114.xyz/logo/Big笑工坊.png",Big笑工坊
+https://live.ottiptv.cc/huya/14776702
+#EXTINF:-1 group-title="原创" tvg-name="狗哥探案" tvg-logo="https://epg.112114.xyz/logo/狗哥探案.png",狗哥探案
+https://live.ottiptv.cc/huya/29484323
+#EXTINF:-1 group-title="原创" tvg-name="小东北侃大片" tvg-logo="https://epg.112114.xyz/logo/小东北侃大片.png",小东北侃大片
+https://live.ottiptv.cc/huya/23110321
+#EXTINF:-1 group-title="原创" tvg-name="喵哇塞" tvg-logo="https://epg.112114.xyz/logo/喵哇塞.png",喵哇塞
+https://live.ottiptv.cc/huya/30344013
+#EXTINF:-1 group-title="原创" tvg-name="陈年三百零六斤" tvg-logo="https://epg.112114.xyz/logo/陈年三百零六斤.png",陈年三百零六斤
+https://live.ottiptv.cc/huya/17259151
+#EXTINF:-1 group-title="原创" tvg-name="宇宙无敌韩三金" tvg-logo="https://epg.112114.xyz/logo/宇宙无敌韩三金.png",宇宙无敌韩三金
+https://live.ottiptv.cc/huya/15494057
+#EXTINF:-1 group-title="原创" tvg-name="饿梦影视" tvg-logo="https://epg.112114.xyz/logo/饿梦影视.png",饿梦影视
+https://live.ottiptv.cc/huya/24886896
+#EXTINF:-1 group-title="原创" tvg-name="小丑电影" tvg-logo="https://epg.112114.xyz/logo/小丑电影.png",小丑电影
+https://live.ottiptv.cc/huya/29869799
+#EXTINF:-1 group-title="原创" tvg-name="若雨随影" tvg-logo="https://epg.112114.xyz/logo/若雨随影.png",若雨随影
+https://live.ottiptv.cc/huya/29340713
+#EXTINF:-1 group-title="原创" tvg-name="岳岳追剧呀" tvg-logo="https://epg.112114.xyz/logo/岳岳追剧呀.png",岳岳追剧呀
+https://live.ottiptv.cc/huya/30438843
+#EXTINF:-1 group-title="原创" tvg-name="猪圈女孩说剧" tvg-logo="https://epg.112114.xyz/logo/猪圈女孩说剧.png",猪圈女孩说剧
+https://live.ottiptv.cc/huya/30299082
+#EXTINF:-1 group-title="原创" tvg-name="天依说影" tvg-logo="https://epg.112114.xyz/logo/天依说影.png",天依说影
+https://live.ottiptv.cc/huya/15174372
+#EXTINF:-1 group-title="原创" tvg-name="莫西西西西" tvg-logo="https://epg.112114.xyz/logo/莫西西西西.png",莫西西西西
+https://live.ottiptv.cc/huya/30312372
+#EXTINF:-1 group-title="原创" tvg-name="小鹿来了" tvg-logo="https://epg.112114.xyz/logo/小鹿来了.png",小鹿来了
+https://live.ottiptv.cc/huya/22780175
+#EXTINF:-1 group-title="原创" tvg-name="战士吹沙埃" tvg-logo="https://epg.112114.xyz/logo/战士吹沙埃.png",战士吹沙埃
+https://live.ottiptv.cc/huya/30344039
+#EXTINF:-1 group-title="原创" tvg-name="明年幸运" tvg-logo="https://epg.112114.xyz/logo/明年幸运.png",明年幸运
+https://live.ottiptv.cc/huya/30373458
+#EXTINF:-1 group-title="原创" tvg-name="阿良说剧" tvg-logo="https://epg.112114.xyz/logo/阿良说剧.png",阿良说剧
+https://live.ottiptv.cc/huya/30296909
+#EXTINF:-1 group-title="原创" tvg-name="大聪明和魏乐乐影院" tvg-logo="https://epg.112114.xyz/logo/大聪明和魏乐乐影院.png",大聪明和魏乐乐影院
+https://live.ottiptv.cc/huya/23304691
+#EXTINF:-1 group-title="原创" tvg-name="熊妹撩电影" tvg-logo="https://epg.112114.xyz/logo/熊妹撩电影.png",熊妹撩电影
+https://live.ottiptv.cc/huya/15966357
+#EXTINF:-1 group-title="原创" tvg-name="欣姐说剧" tvg-logo="https://epg.112114.xyz/logo/欣姐说剧.png",欣姐说剧
+https://live.ottiptv.cc/huya/28021302
+#EXTINF:-1 group-title="原创" tvg-name="雨满小满天" tvg-logo="https://epg.112114.xyz/logo/雨满小满天.png",雨满小满天
+https://live.ottiptv.cc/huya/30080214
+#EXTINF:-1 group-title="原创" tvg-name="泱泱看剧" tvg-logo="https://epg.112114.xyz/logo/泱泱看剧.png",泱泱看剧
+https://live.ottiptv.cc/huya/30373462
+#EXTINF:-1 group-title="原创" tvg-name="东方先生i" tvg-logo="https://epg.112114.xyz/logo/东方先生i.png",东方先生i
+https://live.ottiptv.cc/huya/24396323
+#EXTINF:-1 group-title="原创" tvg-name="涵哥评电影" tvg-logo="https://epg.112114.xyz/logo/涵哥评电影.png",涵哥评电影
+https://live.ottiptv.cc/huya/16865726
+#EXTINF:-1 group-title="原创" tvg-name="路飞追剧" tvg-logo="https://epg.112114.xyz/logo/路飞追剧.png",路飞追剧
+https://live.ottiptv.cc/huya/30097024
+#EXTINF:-1 group-title="原创" tvg-name="我是一颗小虎牙" tvg-logo="https://epg.112114.xyz/logo/我是一颗小虎牙.png",我是一颗小虎牙
+https://live.ottiptv.cc/huya/30363935
+#EXTINF:-1 group-title="原创" tvg-name="小马追剧" tvg-logo="https://epg.112114.xyz/logo/小马追剧.png",小马追剧
+https://live.ottiptv.cc/huya/30310431
+#EXTINF:-1 group-title="原创" tvg-name="大象放映室" tvg-logo="https://epg.112114.xyz/logo/大象放映室.png",大象放映室
+https://live.ottiptv.cc/huya/21277391
+#EXTINF:-1 group-title="原创" tvg-name="爆有料综艺" tvg-logo="https://epg.112114.xyz/logo/爆有料综艺.png",爆有料综艺
+https://live.ottiptv.cc/huya/27695407
+#EXTINF:-1 group-title="原创" tvg-name="黑眼侃片" tvg-logo="https://epg.112114.xyz/logo/黑眼侃片.png",黑眼侃片
+https://live.ottiptv.cc/huya/24609357
+#EXTINF:-1 group-title="原创" tvg-name="狼肉-恐怖游戏" tvg-logo="https://epg.112114.xyz/logo/狼肉-恐怖游戏.png",狼肉-恐怖游戏
+https://live.ottiptv.cc/huya/27949294
+#EXTINF:-1 group-title="原创" tvg-name="肥猫观影" tvg-logo="https://epg.112114.xyz/logo/肥猫观影.png",肥猫观影
+https://live.ottiptv.cc/huya/24152470
+#EXTINF:-1 group-title="原创" tvg-name="新海电影" tvg-logo="https://epg.112114.xyz/logo/新海电影.png",新海电影
+https://live.ottiptv.cc/huya/29396806
+#EXTINF:-1 group-title="原创" tvg-name="玩个机枪" tvg-logo="https://epg.112114.xyz/logo/玩个机枪.png",玩个机枪
+https://live.ottiptv.cc/huya/30356003
+#EXTINF:-1 group-title="原创" tvg-name="文君看剧" tvg-logo="https://epg.112114.xyz/logo/文君看剧.png",文君看剧
+https://live.ottiptv.cc/huya/30363916
+#EXTINF:-1 group-title="原创" tvg-name="虎虎剧社呀" tvg-logo="https://epg.112114.xyz/logo/虎虎剧社呀.png",虎虎剧社呀
+https://live.ottiptv.cc/huya/29831106
+#EXTINF:-1 group-title="原创" tvg-name="驴子爱影视" tvg-logo="https://epg.112114.xyz/logo/驴子爱影视.png",驴子爱影视
+https://live.ottiptv.cc/huya/20380270
+#EXTINF:-1 group-title="原创" tvg-name="米饭何首乌粉" tvg-logo="https://epg.112114.xyz/logo/米饭何首乌粉.png",米饭何首乌粉
+https://live.ottiptv.cc/huya/30378185
+#EXTINF:-1 group-title="原创" tvg-name="楚门聊电影" tvg-logo="https://epg.112114.xyz/logo/楚门聊电影.png",楚门聊电影
+https://live.ottiptv.cc/huya/16507906
+#EXTINF:-1 group-title="原创" tvg-name="江流杀鸡作食" tvg-logo="https://epg.112114.xyz/logo/江流杀鸡作食.png",江流杀鸡作食
+https://live.ottiptv.cc/huya/30375485
+#EXTINF:-1 group-title="原创" tvg-name="小安追剧" tvg-logo="https://epg.112114.xyz/logo/小安追剧.png",小安追剧
+https://live.ottiptv.cc/huya/30439728
+#EXTINF:-1 group-title="原创" tvg-name="阿柴电影" tvg-logo="https://epg.112114.xyz/logo/阿柴电影.png",阿柴电影
+https://live.ottiptv.cc/huya/29402497
+#EXTINF:-1 group-title="原创" tvg-name="栗子不熬夜Zz" tvg-logo="https://epg.112114.xyz/logo/栗子不熬夜Zz.png",栗子不熬夜Zz
+https://live.ottiptv.cc/huya/30622328
+#EXTINF:-1 group-title="原创" tvg-name="影视插班生" tvg-logo="https://epg.112114.xyz/logo/影视插班生.png",影视插班生
+https://live.ottiptv.cc/huya/29882513
+#EXTINF:-1 group-title="原创" tvg-name="周星驰吧" tvg-logo="https://epg.112114.xyz/logo/周星驰吧.png",周星驰吧
+https://live.ottiptv.cc/huya/21136378
+#EXTINF:-1 group-title="原创" tvg-name="雨哥影视" tvg-logo="https://epg.112114.xyz/logo/雨哥影视.png",雨哥影视
+https://live.ottiptv.cc/huya/29517294
+#EXTINF:-1 group-title="原创" tvg-name="猫眼下的鱼" tvg-logo="https://epg.112114.xyz/logo/猫眼下的鱼.png",猫眼下的鱼
+https://live.ottiptv.cc/huya/20236200
+#EXTINF:-1 group-title="原创" tvg-name="7块说故事" tvg-logo="https://epg.112114.xyz/logo/7块说故事.png",7块说故事
+https://live.ottiptv.cc/huya/27661804
+#EXTINF:-1 group-title="原创" tvg-name="凡人说剧" tvg-logo="https://epg.112114.xyz/logo/凡人说剧.png",凡人说剧
+https://live.ottiptv.cc/huya/29831090
+#EXTINF:-1 group-title="原创" tvg-name="蒲公英电影" tvg-logo="https://epg.112114.xyz/logo/蒲公英电影.png",蒲公英电影
+https://live.ottiptv.cc/huya/28806637
+#EXTINF:-1 group-title="原创" tvg-name="有家卓文君" tvg-logo="https://epg.112114.xyz/logo/有家卓文君.png",有家卓文君
+https://live.ottiptv.cc/huya/30297048
+#EXTINF:-1 group-title="原创" tvg-name="剧迷小灯泡" tvg-logo="https://epg.112114.xyz/logo/剧迷小灯泡.png",剧迷小灯泡
+https://live.ottiptv.cc/huya/30399965
+#EXTINF:-1 group-title="原创" tvg-name="诗语墨" tvg-logo="https://epg.112114.xyz/logo/诗语墨.png",诗语墨
+https://live.ottiptv.cc/huya/30312383
+#EXTINF:-1 group-title="原创" tvg-name="十趣文化" tvg-logo="https://epg.112114.xyz/logo/十趣文化.png",十趣文化
+https://live.ottiptv.cc/huya/23707143
+#EXTINF:-1 group-title="原创" tvg-name="救赎电影" tvg-logo="https://epg.112114.xyz/logo/救赎电影.png",救赎电影
+https://live.ottiptv.cc/huya/29833341
+#EXTINF:-1 group-title="原创" tvg-name="时夜说故事" tvg-logo="https://epg.112114.xyz/logo/时夜说故事.png",时夜说故事
+https://live.ottiptv.cc/huya/29918288
+#EXTINF:-1 group-title="原创" tvg-name="南南说动漫" tvg-logo="https://epg.112114.xyz/logo/南南说动漫.png",南南说动漫
+https://live.ottiptv.cc/huya/30296754
+#EXTINF:-1 group-title="原创" tvg-name="大鹅观影" tvg-logo="https://epg.112114.xyz/logo/大鹅观影.png",大鹅观影
+https://live.ottiptv.cc/huya/30292065
+#EXTINF:-1 group-title="原创" tvg-name="神探追剧" tvg-logo="https://epg.112114.xyz/logo/神探追剧.png",神探追剧
+https://live.ottiptv.cc/huya/30296896
+#EXTINF:-1 group-title="原创" tvg-name="鑫鑫影视" tvg-logo="https://epg.112114.xyz/logo/鑫鑫影视.png",鑫鑫影视
+https://live.ottiptv.cc/huya/30439676
+#EXTINF:-1 group-title="原创" tvg-name="酱婶儿电影" tvg-logo="https://epg.112114.xyz/logo/酱婶儿电影.png",酱婶儿电影
+https://live.ottiptv.cc/huya/24396474
+#EXTINF:-1 group-title="原创" tvg-name="电影狂人A" tvg-logo="https://epg.112114.xyz/logo/电影狂人A.png",电影狂人A
+https://live.ottiptv.cc/huya/18715610
+#EXTINF:-1 group-title="原创" tvg-name="书源说剧" tvg-logo="https://epg.112114.xyz/logo/书源说剧.png",书源说剧
+https://live.ottiptv.cc/huya/30297394
+#EXTINF:-1 group-title="原创" tvg-name="古枫影视" tvg-logo="https://epg.112114.xyz/logo/古枫影视.png",古枫影视
+https://live.ottiptv.cc/huya/30297201
+#EXTINF:-1 group-title="原创" tvg-name="布布娱乐" tvg-logo="https://epg.112114.xyz/logo/布布娱乐.png",布布娱乐
+https://live.ottiptv.cc/huya/29882863
+#EXTINF:-1 group-title="原创" tvg-name="一日壹片v" tvg-logo="https://epg.112114.xyz/logo/一日壹片v.png",一日壹片v
+https://live.ottiptv.cc/huya/27322701
+#EXTINF:-1 group-title="原创" tvg-name="集集动漫社" tvg-logo="https://epg.112114.xyz/logo/集集动漫社.png",集集动漫社
+https://live.ottiptv.cc/huya/29832558
+#EXTINF:-1 group-title="原创" tvg-name="虾虾聊影视" tvg-logo="https://epg.112114.xyz/logo/虾虾聊影视.png",虾虾聊影视
+https://live.ottiptv.cc/huya/29519746
+#EXTINF:-1 group-title="原创" tvg-name="周扒片" tvg-logo="https://epg.112114.xyz/logo/周扒片.png",周扒片
+https://live.ottiptv.cc/huya/29340506
+#EXTINF:-1 group-title="原创" tvg-name="光光电影" tvg-logo="https://epg.112114.xyz/logo/光光电影.png",光光电影
+https://live.ottiptv.cc/huya/29399457
+#EXTINF:-1 group-title="原创" tvg-name="A皮皮" tvg-logo="https://epg.112114.xyz/logo/A皮皮.png",A皮皮
+https://live.ottiptv.cc/huya/30375641
+#EXTINF:-1 group-title="原创" tvg-name="三哥说武侠" tvg-logo="https://epg.112114.xyz/logo/三哥说武侠.png",三哥说武侠
+https://live.ottiptv.cc/huya/29834817
+#EXTINF:-1 group-title="原创" tvg-name="苏苏追剧" tvg-logo="https://epg.112114.xyz/logo/苏苏追剧.png",苏苏追剧
+https://live.ottiptv.cc/huya/29418696
+#EXTINF:-1 group-title="原创" tvg-name="木子电影V" tvg-logo="https://epg.112114.xyz/logo/木子电影V.png",木子电影V
+https://live.ottiptv.cc/huya/27314057
+#EXTINF:-1 group-title="原创" tvg-name="呆呆的动画" tvg-logo="https://epg.112114.xyz/logo/呆呆的动画.png",呆呆的动画
+https://live.ottiptv.cc/huya/29837259
+#EXTINF:-1 group-title="原创" tvg-name="饭团剧社" tvg-logo="https://epg.112114.xyz/logo/饭团剧社.png",饭团剧社
+https://live.ottiptv.cc/huya/30399978
+#EXTINF:-1 group-title="原创" tvg-name="清泉玄鱼" tvg-logo="https://epg.112114.xyz/logo/清泉玄鱼.png",清泉玄鱼
+https://live.ottiptv.cc/huya/ 30297342
+#EXTINF:-1 group-title="原创" tvg-name="小野综艺" tvg-logo="https://epg.112114.xyz/logo/小野综艺.png",小野综艺
+https://live.ottiptv.cc/huya/29890508
+#EXTINF:-1 group-title="原创" tvg-name="小松说剧" tvg-logo="https://epg.112114.xyz/logo/小松说剧.png",小松说剧
+https://live.ottiptv.cc/huya/11593369
+#EXTINF:-1 group-title="原创" tvg-name="纯洁上校" tvg-logo="https://epg.112114.xyz/logo/纯洁上校.png",纯洁上校
+https://live.ottiptv.cc/huya/29875684
+#EXTINF:-1 group-title="原创" tvg-name="火华君说电影" tvg-logo="https://epg.112114.xyz/logo/火华君说电影.png",火华君说电影
+https://live.ottiptv.cc/huya/27312232
+#EXTINF:-1 group-title="原创" tvg-name="蓬蓬带你看剧" tvg-logo="https://epg.112114.xyz/logo/蓬蓬带你看剧.png",蓬蓬带你看剧
+https://live.ottiptv.cc/huya/30309986
+#EXTINF:-1 group-title="原创" tvg-name="金小妍吖" tvg-logo="https://epg.112114.xyz/logo/金小妍吖.png",金小妍吖
+https://live.ottiptv.cc/huya/29942067
+#EXTINF:-1 group-title="原创" tvg-name="艾迷追剧" tvg-logo="https://epg.112114.xyz/logo/艾迷追剧.png",艾迷追剧
+https://live.ottiptv.cc/huya/30296786
+#EXTINF:-1 group-title="原创" tvg-name="如来解说" tvg-logo="https://epg.112114.xyz/logo/如来解说.png",如来解说
+https://live.ottiptv.cc/huya/29856678
+#EXTINF:-1 group-title="原创" tvg-name="星雪剪辑" tvg-logo="https://epg.112114.xyz/logo/星雪剪辑.png",星雪剪辑
+https://live.ottiptv.cc/huya/29868637
+#EXTINF:-1 group-title="原创" tvg-name="可乐电影o" tvg-logo="https://epg.112114.xyz/logo/可乐电影o.png",可乐电影o
+https://live.ottiptv.cc/huya/29598686
+#EXTINF:-1 group-title="原创" tvg-name="夏日么么茶" tvg-logo="https://epg.112114.xyz/logo/夏日么么茶.png",夏日么么茶
+https://live.ottiptv.cc/huya/17455040
+#EXTINF:-1 group-title="原创" tvg-name="威廉说" tvg-logo="https://epg.112114.xyz/logo/威廉说.png",威廉说
+https://live.ottiptv.cc/huya/24969192
+#EXTINF:-1 group-title="原创" tvg-name="泡菜电影" tvg-logo="https://epg.112114.xyz/logo/泡菜电影.png",泡菜电影
+https://live.ottiptv.cc/huya/29812160
+#EXTINF:-1 group-title="原创" tvg-name="惊奇小剧场" tvg-logo="https://epg.112114.xyz/logo/惊奇小剧场.png",惊奇小剧场
+https://live.ottiptv.cc/huya/30373013
+#EXTINF:-1 group-title="原创" tvg-name="刺猬职场说" tvg-logo="https://epg.112114.xyz/logo/刺猬职场说.png",刺猬职场说
+https://live.ottiptv.cc/huya/22717669
+#EXTINF:-1 group-title="原创" tvg-name="小羊观影记录" tvg-logo="https://epg.112114.xyz/logo/小羊观影记录.png",小羊观影记录
+https://live.ottiptv.cc/huya/25363475
+#EXTINF:-1 group-title="原创" tvg-name="西哥来了" tvg-logo="https://epg.112114.xyz/logo/西哥来了.png",西哥来了
+https://live.ottiptv.cc/huya/10849208
+#EXTINF:-1 group-title="原创" tvg-name="追剧怀旧达人" tvg-logo="https://epg.112114.xyz/logo/追剧怀旧达人.png",追剧怀旧达人
+https://live.ottiptv.cc/huya/30339640
+#EXTINF:-1 group-title="原创" tvg-name="我是二人放映厅" tvg-logo="https://epg.112114.xyz/logo/我是二人放映厅.png",我是二人放映厅
+https://live.ottiptv.cc/huya/24441727
+#EXTINF:-1 group-title="原创" tvg-name="张小宾电影" tvg-logo="https://epg.112114.xyz/logo/张小宾电影.png",张小宾电影
+https://live.ottiptv.cc/huya/29862176
+#EXTINF:-1 group-title="原创" tvg-name="小师妹说剧" tvg-logo="https://epg.112114.xyz/logo/小师妹说剧.png",小师妹说剧
+https://live.ottiptv.cc/huya/19505458
+#EXTINF:-1 group-title="原创" tvg-name="阿涛影视" tvg-logo="https://epg.112114.xyz/logo/阿涛影视.png",阿涛影视
+https://live.ottiptv.cc/huya/30292047
+#EXTINF:-1 group-title="原创" tvg-name="hihiji" tvg-logo="https://epg.112114.xyz/logo/hihiji.png",hihiji
+https://live.ottiptv.cc/huya/24982176
+#EXTINF:-1 group-title="原创" tvg-name="热播君V" tvg-logo="https://epg.112114.xyz/logo/热播君V.png",热播君V
+https://live.ottiptv.cc/huya/26999401
+#EXTINF:-1 group-title="原创" tvg-name="大墨电影" tvg-logo="https://epg.112114.xyz/logo/大墨电影.png",大墨电影
+https://live.ottiptv.cc/huya/29458834
+#EXTINF:-1 group-title="原创" tvg-name="百年影视馆" tvg-logo="https://epg.112114.xyz/logo/百年影视馆.png",百年影视馆
+https://live.ottiptv.cc/huya/30399989
+#EXTINF:-1 group-title="原创" tvg-name="一条贤娱" tvg-logo="https://epg.112114.xyz/logo/一条贤娱.png",一条贤娱
+https://live.ottiptv.cc/huya/29874258
+#EXTINF:-1 group-title="原创" tvg-name="老巴电影" tvg-logo="https://epg.112114.xyz/logo/老巴电影.png",老巴电影
+https://live.ottiptv.cc/huya/29340502
+#EXTINF:-1 group-title="原创" tvg-name="阿森观影团" tvg-logo="https://epg.112114.xyz/logo/阿森观影团.png",阿森观影团
+https://live.ottiptv.cc/huya/30292074
+#EXTINF:-1 group-title="原创" tvg-name="玛卡玛卡MAKA" tvg-logo="https://epg.112114.xyz/logo/玛卡玛卡MAKA.png",玛卡玛卡MAKA
+https://live.ottiptv.cc/huya/30559846
