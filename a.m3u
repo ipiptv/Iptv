@@ -69,6 +69,29 @@ CCTV-8,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7713409062&sign=30a8ff8be6
 深圳卫视,https://migu.188766.xyz/?migutoken=2529b1f12885f4a74d96651126282ed1&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+电影频道,#genre#
+周星驰,https://live.ottiptv.cc/huya/11342412
+林正英,https://live.ottiptv.cc/huya/11342421
+成    龙,https://live.ottiptv.cc/huya/11342386
+沈    腾,https://live.ottiptv.cc/huya/880261
+王宝强,https://live.ottiptv.cc/huya/11601986
+李连杰,https://live.ottiptv.cc/huya/11342390
+五福星,https://live.ottiptv.cc/huya/11282233
+喜    剧,https://live.ottiptv.cc/huya/20969142
+动    作,https://live.ottiptv.cc/huya/10871113
+香    港,https://live.ottiptv.cc/huya/11602055
+喜剧电影放映厅,https://live.ottiptv.cc/huya/11602031
+悬疑放映厅,https://live.ottiptv.cc/huya/26355797
+武侠电影放映厅,https://live.ottiptv.cc/huya/29982611
+战争电影放映厅,https://live.ottiptv.cc/huya/21059618
+冒险电影放映厅,https://live.ottiptv.cc/huya/21059566
+阿斗归来了3,https://live.ottiptv.cc/huya/29982685
+爆裂电影2,https://live.ottiptv.cc/huya/29982678
+惊悚电影放映厅,https://live.ottiptv.cc/huya/26355795
+悬疑电影放映厅,https://live.ottiptv.cc/huya/29982641
+扁豆看电影2,https://live.ottiptv.cc/huya/21059623
+阿斗归来了,https://live.ottiptv.cc/huya/13303478
+扁豆看电影,https://live.ottiptv.cc/huya/16028551
 央视频道,#genre#
 CCTV1,http://182.114.49.226:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://218.28.31.182:9901/tsfile/live/0001_1.m3u8?key=txiptv
@@ -181,26 +204,3 @@ CGTN,http://218.28.31.182:9901/tsfile/live/0017_1.m3u8?key=txiptv
 电视剧频道,http://221.13.232.100:9901/tsfile/live/1005_1.m3u8?key=txiptv
 都市频道,http://218.28.31.182:9901/tsfile/live/1000_1.m3u8?key=txiptv
 都市频道,http://221.13.232.100:9901/tsfile/live/1001_1.m3u8?key=txiptv
-电影频道,#genre#
-周星驰,https://live.ottiptv.cc/huya/11342412
-林正英,https://live.ottiptv.cc/huya/11342421
-成    龙,https://live.ottiptv.cc/huya/11342386
-沈    腾,https://live.ottiptv.cc/huya/880261
-王宝强,https://live.ottiptv.cc/huya/11601986
-李连杰,https://live.ottiptv.cc/huya/11342390
-五福星,https://live.ottiptv.cc/huya/11282233
-喜    剧,https://live.ottiptv.cc/huya/20969142
-动    作,https://live.ottiptv.cc/huya/10871113
-香    港,https://live.ottiptv.cc/huya/11602055
-喜剧电影放映厅,https://live.ottiptv.cc/huya/11602031
-悬疑放映厅,https://live.ottiptv.cc/huya/26355797
-武侠电影放映厅,https://live.ottiptv.cc/huya/29982611
-战争电影放映厅,https://live.ottiptv.cc/huya/21059618
-冒险电影放映厅,https://live.ottiptv.cc/huya/21059566
-阿斗归来了3,https://live.ottiptv.cc/huya/29982685
-爆裂电影2,https://live.ottiptv.cc/huya/29982678
-惊悚电影放映厅,https://live.ottiptv.cc/huya/26355795
-悬疑电影放映厅,https://live.ottiptv.cc/huya/29982641
-扁豆看电影2,https://live.ottiptv.cc/huya/21059623
-阿斗归来了,https://live.ottiptv.cc/huya/13303478
-扁豆看电影,https://live.ottiptv.cc/huya/16028551
