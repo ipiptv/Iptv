@@ -1,190 +1,362 @@
-央视频道,#genre#
-CCTV1 -MCP,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=7713409062&sign=7364a6f9da61701d28f0891fc4c30b01c4c4898573091cbf73992a08f108a79c4173518ff4236f6f6258cbd36f6be6bf6af1061a6983c4e13901241fb835dc0899ec693766b22e9bc747a0d241&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV2 -MCP,https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=7713409062&sign=c4456fab72ff4a91e58b6f36577bbaf3b861add90c887643b5c22905fd26da177384bef370b1157af7d9b8d45028535665e4b2b0491d47d46fe5ed3036fc8ef082e0b8a6c91a40fe223482c685&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV3 -MCP,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=7713409062&sign=b3d9aa3d5d0db7c214f1ddf03dca0e84490a2e98dbf547af59dab88191770525720b15ea8a4e893866ee097325ce8102e4f45bf12040d2fc01b6b90f5c9e42ae2dea34649551835291298a6172&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV4 -MCP,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=7713409062&sign=cc82546c083c2bc0fce4e1613d46cac55a881a4e3073eeb4c984783ff33e5aac589030f0757cc3786935efa4ae7f9d297ff167627e0e5d37dc62fd54f8c2f08876dd3fc51c433b9223b549eef7&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV5 -MCP,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=7713409062&sign=4797c574eafc58c536a64ec46c38f845fca5ec8839d6d581cffaee58c013be5ef4858301466329793937f9ecc84b14d5a95fbcf3b4d42a95245497ae8bdcaa4c2d9b675cf4b12af8fe2ed9fca1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV5p -MCP,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=7713409062&sign=fc691114f40cc64d8fe762288674a409d439382e2ff7a002450df921a4f69d4a829b6ab9edfbb05db99d5b5f5d96495ee878f8dfa90ac1f85ea7a51a42ba6d8c67fdfe984be6395eac355793ed94&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV6 -MCP,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=7713409062&sign=bd203a5aeaed9b5389ca733c3595b3e4e6d610002d24734931628fdc603af5729c353d99fabb9f6bd9d11cef31feaa9ff3de8ce481d4940048a6935fb8e3fc59f78d9ab0c256c2553a84169d2e&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV7 -MCP,https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=7713409062&sign=f57d0f76febed91a4e660bef40603eb27ac3e96e7ff00de1c04596848f628abbfd9172d9a8c47c50bca9f91150c64f871d21b788aeba8f2ccc5e20cb5672efadf3ba0e7d5ec2976e76ec23727c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV8 -MCP,https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=7713409062&sign=3c860166a3688aaf86b183b8f6f7c7fe282e27ff8b33fab1afea379e75ababc97714787d6dd81a978df7419bf5d63dfe5aeb6622553576a2a6ce5f552724d270d5a0b7b3b320ad5ca68f5d117c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV9 -MCP,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=7713409062&sign=b0d158f1ab2c4181c5c7fd0401b067d3918c8567e647bb828996288edc5f29230e5181c4c0e90ad3f08e93ca3ada2ceff26a3422dda25c8a201387dcdcfa6b35489baae13cbfa4056b2382df22&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV10 -MCP,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=7713409062&sign=797cad4e1c28a9164cf021d04fa580f33fafc83408cdf62f25da7a1e8b202188dcd7abced3518a9d31320e0998e81d3ce3357ff892c7af0899f46a5ebbd44a8ef4f44e6820f006eff9fb9541c627&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV11 -MCP,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=7713409062&sign=7a67a28258f6efeb133ebdb243accae55206b1a38b40ab485781f05d7fbcf5a649112f403b65509f56914cbfe31db3bafd9bade95c41cf1b06e02bb25bbb5ad8198a5c5d88e1ed3371298ed91326&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV12 -MCP,https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=7713409062&sign=f58298782ef5b399737b6c3285274fe7700f986025e1526f5a4a98b26437bea5616ae2ae4206352eae6f34fc8e52b5e9e5e5b9a8cdc9cf679c72f4e1d763d53bbe991aa3d2873cc33e3d4cbc3217&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV13 -MCP,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=7713409062&sign=c39288d2a90bc58569823e73e53253c5de41b16bcb7b5e68ace707b08479e0af976a018b6da2a1d64168c0b619c7d9be57d522837cc659f3ba0dd04a856c465ec800f6dd3a9a59fc94438b303332&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV14 -MCP,https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=7713409062&sign=b886dea06d712894dec90ca45f3b95c39088898bf390f5fbad0c465ef4461838708a742b6e65f4ddd804b8ec4dd3f8e24a868b365bb308ccf74fdd53ed9c156dca6ba46de30ce2009a36822d08f9&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV15 -MCP,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=7713409062&sign=5041fc22b8614c54328d460c92a01e6dc49954a9ef0fbad74083bea033bc97fdd9b34cfb561ca84a1fa89dae4df0d06006ca29d4a58bcb89b7b75c2af7c640927347dcc99d4a03d535c8e40ff8e4&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV16 -MCP,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=7713409062&sign=209cc0c5068c27ec19ccfe3f3f8cfcba4660c5d673a31b28a456789e29c230645905b2194a9f72debdc7c7a52b01ffb37e3c6469f77a5b32161a63b8274e049900ed3350298dfed7af87df8d5458&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV17 -MCP,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=7713409062&sign=acb267b87bdfd2788e57e5250762de388ac35560992ce0cbfb405aa5b96dbf030e9f509035d57c7e10dbdbb0770cfef6bcec54e25c572650497842ffc0fcf6f3bd459eab0db43a4bd7a01c0ac0b0&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV4k -MCP,https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=7713409062&sign=ea441b3e272b26601127c17813dab2862c8c1dfce5ec8b48917b3468519bc05239fd46becf3573f8cb9563886f9fb33aa056bca0f284563bc370e3a62607020c15ae421078bcfe7d1a1f5c5e1e47&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV8k -MCP,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7713409062&sign=9c9ab7b0ba0105cc07d1f4418048c961d4a54a23bc6122b49f5fdc046b18219537530fcf654c078dad8d0bca765f412c19162735db1a737c0d5c3b10ddcbacd872f90d04a4e1c7f68d2dae623990&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV第一剧场-MCP,https://live.ottiptv.cc/mcp/dyjc.m3u8?userid=7713409062&sign=ad329ca214534ba3b2552a3f3f37efe413d102af8cc5722588a35e3b2a817aa638083d61356cb077ff709ff03396783fbd222fe4c13ec60fb9d82e92bc2266c006823e72758c78106203e8be&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV风云剧场-MCP,https://live.ottiptv.cc/mcp/fyjc.m3u8?userid=7713409062&sign=a9e8068087cab48098def11cf373c9c64dbc1a81ffe23de44f1089fa8f2d0787f67d1e2f488d55ac643a51671117b2e2352b97aff8522fd50e709d7acc196d7101a358f2010bbc8836cd3cb1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV怀旧剧场-MCP,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=7713409062&sign=1857afb4b6ff0058ab04caca4538b4bd95d6ff732a63fc4bfa101460ae6974f3831318ab3244c3957e5cf6cc0c01f096b3e372076165652ca9b1316750992ce2be5f7a1972f15d27d909073c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-中国教育1台,https://live.ottiptv.cc/mcp/cetv1.m3u8?userid=7713409062&sign=5c7e58fc36ef825096a0e2e42f2e999ed04f5d8453fe08159c783c0d920be8b9d3cd50fdb328c94dbf5dc7a7a9df07f58b62190cdd710087d6e781402bbdc23798df3adcfdd16af648b2ebd1c6&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-卫视频道,#genre#
-北京卫视-MCP,https://live.ottiptv.cc/mcp/beijing.m3u8?userid=7713409062&sign=bd974a6fa0b97872d9b5d5b405adc7c58e3618b3a4bf5593fc361275b9c716a45920fe7e4aefbab7c54a5553dd098e98efb99f328506aaed98acc6d35ccfe7746097a655d3c57013b191977890b227&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-湖南卫视-MCP,https://live.ottiptv.cc/mcp/hunan.m3u8?userid=7713409062&sign=43a5c79a8d231ec723ff8bdf6741f7dbf88feb55e078a7ad72b4a6da6ecbef85bcac95ec688a4029d66377796fb827e4d6075e2d30d48f2cfc5bbb62b812d1c8f3d2480bbbebbed62c11d2d614&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-江苏卫视-MCP,https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=7713409062&sign=84e72337d3c539bfd38f16549cc0087177f0b4adb4618492bce1ecba932048103663512122e84f69cd94e6df8a70453c288b3ccc34c667063b88383b86b43f954e3c56defc0a25190593ec67920d46&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-东方卫视-MCP,https://live.ottiptv.cc/mcp/dongfang.m3u8?userid=7713409062&sign=e83ba5d9a1d20f54c3aa469f58b9b9acba2329f6ab94098849fef236d229d188a47ae89dca657c735f6068b502f22b6f62d185cb3ac416c3903c1f6cf9b3d742a50cad83a9aef228730e5fae7a2e18a1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-浙江卫视-MCP,https://live.ottiptv.cc/mcp/zhejiang.m3u8?userid=7713409062&sign=1ab39f8b2db853077aa42af87c0cdad836f42366364b826d4b8aae391634718048ce21b07932bc8d1ef8937071da203bde2cd58650cc679b5cbbf176f1bb561f07614e1fc185c111aaa9bbc21ec303a3&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-湖北卫视-MCP,https://live.ottiptv.cc/mcp/hubei.m3u8?userid=7713409062&sign=aa440c5e80312451baea6ef7333369c27dc7aec990049321f9409bbc21d0a5ae3dd7dfab14ff43f675c5df900a847b3d781aafa08ea59b1460b790769ba164f1148dabdb7de860ffd9749f15da&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-天津卫视-MCP,https://live.ottiptv.cc/mcp/tianjing.m3u8?userid=7713409062&sign=c46a0c2db1577356879e65a3d0f9fcc0c35bbc3ce06551e2de19be4458c5a37e2f8f45e9bd53f13f72d9da821d16259b71d50445395ab40581076bae339fc67d62874c0757efdf89df666b2cb80d20a2&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-山东卫视-MCP,https://live.ottiptv.cc/mcp/shandong.m3u8?userid=7713409062&sign=f7beeb6ec9056cfa1c2873e79d6e35b4c59b7500e8de0249d750441f31cf23564444f50d8c17df8af914fb00b4153e3d7c38bfb51bafe75c9796aa5eddc36c377aa04e72d9d9d2a89623ebec79f93540&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-辽宁卫视-MCP,https://live.ottiptv.cc/mcp/liaoning.m3u8?userid=7713409062&sign=36c12a03f070a7172c7eef8f87b036f0f08be3d94b7d1f36d9e4b8a71a9e26204fe9ecba4679bc0b0936dd538cdce1b2311d8d1dd045251928d6507f33838641a15d2eb1ad0f885ebb2fc9932bed250c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-安徽卫视-MCP,https://live.ottiptv.cc/mcp/anhui.m3u8?userid=7713409062&sign=9f0273f113ff798e81aa1b6b45ca10ed5b5a7e87e0d5cda29dbcfb0dd15e9eadd081509c6b31189ac8c097b708821a4906c53d7b791dc077fd8ff036cc8341c120db4f59fb6442f49898daf747&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-黑龙江卫视-MCP,https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=7713409062&sign=4d5edf35b244210c221f57e8a85a36c85e590a670717b1121fa9b405063ee900e53dae62c01e80307184c6f41987c3d27984c7ed7e1ae3aedf5da05a4e2256d498541511251c200c9c40840b7968d3c4ed048bf2&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-贵州卫视-MCP,https://live.ottiptv.cc/mcp/guizhou.m3u8?userid=7713409062&sign=e28015d7907e9e7dcfe9c2d568951ef540142fa6bcff13a05a6486bad737a8f1c8a5a0c34066a98580f5f6718b0fa18dae20438cb42b879703492272b36810cc8a39e1f43323cf7fbbaaed19652bfa&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-东南卫视-MCP,https://live.ottiptv.cc/mcp/dongnan.m3u8?userid=7713409062&sign=a5da524315d54eb938b4494b09290eb1fb57cec2231f30a06b9db9a136f43790af7d2ce2cd7d88e2c3f5a782a842babfb8b8b8cd4e12a82a30be96f329795efc92907abdea6ac2ce2a853c4e336845&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-重庆卫视-MCP,https://live.ottiptv.cc/mcp/chongqing.m3u8?userid=7713409062&sign=17c1e57ccacec08f67a0d0923110caad05f0abf882ec9832977e40d5110e7844aa89391dbc587593ca99dca1565b729aa324bc4a76f68f1451ae89ec1e04ce6a9bcd205fe69cfd256329f592ecaf6c0445&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-江西卫视-MCP,https://live.ottiptv.cc/mcp/jiangxi.m3u8?userid=7713409062&sign=2a399d08d3129418d1d586d3b057bb986db7358da5b91fbc3e22be75110ef9f3de5daaf91ed3ae4e700e44851181375c41cbe24d6f69775265062f096019de8741d10ad9d3d076c2db11b8b0c5b9a7&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-广东卫视-MCP,https://live.ottiptv.cc/mcp/guangdong.m3u8?userid=7713409062&sign=426af8546e654017dcb8c8767bcf8d6ebd1bf3ca5c37ba1ae731a4f5cabeb7bcabac5cb644e0389bda01b3531e8d9537fc1051ca8a5be22156d332fcb5fad6330824879e1d33a00d231b86a1c129bebd72&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-河北卫视-MCP,https://live.ottiptv.cc/mcp/hebei.m3u8?userid=7713409062&sign=438d17011302617ca905c6e3b10699eaa1132c9f85b287d8c8d8f27754da64817456bf80b945fb9d65ffb91f479be0a6903a755f07434c6ff2de19bd48a43bbfc779337246b673fc2b6c78a27c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-深圳卫视-MCP,https://live.ottiptv.cc/mcp/shenzheng.m3u8?userid=7713409062&sign=8e31170e4314d914d6eec09f92e8ae4770eaa4aa55eeda876c32fd125d707347ffe82995906b927c6cae6b30f1c09289cf175dc3415f39ffcb33e8715345671dbf1721cff93ad1cd0a2a29f96f073c393b&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-吉林卫视-MCP,https://live.ottiptv.cc/mcp/jiling.m3u8?userid=7713409062&sign=19cac1ca3cb232d50aa40c1df1d6f5c2f5b3c050788f0e0a9ce6e2dffb1ad57d3f74cd0884f5bc79c697398d236ec2af2fc423ec10175bbd06ad9c1631c662355c32c41145a10bafbc821fd1a556&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-河南卫视-MCP,https://live.ottiptv.cc/mcp/henan.m3u8?userid=7713409062&sign=eb2933ee88119bce95ecde53024a04593ff67b32217b820607aa0a62806dbf508117c0ac0dba1dbeee1dc2e0f9a9c85177b3abfa33fa65b0aee68a794f10c36a39fb624e1be8d57d8ef1c0de5a&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-四川卫视-MCP,https://live.ottiptv.cc/mcp/sichuan.m3u8?userid=7713409062&sign=7af8bd862bce0549ef77857af8fb4b42f2d4bfa5a4fa4b7b0ab5e0345d57ef9d90b00de501ba114a210d7e94f7344f5f04fec1b9b77f9a549124282bb40c2691b9063e985da5a7014157f398301749&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-广西卫视-MCP,https://live.ottiptv.cc/mcp/guangxi.m3u8?userid=7713409062&sign=1c9e196150a08b0cc87ac07270603c2ab12be34f22c263b172c1e7a56cf47c6306dbabe0c234abc6e80da734179a2d1526bd7c8e366cb70abe3bc50f5ec26cf300cf97a557ce295978d3e3a3daa034&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-陕西卫视-MCP,https://live.ottiptv.cc/mcp/shanxiws.m3u8?userid=7713409062&sign=ab60ad651c88023d811215997db23a7967dbf78fc86554613cc5273dfbf8509c712db516771769afccb010c532dfa271c37fefb920ace1d4b22a241d36a731695b24481d6388d6cc828da714801b615a&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-山西卫视-MCP,https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=7713409062&sign=99739f3b0bebd822ba04f92c3a3638be196f6422093a81a8134cff8722313458462bdd3704158c446df98b4ba407f847fcca2b20fb33b92acf7325a00a1a3440d615b373c00f4ec94b441a3c1132&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-内蒙古卫视-MCP,https://live.ottiptv.cc/mcp/neimenggu.m3u8?userid=7713409062&sign=120ae8a925d50ab79f6a1ae3a0166273dc1487a210e0baff984c7971959854624c744f0ce08a7dda6dafcfac12c786dd41003e8b932b42989ba5aef243b08f2ef0d737aad09bcf3776498f0f13bdf44d3f&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-青海卫视-MCP,https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=7713409062&sign=96bc95b50bd466b7f4ffea5a31853880d09084af8c4db5a50ec9706573170e86f998d4f28b76f207b38a9e011e28890056383021f7d8adfb781478c33ffcbd26944433e787e45b15f388cebd91e5ee&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-海南卫视-MCP,https://live.ottiptv.cc/mcp/hainan.m3u8?userid=7713409062&sign=3d5c0d57ebcbb6bb241a49936d219a9419fc1c7ae977a5b4d7cacfc43527a2cb8e8eaa83039f7a0c947ba6b0d3f0142c3184c3bae53799792f9a12c0931e3879708f5b48354632200858f8b49236&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-宁夏卫视-MCP,https://live.ottiptv.cc/mcp/ningxia.m3u8?userid=7713409062&sign=c40624f4a5722ee0bbcdb27d219cebfcd2553c54434ee7eabde2ff0230348d2d82a39ed70c240e740c4572b584142bae799cae82c7fa81c4307c64a9a168857d1551839649312f330d5a13068bd8e9&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-西藏卫视-MCP,https://live.ottiptv.cc/mcp/xizang.m3u8?userid=7713409062&sign=e6161cd69732c0b6b07b54679e1d1fdb8acc23a1a5edb412633c1d88f71aea36f0eaed9ff04382a33ff4feed4e9072de3fb53f451590b1c478cc8a2aa30b6e3636ab8b409aa0e728cc1cc2b3a0da&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-新疆卫视-MCP,https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=7713409062&sign=069c6a561a3795aac7bd1d154024bd27e6aac9df4978924b50aefb826c71f0d286acd0ec92a81f34a550a0da5b1f8f9c91d731ebc759b8c7abf2e40696a34d8f50458675b6f707c919eb5b1a6821a8f1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-甘肃卫视-MCP,https://live.ottiptv.cc/mcp/gansu.m3u8?userid=7713409062&sign=059372cb6e8456fb315a583023c2c58465a0befba281ab1f9a72a51c14e9e2c0b692ff198f70c0745aa684c6c1949407b1888d75cf55fd51c3a967f77638121e12d72b3466fe9c156aee76c2c3&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-云南卫视-MCP,https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=7713409062&sign=d4bc8741150bbc11653c8aa22f98ff72f832a7bdfc7fcb6829475744261ee05f1c7a230e58712c18cc94700a4fa67f00f90b96d756e9413d23ce14757770bfc8002fdee048e6dedc37071dfa1ae9&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-兵团卫视-MCP,https://live.ottiptv.cc/mcp/bintuan.m3u8?userid=7713409062&sign=46f6a4ded58cb673059bf901004f18aebe49ac53b7912e17523a0c7d6dcde0b4167264ad4922e90920b6884a02ef299e6595caed66d46afca24b8a9cf8a868a736e449db12ffaba49be59ad3a6b492&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-电影频道,#genre#
-周星驰,https://live.ottiptv.cc/huya/11342412
-林正英,https://live.ottiptv.cc/huya/11342421
-成    龙,https://live.ottiptv.cc/huya/11342386
-沈    腾,https://live.ottiptv.cc/huya/880261
-王宝强,https://live.ottiptv.cc/huya/11601986
-李连杰,https://live.ottiptv.cc/huya/11342390
-五福星,https://live.ottiptv.cc/huya/11282233
-喜    剧,https://live.ottiptv.cc/huya/20969142
-动    作,https://live.ottiptv.cc/huya/10871113
-香    港,https://live.ottiptv.cc/huya/11602055
-喜剧电影放映厅,https://live.ottiptv.cc/huya/11602031
-悬疑放映厅,https://live.ottiptv.cc/huya/26355797
-武侠电影放映厅,https://live.ottiptv.cc/huya/29982611
-战争电影放映厅,https://live.ottiptv.cc/huya/21059618
-冒险电影放映厅,https://live.ottiptv.cc/huya/21059566
-阿斗归来了3,https://live.ottiptv.cc/huya/29982685
-爆裂电影2,https://live.ottiptv.cc/huya/29982678
-惊悚电影放映厅,https://live.ottiptv.cc/huya/26355795
-悬疑电影放映厅,https://live.ottiptv.cc/huya/29982641
-扁豆看电影2,https://live.ottiptv.cc/huya/21059623
-阿斗归来了,https://live.ottiptv.cc/huya/13303478
-扁豆看电影,https://live.ottiptv.cc/huya/16028551
-央视频道,#genre#
-CCTV1,http://125.43.252.114:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV1,http://218.28.31.182:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://125.43.252.114:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV2,http://218.28.31.182:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://125.43.252.114:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV3,http://218.28.31.182:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://125.43.252.114:9901/tsfile/live/1004_1.m3u8?key=txiptv
-CCTV4,http://218.28.31.182:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://125.43.252.114:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV5,http://218.28.31.182:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV5+,http://218.28.31.182:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV6,http://125.43.252.114:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV6,http://218.28.31.182:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV7,http://125.43.252.114:9901/tsfile/live/1006_1.m3u8?key=txiptv
-CCTV7,http://218.28.31.182:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV8,http://125.43.252.114:9901/tsfile/live/1007_1.m3u8?key=txiptv
-CCTV8,http://218.28.31.182:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV9,http://125.43.252.114:9901/tsfile/live/0009_2.m3u8?key=txiptv
-CCTV9,http://218.28.31.182:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV10,http://125.43.252.114:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV10,http://218.28.31.182:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV11,http://125.43.252.114:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV11,http://218.28.31.182:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV12,http://125.43.252.114:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV12,http://218.28.31.182:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV13,http://125.43.252.114:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV13,http://218.28.31.182:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV14,http://125.43.252.114:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV14,http://218.28.31.182:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV15,http://125.43.252.114:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV15,http://218.28.31.182:9901/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV17,http://218.28.31.182:9901/tsfile/live/0018_1.m3u8?key=txiptv
-卫视频道,#genre#
-湖南卫视,http://125.43.252.114:9901/tsfile/live/0128_1.m3u8?key=txiptv
-湖南卫视,http://218.28.31.182:9901/tsfile/live/0128_1.m3u8?key=txiptv
-浙江卫视,http://125.43.252.114:9901/tsfile/live/0124_1.m3u8?key=txiptv
-浙江卫视,http://218.28.31.182:9901/tsfile/live/0124_1.m3u8?key=txiptv
-江苏卫视,http://125.43.252.114:9901/tsfile/live/0127_1.m3u8?key=txiptv
-江苏卫视,http://218.28.31.182:9901/tsfile/live/0127_1.m3u8?key=txiptv
-北京卫视,http://125.43.252.114:9901/tsfile/live/0107_1.m3u8?key=txiptv
-北京卫视,http://218.28.31.182:9901/tsfile/live/0122_1.m3u8?key=txiptv
-东方卫视,http://125.43.252.114:9901/tsfile/live/0107_2.m3u8?key=txiptv
-东方卫视,http://218.28.31.182:9901/tsfile/live/0107_1.m3u8?key=txiptv
-安徽卫视,http://125.43.252.114:9901/tsfile/live/0130_1.m3u8?key=txiptv
-安徽卫视,http://218.28.31.182:9901/tsfile/live/0130_1.m3u8?key=txiptv
-广东卫视,http://125.43.252.114:9901/tsfile/live/0125_1.m3u8?key=txiptv
-广东卫视,http://218.28.31.182:9901/tsfile/live/0125_1.m3u8?key=txiptv
-深圳卫视,http://218.28.31.182:9901/tsfile/live/0126_1.m3u8?key=txiptv
-辽宁卫视,http://125.43.252.114:9901/tsfile/live/0121_1.m3u8?key=txiptv
-辽宁卫视,http://218.28.31.182:9901/tsfile/live/0121_1.m3u8?key=txiptv
-海南卫视,http://218.28.31.182:9901/tsfile/live/1009_1.m3u8?key=txiptv
-山东卫视,http://125.43.252.114:9901/tsfile/live/0131_1.m3u8?key=txiptv
-天津卫视,http://218.28.31.182:9901/tsfile/live/0135_1.m3u8?key=txiptv
-重庆卫视,http://125.43.252.114:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://218.28.31.182:9901/tsfile/live/0142_1.m3u8?key=txiptv
-东南卫视,http://125.43.252.114:9901/tsfile/live/0137_1.m3u8?key=txiptv
-东南卫视,http://218.28.31.182:9901/tsfile/live/0137_1.m3u8?key=txiptv
-广西卫视,http://125.43.252.114:9901/tsfile/live/0113_1.m3u8?key=txiptv
-广西卫视,http://218.28.31.182:9901/tsfile/live/0113_1.m3u8?key=txiptv
-贵州卫视,http://125.43.252.114:9901/tsfile/live/0120_1.m3u8?key=txiptv
-贵州卫视,http://218.28.31.182:9901/tsfile/live/0120_1.m3u8?key=txiptv
-河北卫视,http://125.43.252.114:9901/tsfile/live/0117_1.m3u8?key=txiptv
-河北卫视,http://218.28.31.182:9901/tsfile/live/0117_1.m3u8?key=txiptv
-黑龙江卫视,http://125.43.252.114:9901/tsfile/live/0143_1.m3u8?key=txiptv
-黑龙江卫视,http://218.28.31.182:9901/tsfile/live/0143_1.m3u8?key=txiptv
-河南卫视,http://125.43.252.114:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视,http://218.28.31.182:9901/tsfile/live/0019_1.m3u8?key=txiptv
-湖北卫视,http://125.43.252.114:9901/tsfile/live/0132_1.m3u8?key=txiptv
-湖北卫视,http://218.28.31.182:9901/tsfile/live/0132_1.m3u8?key=txiptv
-江西卫视,http://125.43.252.114:9901/tsfile/live/0138_1.m3u8?key=txiptv
-江西卫视,http://218.28.31.182:9901/tsfile/live/0138_1.m3u8?key=txiptv
-吉林卫视,http://218.28.31.182:9901/tsfile/live/0116_1.m3u8?key=txiptv
-山西卫视,http://125.43.252.114:9901/tsfile/live/0118_1.m3u8?key=txiptv
-四川卫视,http://125.43.252.114:9901/tsfile/live/0123_1.m3u8?key=txiptv
-四川卫视,http://218.28.31.182:9901/tsfile/live/0123_1.m3u8?key=txiptv
-云南卫视,http://125.43.252.114:9901/tsfile/live/0119_1.m3u8?key=txiptv
-云南卫视,http://218.28.31.182:9901/tsfile/live/0119_1.m3u8?key=txiptv
-金鹰卡通,http://125.43.252.114:9901/tsfile/live/0136_1.m3u8?key=txiptv
-电影频道,#genre#
-影迷电影,http://218.28.31.182:9901/tsfile/live/1007_1.m3u8?key=txiptv
-教育频道,#genre#
-CGTN,http://218.28.31.182:9901/tsfile/live/0017_1.m3u8?key=txiptv
-华中地区,#genre#
-河南都市,http://125.43.252.114:9901/tsfile/live/1001_1.m3u8?key=txiptv
-河南民生,http://125.43.252.114:9901/tsfile/live/1002_1.m3u8?key=txiptv
-其他频道,#genre#
-乡村频道,http://218.28.31.182:9901/tsfile/live/1006_1.m3u8?key=txiptv
-公共频道,http://218.28.31.182:9901/tsfile/live/1005_1.m3u8?key=txiptv
-山东卫生,http://218.28.31.182:9901/tsfile/live/1008_1.m3u8?key=txiptv
-新闻频道,http://218.28.31.182:9901/tsfile/live/1004_1.m3u8?key=txiptv
-民生频道,http://218.28.31.182:9901/tsfile/live/1001_1.m3u8?key=txiptv
-法治频道,http://218.28.31.182:9901/tsfile/live/1002_1.m3u8?key=txiptv
-电视剧频道,http://218.28.31.182:9901/tsfile/live/1003_1.m3u8?key=txiptv
-都市频道,http://218.28.31.182:9901/tsfile/live/1000_1.m3u8?key=txiptv
-魅力音乐,http://125.43.252.114:9901/tsfile/live/1000_1.m3u8?key=txiptv
-4k超清,#genre#
-湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
-浙江卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
-江苏卫视4K,http://iptv.cqshushu.com/migu.php?pid=js4k&token=bcbd06cf0ae3d4c449769c86f17292f2
-东方卫视4K,http://iptv.cqshushu.com/migu.php?pid=dfws&token=bcbd06cf0ae3d4c449769c86f17292f2
-北京卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
-广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146?token=bcbd06cf0ae3d4c449769c86f17292f2
-深圳卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
-CCTV4k,https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=7713409062&sign=ea441b3e272b26601127c17813dab2862c8c1dfce5ec8b48917b3468519bc05239fd46becf3573f8cb9563886f9fb33aa056bca0f284563bc370e3a62607020c15ae421078bcfe7d1a1f5c5e1e47&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV8k,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7713409062&sign=9c9ab7b0ba0105cc07d1f4418048c961d4a54a23bc6122b49f5fdc046b18219537530fcf654c078dad8d0bca765f412c19162735db1a737c0d5c3b10ddcbacd872f90d04a4e1c7f68d2dae623990&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTM3U url-tvg="https://epg.aptv.app/,http://epg.51zmt.top:8000/e.xml,https://epg.aptv.app/pp.xml.gz"
+
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1 -MCP",CCTV1 -MCP
+https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=7713409062&sign=7364a6f9da61701d28f0891fc4c30b01c4c4898573091cbf73992a08f108a79c4173518ff4236f6f6258cbd36f6be6bf6af1061a6983c4e13901241fb835dc0899ec693766b22e9bc747a0d241&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2 -MCP",CCTV2 -MCP
+https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=7713409062&sign=c4456fab72ff4a91e58b6f36577bbaf3b861add90c887643b5c22905fd26da177384bef370b1157af7d9b8d45028535665e4b2b0491d47d46fe5ed3036fc8ef082e0b8a6c91a40fe223482c685&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3 -MCP",CCTV3 -MCP
+https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=7713409062&sign=b3d9aa3d5d0db7c214f1ddf03dca0e84490a2e98dbf547af59dab88191770525720b15ea8a4e893866ee097325ce8102e4f45bf12040d2fc01b6b90f5c9e42ae2dea34649551835291298a6172&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4 -MCP",CCTV4 -MCP
+https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=7713409062&sign=cc82546c083c2bc0fce4e1613d46cac55a881a4e3073eeb4c984783ff33e5aac589030f0757cc3786935efa4ae7f9d297ff167627e0e5d37dc62fd54f8c2f08876dd3fc51c433b9223b549eef7&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5 -MCP",CCTV5 -MCP
+https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=7713409062&sign=4797c574eafc58c536a64ec46c38f845fca5ec8839d6d581cffaee58c013be5ef4858301466329793937f9ecc84b14d5a95fbcf3b4d42a95245497ae8bdcaa4c2d9b675cf4b12af8fe2ed9fca1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5p -MCP",CCTV5p -MCP
+https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=7713409062&sign=fc691114f40cc64d8fe762288674a409d439382e2ff7a002450df921a4f69d4a829b6ab9edfbb05db99d5b5f5d96495ee878f8dfa90ac1f85ea7a51a42ba6d8c67fdfe984be6395eac355793ed94&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6 -MCP",CCTV6 -MCP
+https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=7713409062&sign=bd203a5aeaed9b5389ca733c3595b3e4e6d610002d24734931628fdc603af5729c353d99fabb9f6bd9d11cef31feaa9ff3de8ce481d4940048a6935fb8e3fc59f78d9ab0c256c2553a84169d2e&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7 -MCP",CCTV7 -MCP
+https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=7713409062&sign=f57d0f76febed91a4e660bef40603eb27ac3e96e7ff00de1c04596848f628abbfd9172d9a8c47c50bca9f91150c64f871d21b788aeba8f2ccc5e20cb5672efadf3ba0e7d5ec2976e76ec23727c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8 -MCP",CCTV8 -MCP
+https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=7713409062&sign=3c860166a3688aaf86b183b8f6f7c7fe282e27ff8b33fab1afea379e75ababc97714787d6dd81a978df7419bf5d63dfe5aeb6622553576a2a6ce5f552724d270d5a0b7b3b320ad5ca68f5d117c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9 -MCP",CCTV9 -MCP
+https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=7713409062&sign=b0d158f1ab2c4181c5c7fd0401b067d3918c8567e647bb828996288edc5f29230e5181c4c0e90ad3f08e93ca3ada2ceff26a3422dda25c8a201387dcdcfa6b35489baae13cbfa4056b2382df22&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10 -MCP",CCTV10 -MCP
+https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=7713409062&sign=797cad4e1c28a9164cf021d04fa580f33fafc83408cdf62f25da7a1e8b202188dcd7abced3518a9d31320e0998e81d3ce3357ff892c7af0899f46a5ebbd44a8ef4f44e6820f006eff9fb9541c627&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11 -MCP",CCTV11 -MCP
+https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=7713409062&sign=7a67a28258f6efeb133ebdb243accae55206b1a38b40ab485781f05d7fbcf5a649112f403b65509f56914cbfe31db3bafd9bade95c41cf1b06e02bb25bbb5ad8198a5c5d88e1ed3371298ed91326&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12 -MCP",CCTV12 -MCP
+https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=7713409062&sign=f58298782ef5b399737b6c3285274fe7700f986025e1526f5a4a98b26437bea5616ae2ae4206352eae6f34fc8e52b5e9e5e5b9a8cdc9cf679c72f4e1d763d53bbe991aa3d2873cc33e3d4cbc3217&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13 -MCP",CCTV13 -MCP
+https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=7713409062&sign=c39288d2a90bc58569823e73e53253c5de41b16bcb7b5e68ace707b08479e0af976a018b6da2a1d64168c0b619c7d9be57d522837cc659f3ba0dd04a856c465ec800f6dd3a9a59fc94438b303332&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14 -MCP",CCTV14 -MCP
+https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=7713409062&sign=b886dea06d712894dec90ca45f3b95c39088898bf390f5fbad0c465ef4461838708a742b6e65f4ddd804b8ec4dd3f8e24a868b365bb308ccf74fdd53ed9c156dca6ba46de30ce2009a36822d08f9&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15 -MCP",CCTV15 -MCP
+https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=7713409062&sign=5041fc22b8614c54328d460c92a01e6dc49954a9ef0fbad74083bea033bc97fdd9b34cfb561ca84a1fa89dae4df0d06006ca29d4a58bcb89b7b75c2af7c640927347dcc99d4a03d535c8e40ff8e4&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16 -MCP",CCTV16 -MCP
+https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=7713409062&sign=209cc0c5068c27ec19ccfe3f3f8cfcba4660c5d673a31b28a456789e29c230645905b2194a9f72debdc7c7a52b01ffb37e3c6469f77a5b32161a63b8274e049900ed3350298dfed7af87df8d5458&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17 -MCP",CCTV17 -MCP
+https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=7713409062&sign=acb267b87bdfd2788e57e5250762de388ac35560992ce0cbfb405aa5b96dbf030e9f509035d57c7e10dbdbb0770cfef6bcec54e25c572650497842ffc0fcf6f3bd459eab0db43a4bd7a01c0ac0b0&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4k -MCP",CCTV4k -MCP
+https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=7713409062&sign=ea441b3e272b26601127c17813dab2862c8c1dfce5ec8b48917b3468519bc05239fd46becf3573f8cb9563886f9fb33aa056bca0f284563bc370e3a62607020c15ae421078bcfe7d1a1f5c5e1e47&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8k -MCP",CCTV8k -MCP
+https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7713409062&sign=9c9ab7b0ba0105cc07d1f4418048c961d4a54a23bc6122b49f5fdc046b18219537530fcf654c078dad8d0bca765f412c19162735db1a737c0d5c3b10ddcbacd872f90d04a4e1c7f68d2dae623990&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV第一剧场-MCP",CCTV第一剧场-MCP
+https://live.ottiptv.cc/mcp/dyjc.m3u8?userid=7713409062&sign=ad329ca214534ba3b2552a3f3f37efe413d102af8cc5722588a35e3b2a817aa638083d61356cb077ff709ff03396783fbd222fe4c13ec60fb9d82e92bc2266c006823e72758c78106203e8be&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV风云剧场-MCP",CCTV风云剧场-MCP
+https://live.ottiptv.cc/mcp/fyjc.m3u8?userid=7713409062&sign=a9e8068087cab48098def11cf373c9c64dbc1a81ffe23de44f1089fa8f2d0787f67d1e2f488d55ac643a51671117b2e2352b97aff8522fd50e709d7acc196d7101a358f2010bbc8836cd3cb1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV怀旧剧场-MCP",CCTV怀旧剧场-MCP
+https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=7713409062&sign=1857afb4b6ff0058ab04caca4538b4bd95d6ff732a63fc4bfa101460ae6974f3831318ab3244c3957e5cf6cc0c01f096b3e372076165652ca9b1316750992ce2be5f7a1972f15d27d909073c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="央视频道" tvg-name="中国教育1台",中国教育1台
+https://live.ottiptv.cc/mcp/cetv1.m3u8?userid=7713409062&sign=5c7e58fc36ef825096a0e2e42f2e999ed04f5d8453fe08159c783c0d920be8b9d3cd50fdb328c94dbf5dc7a7a9df07f58b62190cdd710087d6e781402bbdc23798df3adcfdd16af648b2ebd1c6&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视-MCP",北京卫视-MCP
+https://live.ottiptv.cc/mcp/beijing.m3u8?userid=7713409062&sign=bd974a6fa0b97872d9b5d5b405adc7c58e3618b3a4bf5593fc361275b9c716a45920fe7e4aefbab7c54a5553dd098e98efb99f328506aaed98acc6d35ccfe7746097a655d3c57013b191977890b227&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视-MCP",湖南卫视-MCP
+https://live.ottiptv.cc/mcp/hunan.m3u8?userid=7713409062&sign=43a5c79a8d231ec723ff8bdf6741f7dbf88feb55e078a7ad72b4a6da6ecbef85bcac95ec688a4029d66377796fb827e4d6075e2d30d48f2cfc5bbb62b812d1c8f3d2480bbbebbed62c11d2d614&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视-MCP",江苏卫视-MCP
+https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=7713409062&sign=84e72337d3c539bfd38f16549cc0087177f0b4adb4618492bce1ecba932048103663512122e84f69cd94e6df8a70453c288b3ccc34c667063b88383b86b43f954e3c56defc0a25190593ec67920d46&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视-MCP",东方卫视-MCP
+https://live.ottiptv.cc/mcp/dongfang.m3u8?userid=7713409062&sign=e83ba5d9a1d20f54c3aa469f58b9b9acba2329f6ab94098849fef236d229d188a47ae89dca657c735f6068b502f22b6f62d185cb3ac416c3903c1f6cf9b3d742a50cad83a9aef228730e5fae7a2e18a1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视-MCP",浙江卫视-MCP
+https://live.ottiptv.cc/mcp/zhejiang.m3u8?userid=7713409062&sign=1ab39f8b2db853077aa42af87c0cdad836f42366364b826d4b8aae391634718048ce21b07932bc8d1ef8937071da203bde2cd58650cc679b5cbbf176f1bb561f07614e1fc185c111aaa9bbc21ec303a3&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视-MCP",湖北卫视-MCP
+https://live.ottiptv.cc/mcp/hubei.m3u8?userid=7713409062&sign=aa440c5e80312451baea6ef7333369c27dc7aec990049321f9409bbc21d0a5ae3dd7dfab14ff43f675c5df900a847b3d781aafa08ea59b1460b790769ba164f1148dabdb7de860ffd9749f15da&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视-MCP",天津卫视-MCP
+https://live.ottiptv.cc/mcp/tianjing.m3u8?userid=7713409062&sign=c46a0c2db1577356879e65a3d0f9fcc0c35bbc3ce06551e2de19be4458c5a37e2f8f45e9bd53f13f72d9da821d16259b71d50445395ab40581076bae339fc67d62874c0757efdf89df666b2cb80d20a2&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视-MCP",山东卫视-MCP
+https://live.ottiptv.cc/mcp/shandong.m3u8?userid=7713409062&sign=f7beeb6ec9056cfa1c2873e79d6e35b4c59b7500e8de0249d750441f31cf23564444f50d8c17df8af914fb00b4153e3d7c38bfb51bafe75c9796aa5eddc36c377aa04e72d9d9d2a89623ebec79f93540&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视-MCP",辽宁卫视-MCP
+https://live.ottiptv.cc/mcp/liaoning.m3u8?userid=7713409062&sign=36c12a03f070a7172c7eef8f87b036f0f08be3d94b7d1f36d9e4b8a71a9e26204fe9ecba4679bc0b0936dd538cdce1b2311d8d1dd045251928d6507f33838641a15d2eb1ad0f885ebb2fc9932bed250c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视-MCP",安徽卫视-MCP
+https://live.ottiptv.cc/mcp/anhui.m3u8?userid=7713409062&sign=9f0273f113ff798e81aa1b6b45ca10ed5b5a7e87e0d5cda29dbcfb0dd15e9eadd081509c6b31189ac8c097b708821a4906c53d7b791dc077fd8ff036cc8341c120db4f59fb6442f49898daf747&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视-MCP",黑龙江卫视-MCP
+https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=7713409062&sign=4d5edf35b244210c221f57e8a85a36c85e590a670717b1121fa9b405063ee900e53dae62c01e80307184c6f41987c3d27984c7ed7e1ae3aedf5da05a4e2256d498541511251c200c9c40840b7968d3c4ed048bf2&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视-MCP",贵州卫视-MCP
+https://live.ottiptv.cc/mcp/guizhou.m3u8?userid=7713409062&sign=e28015d7907e9e7dcfe9c2d568951ef540142fa6bcff13a05a6486bad737a8f1c8a5a0c34066a98580f5f6718b0fa18dae20438cb42b879703492272b36810cc8a39e1f43323cf7fbbaaed19652bfa&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="东南卫视-MCP",东南卫视-MCP
+https://live.ottiptv.cc/mcp/dongnan.m3u8?userid=7713409062&sign=a5da524315d54eb938b4494b09290eb1fb57cec2231f30a06b9db9a136f43790af7d2ce2cd7d88e2c3f5a782a842babfb8b8b8cd4e12a82a30be96f329795efc92907abdea6ac2ce2a853c4e336845&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视-MCP",重庆卫视-MCP
+https://live.ottiptv.cc/mcp/chongqing.m3u8?userid=7713409062&sign=17c1e57ccacec08f67a0d0923110caad05f0abf882ec9832977e40d5110e7844aa89391dbc587593ca99dca1565b729aa324bc4a76f68f1451ae89ec1e04ce6a9bcd205fe69cfd256329f592ecaf6c0445&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视-MCP",江西卫视-MCP
+https://live.ottiptv.cc/mcp/jiangxi.m3u8?userid=7713409062&sign=2a399d08d3129418d1d586d3b057bb986db7358da5b91fbc3e22be75110ef9f3de5daaf91ed3ae4e700e44851181375c41cbe24d6f69775265062f096019de8741d10ad9d3d076c2db11b8b0c5b9a7&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视-MCP",广东卫视-MCP
+https://live.ottiptv.cc/mcp/guangdong.m3u8?userid=7713409062&sign=426af8546e654017dcb8c8767bcf8d6ebd1bf3ca5c37ba1ae731a4f5cabeb7bcabac5cb644e0389bda01b3531e8d9537fc1051ca8a5be22156d332fcb5fad6330824879e1d33a00d231b86a1c129bebd72&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视-MCP",河北卫视-MCP
+https://live.ottiptv.cc/mcp/hebei.m3u8?userid=7713409062&sign=438d17011302617ca905c6e3b10699eaa1132c9f85b287d8c8d8f27754da64817456bf80b945fb9d65ffb91f479be0a6903a755f07434c6ff2de19bd48a43bbfc779337246b673fc2b6c78a27c&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视-MCP",深圳卫视-MCP
+https://live.ottiptv.cc/mcp/shenzheng.m3u8?userid=7713409062&sign=8e31170e4314d914d6eec09f92e8ae4770eaa4aa55eeda876c32fd125d707347ffe82995906b927c6cae6b30f1c09289cf175dc3415f39ffcb33e8715345671dbf1721cff93ad1cd0a2a29f96f073c393b&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="吉林卫视-MCP",吉林卫视-MCP
+https://live.ottiptv.cc/mcp/jiling.m3u8?userid=7713409062&sign=19cac1ca3cb232d50aa40c1df1d6f5c2f5b3c050788f0e0a9ce6e2dffb1ad57d3f74cd0884f5bc79c697398d236ec2af2fc423ec10175bbd06ad9c1631c662355c32c41145a10bafbc821fd1a556&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视-MCP",河南卫视-MCP
+https://live.ottiptv.cc/mcp/henan.m3u8?userid=7713409062&sign=eb2933ee88119bce95ecde53024a04593ff67b32217b820607aa0a62806dbf508117c0ac0dba1dbeee1dc2e0f9a9c85177b3abfa33fa65b0aee68a794f10c36a39fb624e1be8d57d8ef1c0de5a&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视-MCP",四川卫视-MCP
+https://live.ottiptv.cc/mcp/sichuan.m3u8?userid=7713409062&sign=7af8bd862bce0549ef77857af8fb4b42f2d4bfa5a4fa4b7b0ab5e0345d57ef9d90b00de501ba114a210d7e94f7344f5f04fec1b9b77f9a549124282bb40c2691b9063e985da5a7014157f398301749&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视-MCP",广西卫视-MCP
+https://live.ottiptv.cc/mcp/guangxi.m3u8?userid=7713409062&sign=1c9e196150a08b0cc87ac07270603c2ab12be34f22c263b172c1e7a56cf47c6306dbabe0c234abc6e80da734179a2d1526bd7c8e366cb70abe3bc50f5ec26cf300cf97a557ce295978d3e3a3daa034&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="陕西卫视-MCP",陕西卫视-MCP
+https://live.ottiptv.cc/mcp/shanxiws.m3u8?userid=7713409062&sign=ab60ad651c88023d811215997db23a7967dbf78fc86554613cc5273dfbf8509c712db516771769afccb010c532dfa271c37fefb920ace1d4b22a241d36a731695b24481d6388d6cc828da714801b615a&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="山西卫视-MCP",山西卫视-MCP
+https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=7713409062&sign=99739f3b0bebd822ba04f92c3a3638be196f6422093a81a8134cff8722313458462bdd3704158c446df98b4ba407f847fcca2b20fb33b92acf7325a00a1a3440d615b373c00f4ec94b441a3c1132&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="内蒙古卫视-MCP",内蒙古卫视-MCP
+https://live.ottiptv.cc/mcp/neimenggu.m3u8?userid=7713409062&sign=120ae8a925d50ab79f6a1ae3a0166273dc1487a210e0baff984c7971959854624c744f0ce08a7dda6dafcfac12c786dd41003e8b932b42989ba5aef243b08f2ef0d737aad09bcf3776498f0f13bdf44d3f&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="青海卫视-MCP",青海卫视-MCP
+https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=7713409062&sign=96bc95b50bd466b7f4ffea5a31853880d09084af8c4db5a50ec9706573170e86f998d4f28b76f207b38a9e011e28890056383021f7d8adfb781478c33ffcbd26944433e787e45b15f388cebd91e5ee&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="海南卫视-MCP",海南卫视-MCP
+https://live.ottiptv.cc/mcp/hainan.m3u8?userid=7713409062&sign=3d5c0d57ebcbb6bb241a49936d219a9419fc1c7ae977a5b4d7cacfc43527a2cb8e8eaa83039f7a0c947ba6b0d3f0142c3184c3bae53799792f9a12c0931e3879708f5b48354632200858f8b49236&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="宁夏卫视-MCP",宁夏卫视-MCP
+https://live.ottiptv.cc/mcp/ningxia.m3u8?userid=7713409062&sign=c40624f4a5722ee0bbcdb27d219cebfcd2553c54434ee7eabde2ff0230348d2d82a39ed70c240e740c4572b584142bae799cae82c7fa81c4307c64a9a168857d1551839649312f330d5a13068bd8e9&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="西藏卫视-MCP",西藏卫视-MCP
+https://live.ottiptv.cc/mcp/xizang.m3u8?userid=7713409062&sign=e6161cd69732c0b6b07b54679e1d1fdb8acc23a1a5edb412633c1d88f71aea36f0eaed9ff04382a33ff4feed4e9072de3fb53f451590b1c478cc8a2aa30b6e3636ab8b409aa0e728cc1cc2b3a0da&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="新疆卫视-MCP",新疆卫视-MCP
+https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=7713409062&sign=069c6a561a3795aac7bd1d154024bd27e6aac9df4978924b50aefb826c71f0d286acd0ec92a81f34a550a0da5b1f8f9c91d731ebc759b8c7abf2e40696a34d8f50458675b6f707c919eb5b1a6821a8f1&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="甘肃卫视-MCP",甘肃卫视-MCP
+https://live.ottiptv.cc/mcp/gansu.m3u8?userid=7713409062&sign=059372cb6e8456fb315a583023c2c58465a0befba281ab1f9a72a51c14e9e2c0b692ff198f70c0745aa684c6c1949407b1888d75cf55fd51c3a967f77638121e12d72b3466fe9c156aee76c2c3&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="云南卫视-MCP",云南卫视-MCP
+https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=7713409062&sign=d4bc8741150bbc11653c8aa22f98ff72f832a7bdfc7fcb6829475744261ee05f1c7a230e58712c18cc94700a4fa67f00f90b96d756e9413d23ce14757770bfc8002fdee048e6dedc37071dfa1ae9&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="卫视频道" tvg-name="兵团卫视-MCP",兵团卫视-MCP
+https://live.ottiptv.cc/mcp/bintuan.m3u8?userid=7713409062&sign=46f6a4ded58cb673059bf901004f18aebe49ac53b7912e17523a0c7d6dcde0b4167264ad4922e90920b6884a02ef299e6595caed66d46afca24b8a9cf8a868a736e449db12ffaba49be59ad3a6b492&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="电影频道" tvg-name="周星驰",周星驰
+https://live.ottiptv.cc/huya/11342412
+#EXTINF:-1 group-title="电影频道" tvg-name="林正英",林正英
+https://live.ottiptv.cc/huya/11342421
+#EXTINF:-1 group-title="电影频道" tvg-name="成    龙",成    龙
+https://live.ottiptv.cc/huya/11342386
+#EXTINF:-1 group-title="电影频道" tvg-name="沈    腾",沈    腾
+https://live.ottiptv.cc/huya/880261
+#EXTINF:-1 group-title="电影频道" tvg-name="王宝强",王宝强
+https://live.ottiptv.cc/huya/11601986
+#EXTINF:-1 group-title="电影频道" tvg-name="李连杰",李连杰
+https://live.ottiptv.cc/huya/11342390
+#EXTINF:-1 group-title="电影频道" tvg-name="五福星",五福星
+https://live.ottiptv.cc/huya/11282233
+#EXTINF:-1 group-title="电影频道" tvg-name="喜    剧",喜    剧
+https://live.ottiptv.cc/huya/20969142
+#EXTINF:-1 group-title="电影频道" tvg-name="动    作",动    作
+https://live.ottiptv.cc/huya/10871113
+#EXTINF:-1 group-title="电影频道" tvg-name="香    港",香    港
+https://live.ottiptv.cc/huya/11602055
+#EXTINF:-1 group-title="电影频道" tvg-name="喜剧电影放映厅",喜剧电影放映厅
+https://live.ottiptv.cc/huya/11602031
+#EXTINF:-1 group-title="电影频道" tvg-name="悬疑放映厅",悬疑放映厅
+https://live.ottiptv.cc/huya/26355797
+#EXTINF:-1 group-title="电影频道" tvg-name="武侠电影放映厅",武侠电影放映厅
+https://live.ottiptv.cc/huya/29982611
+#EXTINF:-1 group-title="电影频道" tvg-name="战争电影放映厅",战争电影放映厅
+https://live.ottiptv.cc/huya/21059618
+#EXTINF:-1 group-title="电影频道" tvg-name="冒险电影放映厅",冒险电影放映厅
+https://live.ottiptv.cc/huya/21059566
+#EXTINF:-1 group-title="电影频道" tvg-name="阿斗归来了3",阿斗归来了3
+https://live.ottiptv.cc/huya/29982685
+#EXTINF:-1 group-title="电影频道" tvg-name="爆裂电影2",爆裂电影2
+https://live.ottiptv.cc/huya/29982678
+#EXTINF:-1 group-title="电影频道" tvg-name="惊悚电影放映厅",惊悚电影放映厅
+https://live.ottiptv.cc/huya/26355795
+#EXTINF:-1 group-title="电影频道" tvg-name="悬疑电影放映厅",悬疑电影放映厅
+https://live.ottiptv.cc/huya/29982641
+#EXTINF:-1 group-title="电影频道" tvg-name="扁豆看电影2",扁豆看电影2
+https://live.ottiptv.cc/huya/21059623
+#EXTINF:-1 group-title="电影频道" tvg-name="阿斗归来了",阿斗归来了
+https://live.ottiptv.cc/huya/13303478
+#EXTINF:-1 group-title="电影频道" tvg-name="扁豆看电影",扁豆看电影
+https://live.ottiptv.cc/huya/16028551
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1",CCTV1
+http://125.43.252.114:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1",CCTV1
+http://218.28.31.182:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2",CCTV2
+http://125.43.252.114:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2",CCTV2
+http://218.28.31.182:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3",CCTV3
+http://125.43.252.114:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3",CCTV3
+http://218.28.31.182:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4",CCTV4
+http://125.43.252.114:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4",CCTV4
+http://218.28.31.182:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5",CCTV5
+http://125.43.252.114:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5",CCTV5
+http://218.28.31.182:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+",CCTV5+
+http://218.28.31.182:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6",CCTV6
+http://125.43.252.114:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6",CCTV6
+http://218.28.31.182:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7",CCTV7
+http://125.43.252.114:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7",CCTV7
+http://218.28.31.182:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8",CCTV8
+http://125.43.252.114:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8",CCTV8
+http://218.28.31.182:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9",CCTV9
+http://125.43.252.114:9901/tsfile/live/0009_2.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9",CCTV9
+http://218.28.31.182:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10",CCTV10
+http://125.43.252.114:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10",CCTV10
+http://218.28.31.182:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11",CCTV11
+http://125.43.252.114:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11",CCTV11
+http://218.28.31.182:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12",CCTV12
+http://125.43.252.114:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12",CCTV12
+http://218.28.31.182:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13",CCTV13
+http://125.43.252.114:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13",CCTV13
+http://218.28.31.182:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14",CCTV14
+http://125.43.252.114:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14",CCTV14
+http://218.28.31.182:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15",CCTV15
+http://125.43.252.114:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15",CCTV15
+http://218.28.31.182:9901/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17",CCTV17
+http://218.28.31.182:9901/tsfile/live/0018_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视",湖南卫视
+http://125.43.252.114:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视",湖南卫视
+http://218.28.31.182:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视",浙江卫视
+http://125.43.252.114:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视",浙江卫视
+http://218.28.31.182:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视",江苏卫视
+http://125.43.252.114:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视",江苏卫视
+http://218.28.31.182:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视",北京卫视
+http://125.43.252.114:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视",北京卫视
+http://218.28.31.182:9901/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视",东方卫视
+http://125.43.252.114:9901/tsfile/live/0107_2.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视",东方卫视
+http://218.28.31.182:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视",安徽卫视
+http://125.43.252.114:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视",安徽卫视
+http://218.28.31.182:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视",广东卫视
+http://125.43.252.114:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视",广东卫视
+http://218.28.31.182:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视",深圳卫视
+http://218.28.31.182:9901/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视",辽宁卫视
+http://125.43.252.114:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视",辽宁卫视
+http://218.28.31.182:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="海南卫视",海南卫视
+http://218.28.31.182:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视",山东卫视
+http://125.43.252.114:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视",天津卫视
+http://218.28.31.182:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视",重庆卫视
+http://125.43.252.114:9901/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视",重庆卫视
+http://218.28.31.182:9901/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东南卫视",东南卫视
+http://125.43.252.114:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="东南卫视",东南卫视
+http://218.28.31.182:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视",广西卫视
+http://125.43.252.114:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视",广西卫视
+http://218.28.31.182:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视",贵州卫视
+http://125.43.252.114:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视",贵州卫视
+http://218.28.31.182:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视",河北卫视
+http://125.43.252.114:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视",河北卫视
+http://218.28.31.182:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视",黑龙江卫视
+http://125.43.252.114:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视",黑龙江卫视
+http://218.28.31.182:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视",河南卫视
+http://125.43.252.114:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视",河南卫视
+http://218.28.31.182:9901/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视",湖北卫视
+http://125.43.252.114:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视",湖北卫视
+http://218.28.31.182:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视",江西卫视
+http://125.43.252.114:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视",江西卫视
+http://218.28.31.182:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="吉林卫视",吉林卫视
+http://218.28.31.182:9901/tsfile/live/0116_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="山西卫视",山西卫视
+http://125.43.252.114:9901/tsfile/live/0118_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视",四川卫视
+http://125.43.252.114:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视",四川卫视
+http://218.28.31.182:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="云南卫视",云南卫视
+http://125.43.252.114:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="云南卫视",云南卫视
+http://218.28.31.182:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="卫视频道" tvg-name="金鹰卡通",金鹰卡通
+http://125.43.252.114:9901/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="电影频道" tvg-name="影迷电影",影迷电影
+http://218.28.31.182:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="教育频道" tvg-name="CGTN",CGTN
+http://218.28.31.182:9901/tsfile/live/0017_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南都市",河南都市
+http://125.43.252.114:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="华中地区" tvg-name="河南民生",河南民生
+http://125.43.252.114:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="乡村频道",乡村频道
+http://218.28.31.182:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="公共频道",公共频道
+http://218.28.31.182:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="山东卫生",山东卫生
+http://218.28.31.182:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="新闻频道",新闻频道
+http://218.28.31.182:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="民生频道",民生频道
+http://218.28.31.182:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="法治频道",法治频道
+http://218.28.31.182:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="电视剧频道",电视剧频道
+http://218.28.31.182:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="都市频道",都市频道
+http://218.28.31.182:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="其他频道" tvg-name="魅力音乐",魅力音乐
+http://125.43.252.114:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="4k超清" tvg-name="湖南卫视4K",湖南卫视4K
+http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="浙江卫视4K",浙江卫视4K
+http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="江苏卫视4K",江苏卫视4K
+http://iptv.cqshushu.com/migu.php?pid=js4k&token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="东方卫视4K",东方卫视4K
+http://iptv.cqshushu.com/migu.php?pid=dfws&token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="北京卫视4K",北京卫视4K
+http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="广东卫视4K",广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146?token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="深圳卫视4K",深圳卫视4K
+http://iptv.cqshushu.com/migu.php?pid=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="苏州4K",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="河北4K",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
+#EXTINF:-1 group-title="4k超清" tvg-name="CCTV4k",CCTV4k
+https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=7713409062&sign=ea441b3e272b26601127c17813dab2862c8c1dfce5ec8b48917b3468519bc05239fd46becf3573f8cb9563886f9fb33aa056bca0f284563bc370e3a62607020c15ae421078bcfe7d1a1f5c5e1e47&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+#EXTINF:-1 group-title="4k超清" tvg-name="CCTV8k",CCTV8k
+https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7713409062&sign=9c9ab7b0ba0105cc07d1f4418048c961d4a54a23bc6122b49f5fdc046b18219537530fcf654c078dad8d0bca765f412c19162735db1a737c0d5c3b10ddcbacd872f90d04a4e1c7f68d2dae623990&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
