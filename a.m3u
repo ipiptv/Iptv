@@ -176,4 +176,15 @@ CGTN,http://218.28.31.182:9901/tsfile/live/0017_1.m3u8?key=txiptv
 电视剧频道,http://218.28.31.182:9901/tsfile/live/1003_1.m3u8?key=txiptv
 都市频道,http://218.28.31.182:9901/tsfile/live/1000_1.m3u8?key=txiptv
 魅力音乐,http://125.43.252.114:9901/tsfile/live/1000_1.m3u8?key=txiptv
-
+4k超清,#genre#
+湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
+浙江卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
+江苏卫视4K,http://iptv.cqshushu.com/migu.php?pid=js4k&token=bcbd06cf0ae3d4c449769c86f17292f2
+东方卫视4K,http://iptv.cqshushu.com/migu.php?pid=dfws&token=bcbd06cf0ae3d4c449769c86f17292f2
+北京卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146?token=bcbd06cf0ae3d4c449769c86f17292f2
+深圳卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
+CCTV4k,https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=7713409062&sign=ea441b3e272b26601127c17813dab2862c8c1dfce5ec8b48917b3468519bc05239fd46becf3573f8cb9563886f9fb33aa056bca0f284563bc370e3a62607020c15ae421078bcfe7d1a1f5c5e1e47&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
+CCTV8k,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7713409062&sign=9c9ab7b0ba0105cc07d1f4418048c961d4a54a23bc6122b49f5fdc046b18219537530fcf654c078dad8d0bca765f412c19162735db1a737c0d5c3b10ddcbacd872f90d04a4e1c7f68d2dae623990&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
