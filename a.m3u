@@ -97,29 +97,17 @@ CCTV17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=7713409062&sign=229e21fc
 北京卫视,https://live.ottiptv.cc/mcp/beijing.m3u8?userid=7713409062&sign=1e0b786c28eb122eb7072879c5651cd6f46258b6c6eaa53ffe932e43209fec2baf987c35fecc023a7746c0193d5731a3d7c25f1a553f2664e29ce81924c1c16e2fca4239d7e2513e52686a3cad6de9&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
 湖南卫视,https://live.ottiptv.cc/mcp/hunan.m3u8?userid=7713409062&sign=e083f188d07a5d0d965c74356793b9c0304a2f4753d2416c0f6fbac87f74b2918f7b227299962550e22a60241c1d6d94f90e98f660aaffe0dc24fde5051d661bf62667ce8ffda592875a69e81a&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
 江苏卫视,https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=7713409062&sign=1582eea38a5bed3b3b4b76134bfa4e2c92073520b9ea866b94a737a5d3899042bdd60576429b731f66b9457a286c34076ad1d59ebc7b381f7c12a2785d7385338c42341ded5a86f1a7e3453b2c7ba8&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-4K频道,#genre#
-湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
-浙江卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864k&token=bcbd06cf0ae3d4c449769c86f17292f2
-江苏卫视4K,http://iptv.cqshushu.com/migu.php?pid=js4k&token=bcbd06cf0ae3d4c449769c86f17292f2
-东方卫视4K,http://iptv.cqshushu.com/migu.php?pid=dfws&token=bcbd06cf0ae3d4c449769c86f17292f2
-北京卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
-广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146?token=bcbd06cf0ae3d4c449769c86f17292f2
-深圳卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&token=bcbd06cf0ae3d4c449769c86f17292f2
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=bcbd06cf0ae3d4c449769c86f17292f2
-CCTV4k,https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=7713409062&sign=ea441b3e272b26601127c17813dab2862c8c1dfce5ec8b48917b3468519bc05239fd46becf3573f8cb9563886f9fb33aa056bca0f284563bc370e3a62607020c15ae421078bcfe7d1a1f5c5e1e47&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-CCTV8k,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=7713409062&sign=9c9ab7b0ba0105cc07d1f4418048c961d4a54a23bc6122b49f5fdc046b18219537530fcf654c078dad8d0bca765f412c19162735db1a737c0d5c3b10ddcbacd872f90d04a4e1c7f68d2dae623990&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
 电影频道,#genre#
 周星驰,https://live.ottiptv.cc/huya/11342412
 林正英,https://live.ottiptv.cc/huya/11342421
-成    龙,https://live.ottiptv.cc/huya/11342386
-沈    腾,https://live.ottiptv.cc/huya/880261
+成龙,https://live.ottiptv.cc/huya/11342386
+沈腾,https://live.ottiptv.cc/huya/880261
 王宝强,https://live.ottiptv.cc/huya/11601986
 李连杰,https://live.ottiptv.cc/huya/11342390
 五福星,https://live.ottiptv.cc/huya/11282233
-喜    剧,https://live.ottiptv.cc/huya/20969142
-动    作,https://live.ottiptv.cc/huya/10871113
-香    港,https://live.ottiptv.cc/huya/11602055
+喜剧,https://live.ottiptv.cc/huya/20969142
+动作,https://live.ottiptv.cc/huya/10871113
+香港,https://live.ottiptv.cc/huya/11602055
 经典香港电影,https://mgtv.ottiptv.cc/mg/625703337.m3u8?userid=7713409062&sign=cdd6714720dd657476ef412baa20e4efd9193e7cee2da514545bbb92d845993e7a9fb8c5640eae0d358d2b4961fa66e1f29d458ce090b675794d1bf1bd75d94336fc58e10712868aed3165100b1520565d&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
 抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=7713409062&sign=5b18fdc8f52f6add90c21a335730fdd2d00c8d32637cdaee6016983772c4012ddffe4442647aa6ca782af0c96f43a5c95c2239e87c1f7f8618bdf03205b20249537376ef24c3c5f2365f93af84c16525bb&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
 新片放映厅,https://mgtv.ottiptv.cc/mg/619495952.m3u8?userid=7713409062&sign=03791213128176f3f1d20a61cca0c4424ee25c47a0e848a06dbc588fcc04da4707ac21c8b0a727f3155c6c9918b30444bf8bef9b26a6c2751333d1a2887afc95181d4ade849db5d3fe6ca273e0edcf671f&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
