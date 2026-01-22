@@ -125,9 +125,6 @@ https://live.ottiptv.cc/mcp/gansu.m3u8?userid=7713409062&sign=0cd9052a621afbb56e
 https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=7713409062&sign=7c24ef8ee5f1bd2d625979326bb855b0687b5b933b1c75e8f6035b34e7509c619266ca711a63521f74cb83c63d4a4447ed49e3ed54fdd5623cef138adc7d058c785674cb71cc510221c3efe6cdee&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视-MCP
 https://live.ottiptv.cc/mcp/bintuan.m3u8?userid=7713409062&sign=f9332c07748ecc62d194f3a0d82d4d9e92952423e394ecbee9704ef7d0221b6811875316bf25eba6fda7ef5a1c4bc4ac7d1d9ff0a526eb6b111341415dc08fac87dcb93f4bcbf4e09f568ca7e3ebb8&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://11.112114.xyz/logo/国学频道.png" group-title="卫视",国学频道-MCP
-https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=7713409062&sign=e73174f3fa191170bc89bcc6585638aaaf5b7b12f88e766225ba8fa1775e3d516f0ffaf8c6e772c57b098819bd8d6c16230a87fc1620416873ac8da925d372c79e4f7cce5ca3faa9dfb2e05001c6&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
-https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=7713409062&sign=3da97a7c6aeeaedb90d6da1dba740428fdcd42c3ecaeae6eca48d2a39f09fdf83af41d49e17cb970d9ed62ee2425a667f422d77d366ebfe4ee568094b3f65019228b7ce6defa694e464d6d754c3d&auth_token=ff1a1793f7f9eea425e2c6952f5d85a5
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg?1445851392" group-title="一起看", 武林萌主唐小姐
 https://live.ottiptv.cc/huya/11336726
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
